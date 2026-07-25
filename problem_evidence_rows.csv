@@ -1,0 +1,41 @@
+id,source,cleaned_question,question_type,source_url,evidence_text,evidence_status,evidence_notes
+12,Reddit,What are important factors to consider before investing in Digital Tokens?,factual,https://www.reddit.com/r/PersonalFinanceCanada/comments/qkoqpf/should_crypto_be_part_of_my_portfolio/,"Thanks to you guys, I started investing one year ago and have around 110k in my TFSA and RRSP.",insufficient,This text does not directly address the question of factors to consider before investing in Digital Tokens.
+33,CRA,At what point should contributions be made to a Registered Retirement Savings Plan (RRSP)?,open_ended,,,error,"{
+  ""source_url"": ""https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/registered-retirement-savings-plan-rrsp.html"",
+  ""evidence_text"": ""You generally have to pay tax when you receive payments from the plan."",
+  ""evidence_status"": ""insufficient"",
+  ""notes"": ""This text does not directly answer the question about when to make contributions to an RRSP.""
+}
+
+{
+  ""source_url"": ""https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/setting-rrsp.html"",
+  ""evidence_text"": ""You make your RRSP contributions directly to the RRSP issuer."",
+  ""evidence_status"": ""found"",
+  ""notes"": ""This text directly answers the question about when to make contributions to an RRSP.""
+}
+
+{
+  ""source_url"": ""https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/benefits-allowances/benefits-allowances-chart/saving-pensions.html"",
+  ""evidence_text"": ""Non-taxable situations You withhold contributions from the salary If you withhold contributions to any savings or pension plan from your employee’s salary, the benefit is not taxable."",
+  ""evidence_status"": ""insufficient"",
+  ""notes"": ""This text does not directly answer the question about when to make contributions to an RRSP.""
+}
+
+{
+  ""source_url"": ""https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/important-dates-rrsp-rrif-rdsp.html"",
+  ""evidence_text"": ""March 2, 2026 is the deadline for contributing to an RRSP for the 2025 tax year."",
+  ""evidence_status"": ""found"",
+  ""notes"": ""This text directly answers the question about when to make contributions to an RRSP.""
+}
+
+{
+  ""source_url"": ""https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/contributing-a-rrsp-prpp/questions-answers-about-contributing-rrsp.html"",
+  ""evidence_text"": ""Can a deceased individual's legal representative contribute to the individual's RRSP after the date of death? No."",
+  ""evidence_status"": ""insufficient"",
+  ""notes"": ""This text does not directly answer the question about when to make contributions to an RRSP.""
+}"
+38,Reddit,How does one effectively invest personal funds in legitimate investment opportunities?,open_ended,https://www.reddit.com/r/PersonalFinanceCanada/comments/18bbuzf/36_yo_with_30k_to_invest_for_first_time/,The site owner hides the web page description.,insufficient,This source does not provide any relevant information about investing personal funds in legitimate investment opportunities.
+45,Reddit,Are there Environmentally Conscious Exchange-Traded Funds (ETFs) available in Canada?,open_ended,https://www.reddit.com/r/PersonalFinanceCanada/comments/5lp6a3/are_there_any_canadian_socially_responsible_green/,"There are so many factors at play when anything goes against the grain. If you want safe returns, I'd suggest you find a few blue-chip companies whose practices you approve of and are expected to bring in modest returns and invest in them.",insufficient,This text does not directly answer the question about Environmentally Conscious Exchange-Traded Funds (ETFs) available in Canada.
+66,Reddit,What essential information should be considered before investing in Guaranteed Investment Certificates (GICs) in Canada?,discard,,,discard,Question marked as discard.
+81,Reddit,What is essential to understand about trailing commissions prior to investment?,factual,,,insufficient,No search results found.
+115,OSC,Is it possible to verify if a financial advisor is properly registered in Canada?,open_ended,,,error,�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	+�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�	�
