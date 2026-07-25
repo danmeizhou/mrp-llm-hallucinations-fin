@@ -1,0 +1,5 @@
+hallucination_label,count,percentage
+partially_supported,47,37.3
+supported,40,31.75
+hallucinated,28,22.22
+contradictory,11,8.73
