@@ -1,0 +1,12 @@
+feature,mean_abs_shap
+retrieval_similarity,0.0593
+readability_fk,0.0465
+evidence_length,0.0445
+ambiguity,0.0301
+type_factual,0.0232
+question_length,0.0231
+reasoning_depth,0.012
+source_cra,0.0042
+topic_regulation,0.0016
+numerical_content,0.0
+source_osc,0.0

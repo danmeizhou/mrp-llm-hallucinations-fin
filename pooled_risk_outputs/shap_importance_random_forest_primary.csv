@@ -1,0 +1,13 @@
+feature,mean_abs_shap
+model_llama70b,0.0609
+model_gptoss20b,0.0491
+readability_fk,0.0304
+ambiguity,0.0174
+evidence_length,0.0129
+type_factual,0.0117
+retrieval_similarity,0.0102
+reasoning_depth,0.0095
+question_length,0.0055
+numerical_content,0.0032
+source_official,0.0024
+topic_regulation,0.0016
