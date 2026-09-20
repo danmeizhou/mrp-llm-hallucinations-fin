@@ -1,0 +1,10 @@
+{
+  "seed": 42,
+  "sklearn_version": "1.9.1",
+  "n": 378,
+  "events": 46,
+  "source_commit": "90e4cba3eafce06de161d0e3aae816ffc042683c",
+  "pseudo_r2": 0.31422435251739855,
+  "auc_summary": "pooled out-of-fold predictions",
+  "bootstrap": "1000 question-cluster resamples of fixed OOF predictions; no refitting"
+}

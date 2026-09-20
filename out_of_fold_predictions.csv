@@ -1,0 +1,3151 @@
+analysis,classifier,row,id,model,y,probability,fold
+Full,LR,0,1,llama-3.1-8b-instant,0,0.414487722514,0
+Full,LR,1,2,llama-3.1-8b-instant,0,0.565067094516,4
+Full,LR,2,3,llama-3.1-8b-instant,0,0.176013158784,1
+Full,LR,3,4,llama-3.1-8b-instant,1,0.507950717671,0
+Full,LR,4,5,llama-3.1-8b-instant,0,0.062713189647,1
+Full,LR,5,6,llama-3.1-8b-instant,0,0.149779039607,2
+Full,LR,6,7,llama-3.1-8b-instant,0,0.215270403909,2
+Full,LR,7,9,llama-3.1-8b-instant,0,0.283719251916,3
+Full,LR,8,10,llama-3.1-8b-instant,0,0.220767902328,2
+Full,LR,9,13,llama-3.1-8b-instant,1,0.340372781477,1
+Full,LR,10,14,llama-3.1-8b-instant,0,0.211252541401,1
+Full,LR,11,16,llama-3.1-8b-instant,0,0.376526578166,3
+Full,LR,12,17,llama-3.1-8b-instant,1,0.091143200918,1
+Full,LR,13,20,llama-3.1-8b-instant,0,0.296434327095,4
+Full,LR,14,22,llama-3.1-8b-instant,0,0.100210615496,4
+Full,LR,15,23,llama-3.1-8b-instant,1,0.19296237861,3
+Full,LR,16,24,llama-3.1-8b-instant,1,0.205880272057,0
+Full,LR,17,25,llama-3.1-8b-instant,0,0.112850056701,0
+Full,LR,18,26,llama-3.1-8b-instant,1,0.23288156334,2
+Full,LR,19,27,llama-3.1-8b-instant,0,0.281034747366,0
+Full,LR,20,28,llama-3.1-8b-instant,1,0.234557953472,1
+Full,LR,21,29,llama-3.1-8b-instant,0,0.202568188348,0
+Full,LR,22,30,llama-3.1-8b-instant,0,0.416431689958,1
+Full,LR,23,31,llama-3.1-8b-instant,1,0.40177444825,1
+Full,LR,24,32,llama-3.1-8b-instant,1,0.21798425969,4
+Full,LR,25,34,llama-3.1-8b-instant,0,0.174945014557,3
+Full,LR,26,35,llama-3.1-8b-instant,0,0.333691821074,4
+Full,LR,27,37,llama-3.1-8b-instant,1,0.233119934851,2
+Full,LR,28,39,llama-3.1-8b-instant,1,0.367367306245,3
+Full,LR,29,40,llama-3.1-8b-instant,0,0.776268975939,4
+Full,LR,30,41,llama-3.1-8b-instant,0,0.134152687482,0
+Full,LR,31,42,llama-3.1-8b-instant,0,0.285052918816,3
+Full,LR,32,43,llama-3.1-8b-instant,1,0.201078374143,0
+Full,LR,33,44,llama-3.1-8b-instant,0,0.095884522609,1
+Full,LR,34,46,llama-3.1-8b-instant,1,0.226259156627,3
+Full,LR,35,47,llama-3.1-8b-instant,0,0.162998092404,0
+Full,LR,36,48,llama-3.1-8b-instant,0,0.172067580118,2
+Full,LR,37,49,llama-3.1-8b-instant,0,0.291273107731,2
+Full,LR,38,50,llama-3.1-8b-instant,1,0.300695572979,1
+Full,LR,39,52,llama-3.1-8b-instant,0,0.187210828262,4
+Full,LR,40,53,llama-3.1-8b-instant,0,0.172208422809,2
+Full,LR,41,54,llama-3.1-8b-instant,0,0.286953252859,4
+Full,LR,42,55,llama-3.1-8b-instant,0,0.238513469004,3
+Full,LR,43,56,llama-3.1-8b-instant,0,0.067545096904,4
+Full,LR,44,57,llama-3.1-8b-instant,1,0.140742413486,0
+Full,LR,45,58,llama-3.1-8b-instant,0,0.158584405648,2
+Full,LR,46,59,llama-3.1-8b-instant,0,0.140262839273,4
+Full,LR,47,61,llama-3.1-8b-instant,1,0.154204919978,0
+Full,LR,48,62,llama-3.1-8b-instant,1,0.301973043557,4
+Full,LR,49,63,llama-3.1-8b-instant,0,0.244410013128,3
+Full,LR,50,64,llama-3.1-8b-instant,0,0.453968674739,3
+Full,LR,51,67,llama-3.1-8b-instant,1,0.210185621537,2
+Full,LR,52,68,llama-3.1-8b-instant,1,0.363811926894,0
+Full,LR,53,69,llama-3.1-8b-instant,0,0.542857457561,0
+Full,LR,54,70,llama-3.1-8b-instant,0,0.188900839676,1
+Full,LR,55,71,llama-3.1-8b-instant,1,0.571868780893,3
+Full,LR,56,72,llama-3.1-8b-instant,0,0.503514934102,1
+Full,LR,57,73,llama-3.1-8b-instant,0,0.263078025134,4
+Full,LR,58,74,llama-3.1-8b-instant,0,0.138988502873,0
+Full,LR,59,75,llama-3.1-8b-instant,1,0.233582602905,2
+Full,LR,60,76,llama-3.1-8b-instant,0,0.285036447129,1
+Full,LR,61,77,llama-3.1-8b-instant,1,0.247251568484,3
+Full,LR,62,78,llama-3.1-8b-instant,0,0.266100662103,2
+Full,LR,63,79,llama-3.1-8b-instant,0,0.330418911854,1
+Full,LR,64,80,llama-3.1-8b-instant,0,0.114320392148,2
+Full,LR,65,82,llama-3.1-8b-instant,1,0.537920087368,4
+Full,LR,66,83,llama-3.1-8b-instant,1,0.653711836173,2
+Full,LR,67,84,llama-3.1-8b-instant,0,0.079555191114,2
+Full,LR,68,85,llama-3.1-8b-instant,1,0.152823151787,0
+Full,LR,69,86,llama-3.1-8b-instant,1,0.440497944435,1
+Full,LR,70,87,llama-3.1-8b-instant,0,0.144041780601,0
+Full,LR,71,88,llama-3.1-8b-instant,0,0.264814477433,3
+Full,LR,72,89,llama-3.1-8b-instant,0,0.181887907659,1
+Full,LR,73,90,llama-3.1-8b-instant,1,0.18478678106,2
+Full,LR,74,91,llama-3.1-8b-instant,1,0.419736503975,3
+Full,LR,75,92,llama-3.1-8b-instant,0,0.216075488924,0
+Full,LR,76,93,llama-3.1-8b-instant,1,0.213250736578,4
+Full,LR,77,94,llama-3.1-8b-instant,0,0.211334962754,4
+Full,LR,78,95,llama-3.1-8b-instant,0,0.747316342705,4
+Full,LR,79,96,llama-3.1-8b-instant,0,0.220296338028,2
+Full,LR,80,97,llama-3.1-8b-instant,0,0.217647725646,0
+Full,LR,81,99,llama-3.1-8b-instant,0,0.223306589973,4
+Full,LR,82,100,llama-3.1-8b-instant,0,0.089232401031,0
+Full,LR,83,101,llama-3.1-8b-instant,0,0.49162783175,1
+Full,LR,84,102,llama-3.1-8b-instant,0,0.097246408661,2
+Full,LR,85,103,llama-3.1-8b-instant,0,0.441293947916,0
+Full,LR,86,104,llama-3.1-8b-instant,1,0.280117786213,4
+Full,LR,87,106,llama-3.1-8b-instant,0,0.158873533055,2
+Full,LR,88,107,llama-3.1-8b-instant,0,0.173805963164,2
+Full,LR,89,108,llama-3.1-8b-instant,0,0.142310489314,1
+Full,LR,90,109,llama-3.1-8b-instant,0,0.265883408477,1
+Full,LR,91,111,llama-3.1-8b-instant,0,0.080706476292,0
+Full,LR,92,112,llama-3.1-8b-instant,0,0.125907942741,0
+Full,LR,93,113,llama-3.1-8b-instant,1,0.184242956563,4
+Full,LR,94,114,llama-3.1-8b-instant,0,0.090293212446,3
+Full,LR,95,116,llama-3.1-8b-instant,1,0.211583219018,0
+Full,LR,96,117,llama-3.1-8b-instant,1,0.300613725314,2
+Full,LR,97,118,llama-3.1-8b-instant,0,0.231032670855,3
+Full,LR,98,119,llama-3.1-8b-instant,0,0.261658676919,3
+Full,LR,99,120,llama-3.1-8b-instant,1,0.434945209967,2
+Full,LR,100,121,llama-3.1-8b-instant,0,0.35422375652,0
+Full,LR,101,122,llama-3.1-8b-instant,0,0.108462568071,1
+Full,LR,102,124,llama-3.1-8b-instant,0,0.393646362999,1
+Full,LR,103,126,llama-3.1-8b-instant,0,0.237516367421,3
+Full,LR,104,127,llama-3.1-8b-instant,0,0.45098678411,1
+Full,LR,105,128,llama-3.1-8b-instant,1,0.175180179097,3
+Full,LR,106,129,llama-3.1-8b-instant,0,0.299986800583,2
+Full,LR,107,130,llama-3.1-8b-instant,0,0.194606673195,3
+Full,LR,108,132,llama-3.1-8b-instant,1,0.163627802831,2
+Full,LR,109,133,llama-3.1-8b-instant,1,0.315559561716,1
+Full,LR,110,134,llama-3.1-8b-instant,0,0.5853206005,3
+Full,LR,111,135,llama-3.1-8b-instant,0,0.25432304215,3
+Full,LR,112,136,llama-3.1-8b-instant,0,0.136573951182,3
+Full,LR,113,137,llama-3.1-8b-instant,0,0.171139658728,4
+Full,LR,114,138,llama-3.1-8b-instant,0,0.091960665295,4
+Full,LR,115,139,llama-3.1-8b-instant,0,0.095175649275,4
+Full,LR,116,140,llama-3.1-8b-instant,0,0.322613978441,1
+Full,LR,117,141,llama-3.1-8b-instant,1,0.364803257172,4
+Full,LR,118,142,llama-3.1-8b-instant,1,0.241681795826,1
+Full,LR,119,143,llama-3.1-8b-instant,0,0.181413735412,2
+Full,LR,120,144,llama-3.1-8b-instant,0,0.217234033305,4
+Full,LR,121,145,llama-3.1-8b-instant,0,0.141414771037,3
+Full,LR,122,146,llama-3.1-8b-instant,0,0.051630705279,1
+Full,LR,123,147,llama-3.1-8b-instant,0,0.666769664961,0
+Full,LR,124,148,llama-3.1-8b-instant,0,0.295570334099,4
+Full,LR,125,149,llama-3.1-8b-instant,0,0.610481576093,0
+Full,LR,126,1,llama-3.3-70b-versatile,0,0.053770594962,0
+Full,LR,127,2,llama-3.3-70b-versatile,0,0.094228746879,4
+Full,LR,128,3,llama-3.3-70b-versatile,0,0.016967333051,1
+Full,LR,129,4,llama-3.3-70b-versatile,0,0.07652622322,0
+Full,LR,130,5,llama-3.3-70b-versatile,0,0.005377315499,1
+Full,LR,131,6,llama-3.3-70b-versatile,0,0.012402541779,2
+Full,LR,132,7,llama-3.3-70b-versatile,0,0.01918071493,2
+Full,LR,133,9,llama-3.3-70b-versatile,0,0.031498009959,3
+Full,LR,134,10,llama-3.3-70b-versatile,0,0.019796876811,2
+Full,LR,135,13,llama-3.3-70b-versatile,0,0.040025496532,1
+Full,LR,136,14,llama-3.3-70b-versatile,0,0.021182941782,1
+Full,LR,137,16,llama-3.3-70b-versatile,0,0.047242942375,3
+Full,LR,138,17,llama-3.3-70b-versatile,0,0.008037938017,1
+Full,LR,139,20,llama-3.3-70b-versatile,0,0.032636289258,4
+Full,LR,140,22,llama-3.3-70b-versatile,0,0.008839021512,4
+Full,LR,141,23,llama-3.3-70b-versatile,0,0.019253630961,3
+Full,LR,142,24,llama-3.3-70b-versatile,0,0.020387124268,0
+Full,LR,143,25,llama-3.3-70b-versatile,0,0.01010800163,0
+Full,LR,144,26,llama-3.3-70b-versatile,0,0.021182915287,2
+Full,LR,145,27,llama-3.3-70b-versatile,0,0.030423347928,0
+Full,LR,146,28,llama-3.3-70b-versatile,0,0.024162188323,1
+Full,LR,147,29,llama-3.3-70b-versatile,0,0.019984052735,0
+Full,LR,148,30,llama-3.3-70b-versatile,0,0.054516361546,1
+Full,LR,149,31,llama-3.3-70b-versatile,0,0.05147393816,1
+Full,LR,150,32,llama-3.3-70b-versatile,0,0.021832821177,4
+Full,LR,151,34,llama-3.3-70b-versatile,0,0.017111961667,3
+Full,LR,152,35,llama-3.3-70b-versatile,0,0.038555109787,4
+Full,LR,153,37,llama-3.3-70b-versatile,0,0.021210588959,2
+Full,LR,154,39,llama-3.3-70b-versatile,0,0.045509048801,3
+Full,LR,155,40,llama-3.3-70b-versatile,0,0.21742094151,4
+Full,LR,156,41,llama-3.3-70b-versatile,0,0.012284644878,0
+Full,LR,157,42,llama-3.3-70b-versatile,0,0.031698539506,3
+Full,LR,158,43,llama-3.3-70b-versatile,0,0.019803728831,0
+Full,LR,159,44,llama-3.3-70b-versatile,0,0.008496491662,1
+Full,LR,160,46,llama-3.3-70b-versatile,0,0.02344680216,3
+Full,LR,161,47,llama-3.3-70b-versatile,0,0.015391899379,0
+Full,LR,162,48,llama-3.3-70b-versatile,0,0.01459918395,2
+Full,LR,163,49,llama-3.3-70b-versatile,0,0.028463741831,2
+Full,LR,164,50,llama-3.3-70b-versatile,0,0.033577515337,1
+Full,LR,165,52,llama-3.3-70b-versatile,0,0.018109368356,4
+Full,LR,166,53,llama-3.3-70b-versatile,0,0.014613408859,2
+Full,LR,167,54,llama-3.3-70b-versatile,0,0.031218088067,4
+Full,LR,168,55,llama-3.3-70b-versatile,0,0.025072637037,3
+Full,LR,169,56,llama-3.3-70b-versatile,0,0.005766885739,4
+Full,LR,170,57,llama-3.3-70b-versatile,0,0.012977805894,0
+Full,LR,171,58,llama-3.3-70b-versatile,0,0.013257609084,2
+Full,LR,172,59,llama-3.3-70b-versatile,0,0.012895177703,4
+Full,LR,173,61,llama-3.3-70b-versatile,0,0.014424334489,0
+Full,LR,174,62,llama-3.3-70b-versatile,0,0.033480633954,4
+Full,LR,175,63,llama-3.3-70b-versatile,0,0.025871761814,3
+Full,LR,176,64,llama-3.3-70b-versatile,0,0.063900934642,3
+Full,LR,177,67,llama-3.3-70b-versatile,0,0.018617769901,2
+Full,LR,178,68,llama-3.3-70b-versatile,0,0.043890620945,0
+Full,LR,179,69,llama-3.3-70b-versatile,0,0.087028980868,0
+Full,LR,180,70,llama-3.3-70b-versatile,0,0.018470726062,1
+Full,LR,181,71,llama-3.3-70b-versatile,0,0.098832972012,3
+Full,LR,182,72,llama-3.3-70b-versatile,0,0.075739322646,1
+Full,LR,183,73,llama-3.3-70b-versatile,0,0.027791352089,4
+Full,LR,184,74,llama-3.3-70b-versatile,0,0.01279237449,0
+Full,LR,185,75,llama-3.3-70b-versatile,0,0.021264346931,2
+Full,LR,186,76,llama-3.3-70b-versatile,0,0.031208130424,1
+Full,LR,187,77,llama-3.3-70b-versatile,0,0.026260857038,3
+Full,LR,188,78,llama-3.3-70b-versatile,0,0.025196376832,2
+Full,LR,189,79,llama-3.3-70b-versatile,0,0.038344409359,1
+Full,LR,190,80,llama-3.3-70b-versatile,0,0.009117602919,2
+Full,LR,191,82,llama-3.3-70b-versatile,0,0.085267209655,4
+Full,LR,192,83,llama-3.3-70b-versatile,1,0.118611688575,2
+Full,LR,193,84,llama-3.3-70b-versatile,0,0.006123709805,2
+Full,LR,194,85,llama-3.3-70b-versatile,0,0.014273945894,0
+Full,LR,195,86,llama-3.3-70b-versatile,0,0.059810621361,1
+Full,LR,196,87,llama-3.3-70b-versatile,0,0.013328498766,0
+Full,LR,197,88,llama-3.3-70b-versatile,0,0.028725258391,3
+Full,LR,198,89,llama-3.3-70b-versatile,0,0.017647338463,1
+Full,LR,199,90,llama-3.3-70b-versatile,0,0.015901920294,2
+Full,LR,200,91,llama-3.3-70b-versatile,0,0.0560624197,3
+Full,LR,201,92,llama-3.3-70b-versatile,0,0.021647090779,0
+Full,LR,202,93,llama-3.3-70b-versatile,0,0.021243017123,4
+Full,LR,203,94,llama-3.3-70b-versatile,0,0.021006121366,4
+Full,LR,204,95,llama-3.3-70b-versatile,0,0.19147351394,4
+Full,LR,205,96,llama-3.3-70b-versatile,0,0.019743713535,2
+Full,LR,206,97,llama-3.3-70b-versatile,0,0.021844023432,0
+Full,LR,207,99,llama-3.3-70b-versatile,0,0.022503712292,4
+Full,LR,208,100,llama-3.3-70b-versatile,0,0.00780342869,0
+Full,LR,209,101,llama-3.3-70b-versatile,0,0.072476991909,1
+Full,LR,210,102,llama-3.3-70b-versatile,0,0.007620677002,2
+Full,LR,211,103,llama-3.3-70b-versatile,0,0.059623710951,0
+Full,LR,212,104,llama-3.3-70b-versatile,0,0.030216297921,4
+Full,LR,213,106,llama-3.3-70b-versatile,0,0.013285963715,2
+Full,LR,214,107,llama-3.3-70b-versatile,0,0.014775068765,2
+Full,LR,215,108,llama-3.3-70b-versatile,0,0.013229509437,1
+Full,LR,216,109,llama-3.3-70b-versatile,0,0.028432811857,1
+Full,LR,217,111,llama-3.3-70b-versatile,0,0.006998049725,0
+Full,LR,218,112,llama-3.3-70b-versatile,0,0.011430777632,0
+Full,LR,219,113,llama-3.3-70b-versatile,0,0.017763689661,4
+Full,LR,220,114,llama-3.3-70b-versatile,0,0.00808361839,3
+Full,LR,221,116,llama-3.3-70b-versatile,0,0.021088302182,0
+Full,LR,222,117,llama-3.3-70b-versatile,0,0.029730059498,2
+Full,LR,223,118,llama-3.3-70b-versatile,0,0.024074606634,3
+Full,LR,224,119,llama-3.3-70b-versatile,0,0.028274734235,3
+Full,LR,225,120,llama-3.3-70b-versatile,0,0.05201821952,2
+Full,LR,226,121,llama-3.3-70b-versatile,0,0.042174947368,0
+Full,LR,227,122,llama-3.3-70b-versatile,0,0.009734479451,1
+Full,LR,228,124,llama-3.3-70b-versatile,0,0.049842152524,1
+Full,LR,229,126,llama-3.3-70b-versatile,0,0.024938599034,3
+Full,LR,230,127,llama-3.3-70b-versatile,0,0.062243213462,1
+Full,LR,231,128,llama-3.3-70b-versatile,0,0.017139371281,3
+Full,LR,232,129,llama-3.3-70b-versatile,0,0.029644113197,2
+Full,LR,233,130,llama-3.3-70b-versatile,0,0.019453377769,3
+Full,LR,234,132,llama-3.3-70b-versatile,0,0.013754788594,2
+Full,LR,235,133,llama-3.3-70b-versatile,0,0.035915471384,1
+Full,LR,236,134,llama-3.3-70b-versatile,0,0.103856992029,3
+Full,LR,237,135,llama-3.3-70b-versatile,0,0.027240650324,3
+Full,LR,238,136,llama-3.3-70b-versatile,0,0.012820819495,3
+Full,LR,239,137,llama-3.3-70b-versatile,0,0.016264281136,4
+Full,LR,240,138,llama-3.3-70b-versatile,0,0.008044090399,4
+Full,LR,241,139,llama-3.3-70b-versatile,0,0.008352300438,4
+Full,LR,242,140,llama-3.3-70b-versatile,0,0.037056839562,1
+Full,LR,243,141,llama-3.3-70b-versatile,0,0.043965415195,4
+Full,LR,244,142,llama-3.3-70b-versatile,0,0.02510561139,1
+Full,LR,245,143,llama-3.3-70b-versatile,0,0.015552837174,2
+Full,LR,246,144,llama-3.3-70b-versatile,0,0.021738913758,4
+Full,LR,247,145,llama-3.3-70b-versatile,0,0.013343034813,3
+Full,LR,248,146,llama-3.3-70b-versatile,0,0.004379707297,1
+Full,LR,249,147,llama-3.3-70b-versatile,0,0.13839276259,0
+Full,LR,250,148,llama-3.3-70b-versatile,0,0.032505644104,4
+Full,LR,251,149,llama-3.3-70b-versatile,0,0.111751137985,0
+Full,LR,252,1,gpt-oss-20b,0,0.105804774454,0
+Full,LR,253,2,gpt-oss-20b,0,0.156218206238,4
+Full,LR,254,3,gpt-oss-20b,0,0.034648403339,1
+Full,LR,255,4,gpt-oss-20b,0,0.147156535754,0
+Full,LR,256,5,gpt-oss-20b,1,0.011117418587,1
+Full,LR,257,6,gpt-oss-20b,0,0.037028876091,2
+Full,LR,258,7,gpt-oss-20b,0,0.056495800028,2
+Full,LR,259,9,gpt-oss-20b,0,0.054591466052,3
+Full,LR,260,10,gpt-oss-20b,0,0.058239495301,2
+Full,LR,261,13,gpt-oss-20b,0,0.079784520056,1
+Full,LR,262,14,gpt-oss-20b,0,0.043064506894,1
+Full,LR,263,16,gpt-oss-20b,0,0.08091569254,3
+Full,LR,264,17,gpt-oss-20b,0,0.016570848263,1
+Full,LR,265,20,gpt-oss-20b,0,0.056640222562,4
+Full,LR,266,22,gpt-oss-20b,0,0.015622774578,4
+Full,LR,267,23,gpt-oss-20b,0,0.033682057925,3
+Full,LR,268,24,gpt-oss-20b,0,0.041533904275,0
+Full,LR,269,25,gpt-oss-20b,0,0.020819240306,0
+Full,LR,270,26,gpt-oss-20b,0,0.062146372224,2
+Full,LR,271,27,gpt-oss-20b,0,0.061328587727,0
+Full,LR,272,28,gpt-oss-20b,0,0.0489672986,1
+Full,LR,273,29,gpt-oss-20b,0,0.040730125418,0
+Full,LR,274,30,gpt-oss-20b,0,0.107064392993,1
+Full,LR,275,31,gpt-oss-20b,0,0.101403915074,1
+Full,LR,276,32,gpt-oss-20b,0,0.038204635847,4
+Full,LR,277,34,gpt-oss-20b,0,0.029984516896,3
+Full,LR,278,35,gpt-oss-20b,0,0.066612558647,4
+Full,LR,279,37,gpt-oss-20b,0,0.062224159151,2
+Full,LR,280,39,gpt-oss-20b,0,0.078047190715,3
+Full,LR,281,40,gpt-oss-20b,1,0.330851074139,4
+Full,LR,282,41,gpt-oss-20b,0,0.025243607013,0
+Full,LR,283,42,gpt-oss-20b,1,0.054930679524,3
+Full,LR,284,43,gpt-oss-20b,0,0.04037031303,0
+Full,LR,285,44,gpt-oss-20b,0,0.017507601454,1
+Full,LR,286,46,gpt-oss-20b,0,0.04088653808,3
+Full,LR,287,47,gpt-oss-20b,0,0.031524061324,0
+Full,LR,288,48,gpt-oss-20b,0,0.043395492061,2
+Full,LR,289,49,gpt-oss-20b,0,0.082322681281,2
+Full,LR,290,50,gpt-oss-20b,0,0.067381059308,1
+Full,LR,291,52,gpt-oss-20b,0,0.03177978438,4
+Full,LR,292,53,gpt-oss-20b,0,0.043436538233,2
+Full,LR,293,54,gpt-oss-20b,0,0.054237419766,4
+Full,LR,294,55,gpt-oss-20b,0,0.043667594303,3
+Full,LR,295,56,gpt-oss-20b,0,0.010217147483,4
+Full,LR,296,57,gpt-oss-20b,0,0.026648249593,0
+Full,LR,297,58,gpt-oss-20b,0,0.039513825004,2
+Full,LR,298,59,gpt-oss-20b,0,0.02272058058,4
+Full,LR,299,61,gpt-oss-20b,0,0.029572855819,0
+Full,LR,300,62,gpt-oss-20b,0,0.058068303452,4
+Full,LR,301,63,gpt-oss-20b,0,0.045032009448,3
+Full,LR,302,64,gpt-oss-20b,0,0.108099669075,3
+Full,LR,303,67,gpt-oss-20b,0,0.054898974725,2
+Full,LR,304,68,gpt-oss-20b,0,0.087245428617,0
+Full,LR,305,69,gpt-oss-20b,0,0.165614440771,0
+Full,LR,306,70,gpt-oss-20b,0,0.037658414908,1
+Full,LR,307,71,gpt-oss-20b,1,0.162986509901,3
+Full,LR,308,72,gpt-oss-20b,0,0.145593949733,1
+Full,LR,309,73,gpt-oss-20b,0,0.048410169424,4
+Full,LR,310,74,gpt-oss-20b,0,0.026272689403,0
+Full,LR,311,75,gpt-oss-20b,0,0.062375241194,2
+Full,LR,312,76,gpt-oss-20b,0,0.06278129734,1
+Full,LR,313,77,gpt-oss-20b,0,0.045695745571,3
+Full,LR,314,78,gpt-oss-20b,0,0.073339530904,2
+Full,LR,315,79,gpt-oss-20b,0,0.076566727065,1
+Full,LR,316,80,gpt-oss-20b,0,0.027402380607,2
+Full,LR,317,82,gpt-oss-20b,0,0.142287333643,4
+Full,LR,318,83,gpt-oss-20b,0,0.291813022664,2
+Full,LR,319,84,gpt-oss-20b,0,0.018516621606,2
+Full,LR,320,85,gpt-oss-20b,0,0.02926921864,0
+Full,LR,321,86,gpt-oss-20b,0,0.116831182605,1
+Full,LR,322,87,gpt-oss-20b,0,0.027358112914,0
+Full,LR,323,88,gpt-oss-20b,0,0.049890532072,3
+Full,LR,324,89,gpt-oss-20b,0,0.036011060601,1
+Full,LR,325,90,gpt-oss-20b,0,0.047144885807,2
+Full,LR,326,91,gpt-oss-20b,0,0.095391934847,3
+Full,LR,327,92,gpt-oss-20b,0,0.044042028527,0
+Full,LR,328,93,gpt-oss-20b,0,0.037189369565,4
+Full,LR,329,94,gpt-oss-20b,0,0.036781327613,4
+Full,LR,330,95,gpt-oss-20b,0,0.2964954249,4
+Full,LR,331,96,gpt-oss-20b,0,0.058089214747,2
+Full,LR,332,97,gpt-oss-20b,0,0.044433444313,0
+Full,LR,333,99,gpt-oss-20b,0,0.039358366777,4
+Full,LR,334,100,gpt-oss-20b,0,0.016112309237,0
+Full,LR,335,101,gpt-oss-20b,0,0.139777796288,1
+Full,LR,336,102,gpt-oss-20b,0,0.022973063659,2
+Full,LR,337,103,gpt-oss-20b,0,0.116623884466,0
+Full,LR,338,104,gpt-oss-20b,0,0.052536997223,4
+Full,LR,339,106,gpt-oss-20b,0,0.039596081552,2
+Full,LR,340,107,gpt-oss-20b,0,0.043902845973,2
+Full,LR,341,108,gpt-oss-20b,0,0.027122992208,1
+Full,LR,342,109,gpt-oss-20b,0,0.057364453091,1
+Full,LR,343,111,gpt-oss-20b,0,0.014461883722,0
+Full,LR,344,112,gpt-oss-20b,0,0.023510442944,0
+Full,LR,345,113,gpt-oss-20b,0,0.031181446195,4
+Full,LR,346,114,gpt-oss-20b,0,0.014263115158,3
+Full,LR,347,116,gpt-oss-20b,0,0.042930513696,0
+Full,LR,348,117,gpt-oss-20b,0,0.08577357334,2
+Full,LR,349,118,gpt-oss-20b,0,0.041961238922,3
+Full,LR,350,119,gpt-oss-20b,0,0.049124843299,3
+Full,LR,351,120,gpt-oss-20b,0,0.143847736538,2
+Full,LR,352,121,gpt-oss-20b,0,0.083983889902,0
+Full,LR,353,122,gpt-oss-20b,0,0.020032033004,1
+Full,LR,354,124,gpt-oss-20b,0,0.098353415176,1
+Full,LR,355,126,gpt-oss-20b,0,0.043438577103,3
+Full,LR,356,127,gpt-oss-20b,0,0.121283726446,1
+Full,LR,357,128,gpt-oss-20b,0,0.030031915513,3
+Full,LR,358,129,gpt-oss-20b,0,0.085539894906,2
+Full,LR,359,130,gpt-oss-20b,0,0.034026299149,3
+Full,LR,360,132,gpt-oss-20b,0,0.040954782801,2
+Full,LR,361,133,gpt-oss-20b,0,0.071897604919,1
+Full,LR,362,134,gpt-oss-20b,0,0.170654111536,3
+Full,LR,363,135,gpt-oss-20b,0,0.047365383401,3
+Full,LR,364,136,gpt-oss-20b,0,0.022539366955,3
+Full,LR,365,137,gpt-oss-20b,0,0.028582420516,4
+Full,LR,366,138,gpt-oss-20b,0,0.014226508338,4
+Full,LR,367,139,gpt-oss-20b,0,0.014768071642,4
+Full,LR,368,140,gpt-oss-20b,0,0.07409457725,1
+Full,LR,369,141,gpt-oss-20b,0,0.075650274155,4
+Full,LR,370,142,gpt-oss-20b,0,0.050828799938,1
+Full,LR,371,143,gpt-oss-20b,0,0.046142107036,2
+Full,LR,372,144,gpt-oss-20b,1,0.038043048643,4
+Full,LR,373,145,gpt-oss-20b,0,0.023448033853,3
+Full,LR,374,146,gpt-oss-20b,0,0.009064602449,1
+Full,LR,375,147,gpt-oss-20b,0,0.250626456574,0
+Full,LR,376,148,gpt-oss-20b,0,0.056419092296,4
+Full,LR,377,149,gpt-oss-20b,1,0.207584443728,0
+Full,RF,0,1,llama-3.1-8b-instant,0,0.369612328385,0
+Full,RF,1,2,llama-3.1-8b-instant,0,0.24125133739,4
+Full,RF,2,3,llama-3.1-8b-instant,0,0.182031455629,1
+Full,RF,3,4,llama-3.1-8b-instant,1,0.372524922611,0
+Full,RF,4,5,llama-3.1-8b-instant,0,0.107249868066,1
+Full,RF,5,6,llama-3.1-8b-instant,0,0.137386086867,2
+Full,RF,6,7,llama-3.1-8b-instant,0,0.14161959459,2
+Full,RF,7,9,llama-3.1-8b-instant,0,0.353041292033,3
+Full,RF,8,10,llama-3.1-8b-instant,0,0.29201713225,2
+Full,RF,9,13,llama-3.1-8b-instant,1,0.31152215014,1
+Full,RF,10,14,llama-3.1-8b-instant,0,0.208090522404,1
+Full,RF,11,16,llama-3.1-8b-instant,0,0.305434430599,3
+Full,RF,12,17,llama-3.1-8b-instant,1,0.117926236601,1
+Full,RF,13,20,llama-3.1-8b-instant,0,0.230808734834,4
+Full,RF,14,22,llama-3.1-8b-instant,0,0.154690332047,4
+Full,RF,15,23,llama-3.1-8b-instant,1,0.303228259922,3
+Full,RF,16,24,llama-3.1-8b-instant,1,0.252975517647,0
+Full,RF,17,25,llama-3.1-8b-instant,0,0.23757431283,0
+Full,RF,18,26,llama-3.1-8b-instant,1,0.24584734204,2
+Full,RF,19,27,llama-3.1-8b-instant,0,0.40779513716,0
+Full,RF,20,28,llama-3.1-8b-instant,1,0.290598462281,1
+Full,RF,21,29,llama-3.1-8b-instant,0,0.186605848019,0
+Full,RF,22,30,llama-3.1-8b-instant,0,0.277028036211,1
+Full,RF,23,31,llama-3.1-8b-instant,1,0.290955889492,1
+Full,RF,24,32,llama-3.1-8b-instant,1,0.263451771258,4
+Full,RF,25,34,llama-3.1-8b-instant,0,0.146427523603,3
+Full,RF,26,35,llama-3.1-8b-instant,0,0.27168455109,4
+Full,RF,27,37,llama-3.1-8b-instant,1,0.222210425153,2
+Full,RF,28,39,llama-3.1-8b-instant,1,0.324132441244,3
+Full,RF,29,40,llama-3.1-8b-instant,0,0.366245493681,4
+Full,RF,30,41,llama-3.1-8b-instant,0,0.067125313846,0
+Full,RF,31,42,llama-3.1-8b-instant,0,0.360410432426,3
+Full,RF,32,43,llama-3.1-8b-instant,1,0.230538270734,0
+Full,RF,33,44,llama-3.1-8b-instant,0,0.162256970863,1
+Full,RF,34,46,llama-3.1-8b-instant,1,0.183716495867,3
+Full,RF,35,47,llama-3.1-8b-instant,0,0.159366465973,0
+Full,RF,36,48,llama-3.1-8b-instant,0,0.130138158873,2
+Full,RF,37,49,llama-3.1-8b-instant,0,0.420764778518,2
+Full,RF,38,50,llama-3.1-8b-instant,1,0.239437297512,1
+Full,RF,39,52,llama-3.1-8b-instant,0,0.312915636429,4
+Full,RF,40,53,llama-3.1-8b-instant,0,0.16192034408,2
+Full,RF,41,54,llama-3.1-8b-instant,0,0.178852420035,4
+Full,RF,42,55,llama-3.1-8b-instant,0,0.269282453984,3
+Full,RF,43,56,llama-3.1-8b-instant,0,0.112595431533,4
+Full,RF,44,57,llama-3.1-8b-instant,1,0.143196245297,0
+Full,RF,45,58,llama-3.1-8b-instant,0,0.230511465845,2
+Full,RF,46,59,llama-3.1-8b-instant,0,0.138621137196,4
+Full,RF,47,61,llama-3.1-8b-instant,1,0.158204029009,0
+Full,RF,48,62,llama-3.1-8b-instant,1,0.369172709881,4
+Full,RF,49,63,llama-3.1-8b-instant,0,0.149788909883,3
+Full,RF,50,64,llama-3.1-8b-instant,0,0.323246103004,3
+Full,RF,51,67,llama-3.1-8b-instant,1,0.107870638342,2
+Full,RF,52,68,llama-3.1-8b-instant,1,0.260936308973,0
+Full,RF,53,69,llama-3.1-8b-instant,0,0.247179598973,0
+Full,RF,54,70,llama-3.1-8b-instant,0,0.18245654,1
+Full,RF,55,71,llama-3.1-8b-instant,1,0.394012149278,3
+Full,RF,56,72,llama-3.1-8b-instant,0,0.322476330628,1
+Full,RF,57,73,llama-3.1-8b-instant,0,0.331190500271,4
+Full,RF,58,74,llama-3.1-8b-instant,0,0.137281646214,0
+Full,RF,59,75,llama-3.1-8b-instant,1,0.086290335975,2
+Full,RF,60,76,llama-3.1-8b-instant,0,0.227851409531,1
+Full,RF,61,77,llama-3.1-8b-instant,1,0.193931612883,3
+Full,RF,62,78,llama-3.1-8b-instant,0,0.185454791079,2
+Full,RF,63,79,llama-3.1-8b-instant,0,0.331442926588,1
+Full,RF,64,80,llama-3.1-8b-instant,0,0.142711377378,2
+Full,RF,65,82,llama-3.1-8b-instant,1,0.349455555432,4
+Full,RF,66,83,llama-3.1-8b-instant,1,0.282697571267,2
+Full,RF,67,84,llama-3.1-8b-instant,0,0.072112638117,2
+Full,RF,68,85,llama-3.1-8b-instant,1,0.135456611906,0
+Full,RF,69,86,llama-3.1-8b-instant,1,0.259322470783,1
+Full,RF,70,87,llama-3.1-8b-instant,0,0.081466407482,0
+Full,RF,71,88,llama-3.1-8b-instant,0,0.3318838875,3
+Full,RF,72,89,llama-3.1-8b-instant,0,0.234157695143,1
+Full,RF,73,90,llama-3.1-8b-instant,1,0.084832245373,2
+Full,RF,74,91,llama-3.1-8b-instant,1,0.339298477954,3
+Full,RF,75,92,llama-3.1-8b-instant,0,0.172557126808,0
+Full,RF,76,93,llama-3.1-8b-instant,1,0.266686756218,4
+Full,RF,77,94,llama-3.1-8b-instant,0,0.252674986591,4
+Full,RF,78,95,llama-3.1-8b-instant,0,0.408676143144,4
+Full,RF,79,96,llama-3.1-8b-instant,0,0.132176203765,2
+Full,RF,80,97,llama-3.1-8b-instant,0,0.178447622661,0
+Full,RF,81,99,llama-3.1-8b-instant,0,0.194026403041,4
+Full,RF,82,100,llama-3.1-8b-instant,0,0.141194941357,0
+Full,RF,83,101,llama-3.1-8b-instant,0,0.365031825402,1
+Full,RF,84,102,llama-3.1-8b-instant,0,0.178113651341,2
+Full,RF,85,103,llama-3.1-8b-instant,0,0.196862259367,0
+Full,RF,86,104,llama-3.1-8b-instant,1,0.211989015475,4
+Full,RF,87,106,llama-3.1-8b-instant,0,0.116217113107,2
+Full,RF,88,107,llama-3.1-8b-instant,0,0.175310406086,2
+Full,RF,89,108,llama-3.1-8b-instant,0,0.121926080349,1
+Full,RF,90,109,llama-3.1-8b-instant,0,0.243819319663,1
+Full,RF,91,111,llama-3.1-8b-instant,0,0.139703037971,0
+Full,RF,92,112,llama-3.1-8b-instant,0,0.093699099448,0
+Full,RF,93,113,llama-3.1-8b-instant,1,0.262101362709,4
+Full,RF,94,114,llama-3.1-8b-instant,0,0.157232206961,3
+Full,RF,95,116,llama-3.1-8b-instant,1,0.219368073405,0
+Full,RF,96,117,llama-3.1-8b-instant,1,0.239363669987,2
+Full,RF,97,118,llama-3.1-8b-instant,0,0.236674942615,3
+Full,RF,98,119,llama-3.1-8b-instant,0,0.229211918162,3
+Full,RF,99,120,llama-3.1-8b-instant,1,0.300220365087,2
+Full,RF,100,121,llama-3.1-8b-instant,0,0.350223320558,0
+Full,RF,101,122,llama-3.1-8b-instant,0,0.066130765298,1
+Full,RF,102,124,llama-3.1-8b-instant,0,0.278903084585,1
+Full,RF,103,126,llama-3.1-8b-instant,0,0.32614909192,3
+Full,RF,104,127,llama-3.1-8b-instant,0,0.290851799484,1
+Full,RF,105,128,llama-3.1-8b-instant,1,0.207275829688,3
+Full,RF,106,129,llama-3.1-8b-instant,0,0.097279468252,2
+Full,RF,107,130,llama-3.1-8b-instant,0,0.215721540686,3
+Full,RF,108,132,llama-3.1-8b-instant,1,0.233966163305,2
+Full,RF,109,133,llama-3.1-8b-instant,1,0.162114717257,1
+Full,RF,110,134,llama-3.1-8b-instant,0,0.43935247843,3
+Full,RF,111,135,llama-3.1-8b-instant,0,0.21000479635,3
+Full,RF,112,136,llama-3.1-8b-instant,0,0.133910671112,3
+Full,RF,113,137,llama-3.1-8b-instant,0,0.177149617,4
+Full,RF,114,138,llama-3.1-8b-instant,0,0.206835804263,4
+Full,RF,115,139,llama-3.1-8b-instant,0,0.16868987377,4
+Full,RF,116,140,llama-3.1-8b-instant,0,0.294002777444,1
+Full,RF,117,141,llama-3.1-8b-instant,1,0.325696024977,4
+Full,RF,118,142,llama-3.1-8b-instant,1,0.220032316969,1
+Full,RF,119,143,llama-3.1-8b-instant,0,0.131478842354,2
+Full,RF,120,144,llama-3.1-8b-instant,0,0.233598407214,4
+Full,RF,121,145,llama-3.1-8b-instant,0,0.096093886084,3
+Full,RF,122,146,llama-3.1-8b-instant,0,0.091531988175,1
+Full,RF,123,147,llama-3.1-8b-instant,0,0.36059557714,0
+Full,RF,124,148,llama-3.1-8b-instant,0,0.162401034457,4
+Full,RF,125,149,llama-3.1-8b-instant,0,0.372706259987,0
+Full,RF,126,1,llama-3.3-70b-versatile,0,0.143195089159,0
+Full,RF,127,2,llama-3.3-70b-versatile,0,0.083027552547,4
+Full,RF,128,3,llama-3.3-70b-versatile,0,0.085665047274,1
+Full,RF,129,4,llama-3.3-70b-versatile,0,0.152311323161,0
+Full,RF,130,5,llama-3.3-70b-versatile,0,0.028081824866,1
+Full,RF,131,6,llama-3.3-70b-versatile,0,0.016101057137,2
+Full,RF,132,7,llama-3.3-70b-versatile,0,0.01254150631,2
+Full,RF,133,9,llama-3.3-70b-versatile,0,0.055357018208,3
+Full,RF,134,10,llama-3.3-70b-versatile,0,0.030550835651,2
+Full,RF,135,13,llama-3.3-70b-versatile,0,0.102964695942,1
+Full,RF,136,14,llama-3.3-70b-versatile,0,0.039976555347,1
+Full,RF,137,16,llama-3.3-70b-versatile,0,0.080406723791,3
+Full,RF,138,17,llama-3.3-70b-versatile,0,0.016176742969,1
+Full,RF,139,20,llama-3.3-70b-versatile,0,0.058011029176,4
+Full,RF,140,22,llama-3.3-70b-versatile,0,0.019484252123,4
+Full,RF,141,23,llama-3.3-70b-versatile,0,0.105233036942,3
+Full,RF,142,24,llama-3.3-70b-versatile,0,0.053184726133,0
+Full,RF,143,25,llama-3.3-70b-versatile,0,0.085202392663,0
+Full,RF,144,26,llama-3.3-70b-versatile,0,0.038807598419,2
+Full,RF,145,27,llama-3.3-70b-versatile,0,0.14660664651,0
+Full,RF,146,28,llama-3.3-70b-versatile,0,0.043202336524,1
+Full,RF,147,29,llama-3.3-70b-versatile,0,0.035261681588,0
+Full,RF,148,30,llama-3.3-70b-versatile,0,0.079771749733,1
+Full,RF,149,31,llama-3.3-70b-versatile,0,0.06281838982,1
+Full,RF,150,32,llama-3.3-70b-versatile,0,0.102495661046,4
+Full,RF,151,34,llama-3.3-70b-versatile,0,0.026499269555,3
+Full,RF,152,35,llama-3.3-70b-versatile,0,0.055471973038,4
+Full,RF,153,37,llama-3.3-70b-versatile,0,0.038195165414,2
+Full,RF,154,39,llama-3.3-70b-versatile,0,0.099556664289,3
+Full,RF,155,40,llama-3.3-70b-versatile,0,0.147649740589,4
+Full,RF,156,41,llama-3.3-70b-versatile,0,0.006722401313,0
+Full,RF,157,42,llama-3.3-70b-versatile,0,0.083871251175,3
+Full,RF,158,43,llama-3.3-70b-versatile,0,0.061539577401,0
+Full,RF,159,44,llama-3.3-70b-versatile,0,0.045513678431,1
+Full,RF,160,46,llama-3.3-70b-versatile,0,0.019267846734,3
+Full,RF,161,47,llama-3.3-70b-versatile,0,0.025691499443,0
+Full,RF,162,48,llama-3.3-70b-versatile,0,0.010089777909,2
+Full,RF,163,49,llama-3.3-70b-versatile,0,0.056145451411,2
+Full,RF,164,50,llama-3.3-70b-versatile,0,0.034311668025,1
+Full,RF,165,52,llama-3.3-70b-versatile,0,0.1446212194,4
+Full,RF,166,53,llama-3.3-70b-versatile,0,0.01779059708,2
+Full,RF,167,54,llama-3.3-70b-versatile,0,0.028498537192,4
+Full,RF,168,55,llama-3.3-70b-versatile,0,0.035212423814,3
+Full,RF,169,56,llama-3.3-70b-versatile,0,0.015218979367,4
+Full,RF,170,57,llama-3.3-70b-versatile,0,0.027603292467,0
+Full,RF,171,58,llama-3.3-70b-versatile,0,0.021122251348,2
+Full,RF,172,59,llama-3.3-70b-versatile,0,0.017385353886,4
+Full,RF,173,61,llama-3.3-70b-versatile,0,0.039440379051,0
+Full,RF,174,62,llama-3.3-70b-versatile,0,0.054241622091,4
+Full,RF,175,63,llama-3.3-70b-versatile,0,0.034661514241,3
+Full,RF,176,64,llama-3.3-70b-versatile,0,0.068903380043,3
+Full,RF,177,67,llama-3.3-70b-versatile,0,0.013892411256,2
+Full,RF,178,68,llama-3.3-70b-versatile,0,0.119245478854,0
+Full,RF,179,69,llama-3.3-70b-versatile,0,0.07011007685,0
+Full,RF,180,70,llama-3.3-70b-versatile,0,0.037857649618,1
+Full,RF,181,71,llama-3.3-70b-versatile,0,0.131644305267,3
+Full,RF,182,72,llama-3.3-70b-versatile,0,0.133903983263,1
+Full,RF,183,73,llama-3.3-70b-versatile,0,0.096714855967,4
+Full,RF,184,74,llama-3.3-70b-versatile,0,0.03553252398,0
+Full,RF,185,75,llama-3.3-70b-versatile,0,0.009285456197,2
+Full,RF,186,76,llama-3.3-70b-versatile,0,0.026096906472,1
+Full,RF,187,77,llama-3.3-70b-versatile,0,0.056999738313,3
+Full,RF,188,78,llama-3.3-70b-versatile,0,0.031809559448,2
+Full,RF,189,79,llama-3.3-70b-versatile,0,0.05065073243,1
+Full,RF,190,80,llama-3.3-70b-versatile,0,0.040491260932,2
+Full,RF,191,82,llama-3.3-70b-versatile,0,0.101045207707,4
+Full,RF,192,83,llama-3.3-70b-versatile,1,0.056365910791,2
+Full,RF,193,84,llama-3.3-70b-versatile,0,0.020039580595,2
+Full,RF,194,85,llama-3.3-70b-versatile,0,0.014184878411,0
+Full,RF,195,86,llama-3.3-70b-versatile,0,0.068938828634,1
+Full,RF,196,87,llama-3.3-70b-versatile,0,0.004093376229,0
+Full,RF,197,88,llama-3.3-70b-versatile,0,0.083729308821,3
+Full,RF,198,89,llama-3.3-70b-versatile,0,0.044740704801,1
+Full,RF,199,90,llama-3.3-70b-versatile,0,0.017898483242,2
+Full,RF,200,91,llama-3.3-70b-versatile,0,0.075236358499,3
+Full,RF,201,92,llama-3.3-70b-versatile,0,0.039203391431,0
+Full,RF,202,93,llama-3.3-70b-versatile,0,0.090041606214,4
+Full,RF,203,94,llama-3.3-70b-versatile,0,0.026666760069,4
+Full,RF,204,95,llama-3.3-70b-versatile,0,0.150320354746,4
+Full,RF,205,96,llama-3.3-70b-versatile,0,0.024942088557,2
+Full,RF,206,97,llama-3.3-70b-versatile,0,0.023839927969,0
+Full,RF,207,99,llama-3.3-70b-versatile,0,0.025886156557,4
+Full,RF,208,100,llama-3.3-70b-versatile,0,0.046258061259,0
+Full,RF,209,101,llama-3.3-70b-versatile,0,0.125501907763,1
+Full,RF,210,102,llama-3.3-70b-versatile,0,0.023495253447,2
+Full,RF,211,103,llama-3.3-70b-versatile,0,0.05826037001,0
+Full,RF,212,104,llama-3.3-70b-versatile,0,0.022267710575,4
+Full,RF,213,106,llama-3.3-70b-versatile,0,0.00952985314,2
+Full,RF,214,107,llama-3.3-70b-versatile,0,0.02887960671,2
+Full,RF,215,108,llama-3.3-70b-versatile,0,0.014622524902,1
+Full,RF,216,109,llama-3.3-70b-versatile,0,0.03638544156,1
+Full,RF,217,111,llama-3.3-70b-versatile,0,0.040914204516,0
+Full,RF,218,112,llama-3.3-70b-versatile,0,0.008929308912,0
+Full,RF,219,113,llama-3.3-70b-versatile,0,0.077807580347,4
+Full,RF,220,114,llama-3.3-70b-versatile,0,0.046621951278,3
+Full,RF,221,116,llama-3.3-70b-versatile,0,0.034755547534,0
+Full,RF,222,117,llama-3.3-70b-versatile,0,0.050555208511,2
+Full,RF,223,118,llama-3.3-70b-versatile,0,0.033438118572,3
+Full,RF,224,119,llama-3.3-70b-versatile,0,0.03175071882,3
+Full,RF,225,120,llama-3.3-70b-versatile,0,0.063086443664,2
+Full,RF,226,121,llama-3.3-70b-versatile,0,0.117230390439,0
+Full,RF,227,122,llama-3.3-70b-versatile,0,0.007086767486,1
+Full,RF,228,124,llama-3.3-70b-versatile,0,0.070402106733,1
+Full,RF,229,126,llama-3.3-70b-versatile,0,0.046219811539,3
+Full,RF,230,127,llama-3.3-70b-versatile,0,0.107703187692,1
+Full,RF,231,128,llama-3.3-70b-versatile,0,0.023829637857,3
+Full,RF,232,129,llama-3.3-70b-versatile,0,0.042355111848,2
+Full,RF,233,130,llama-3.3-70b-versatile,0,0.039339541334,3
+Full,RF,234,132,llama-3.3-70b-versatile,0,0.063881734835,2
+Full,RF,235,133,llama-3.3-70b-versatile,0,0.047405536427,1
+Full,RF,236,134,llama-3.3-70b-versatile,0,0.151208624366,3
+Full,RF,237,135,llama-3.3-70b-versatile,0,0.06268674842,3
+Full,RF,238,136,llama-3.3-70b-versatile,0,0.030829934325,3
+Full,RF,239,137,llama-3.3-70b-versatile,0,0.015889113251,4
+Full,RF,240,138,llama-3.3-70b-versatile,0,0.042400938209,4
+Full,RF,241,139,llama-3.3-70b-versatile,0,0.022944508035,4
+Full,RF,242,140,llama-3.3-70b-versatile,0,0.067433870413,1
+Full,RF,243,141,llama-3.3-70b-versatile,0,0.106388635074,4
+Full,RF,244,142,llama-3.3-70b-versatile,0,0.090267613611,1
+Full,RF,245,143,llama-3.3-70b-versatile,0,0.01139457563,2
+Full,RF,246,144,llama-3.3-70b-versatile,0,0.035431429138,4
+Full,RF,247,145,llama-3.3-70b-versatile,0,0.011387139891,3
+Full,RF,248,146,llama-3.3-70b-versatile,0,0.017060196487,1
+Full,RF,249,147,llama-3.3-70b-versatile,0,0.151821100405,0
+Full,RF,250,148,llama-3.3-70b-versatile,0,0.035344821386,4
+Full,RF,251,149,llama-3.3-70b-versatile,0,0.138622285764,0
+Full,RF,252,1,gpt-oss-20b,0,0.192493219984,0
+Full,RF,253,2,gpt-oss-20b,0,0.093791003201,4
+Full,RF,254,3,gpt-oss-20b,0,0.106750012359,1
+Full,RF,255,4,gpt-oss-20b,0,0.227138607765,0
+Full,RF,256,5,gpt-oss-20b,1,0.0435220441,1
+Full,RF,257,6,gpt-oss-20b,0,0.02799476145,2
+Full,RF,258,7,gpt-oss-20b,0,0.019364163373,2
+Full,RF,259,9,gpt-oss-20b,0,0.092584701347,3
+Full,RF,260,10,gpt-oss-20b,0,0.07585551605,2
+Full,RF,261,13,gpt-oss-20b,0,0.163933139834,1
+Full,RF,262,14,gpt-oss-20b,0,0.040869134428,1
+Full,RF,263,16,gpt-oss-20b,0,0.131310333498,3
+Full,RF,264,17,gpt-oss-20b,0,0.021547863502,1
+Full,RF,265,20,gpt-oss-20b,0,0.066547746605,4
+Full,RF,266,22,gpt-oss-20b,0,0.032370795579,4
+Full,RF,267,23,gpt-oss-20b,0,0.120547544131,3
+Full,RF,268,24,gpt-oss-20b,0,0.07488789197,0
+Full,RF,269,25,gpt-oss-20b,0,0.148528329183,0
+Full,RF,270,26,gpt-oss-20b,0,0.089650294613,2
+Full,RF,271,27,gpt-oss-20b,0,0.17517274454,0
+Full,RF,272,28,gpt-oss-20b,0,0.092276602587,1
+Full,RF,273,29,gpt-oss-20b,0,0.035373908724,0
+Full,RF,274,30,gpt-oss-20b,0,0.135966527915,1
+Full,RF,275,31,gpt-oss-20b,0,0.097332367916,1
+Full,RF,276,32,gpt-oss-20b,0,0.150880755973,4
+Full,RF,277,34,gpt-oss-20b,0,0.054309889132,3
+Full,RF,278,35,gpt-oss-20b,0,0.062821037455,4
+Full,RF,279,37,gpt-oss-20b,0,0.124971131883,2
+Full,RF,280,39,gpt-oss-20b,0,0.188494470583,3
+Full,RF,281,40,gpt-oss-20b,1,0.187510107201,4
+Full,RF,282,41,gpt-oss-20b,0,0.019776589058,0
+Full,RF,283,42,gpt-oss-20b,1,0.122276369644,3
+Full,RF,284,43,gpt-oss-20b,0,0.131552999518,0
+Full,RF,285,44,gpt-oss-20b,0,0.07642115615,1
+Full,RF,286,46,gpt-oss-20b,0,0.040931602808,3
+Full,RF,287,47,gpt-oss-20b,0,0.032256080918,0
+Full,RF,288,48,gpt-oss-20b,0,0.023829919756,2
+Full,RF,289,49,gpt-oss-20b,0,0.115442570187,2
+Full,RF,290,50,gpt-oss-20b,0,0.047862943405,1
+Full,RF,291,52,gpt-oss-20b,0,0.208802422193,4
+Full,RF,292,53,gpt-oss-20b,0,0.05534137394,2
+Full,RF,293,54,gpt-oss-20b,0,0.038931393186,4
+Full,RF,294,55,gpt-oss-20b,0,0.060622939738,3
+Full,RF,295,56,gpt-oss-20b,0,0.039302998593,4
+Full,RF,296,57,gpt-oss-20b,0,0.084554940407,0
+Full,RF,297,58,gpt-oss-20b,0,0.03631858021,2
+Full,RF,298,59,gpt-oss-20b,0,0.029752667572,4
+Full,RF,299,61,gpt-oss-20b,0,0.06576568031,0
+Full,RF,300,62,gpt-oss-20b,0,0.059642483013,4
+Full,RF,301,63,gpt-oss-20b,0,0.080715749574,3
+Full,RF,302,64,gpt-oss-20b,0,0.113275239279,3
+Full,RF,303,67,gpt-oss-20b,0,0.022070312872,2
+Full,RF,304,68,gpt-oss-20b,0,0.201802551509,0
+Full,RF,305,69,gpt-oss-20b,0,0.100587847474,0
+Full,RF,306,70,gpt-oss-20b,0,0.054178680868,1
+Full,RF,307,71,gpt-oss-20b,1,0.194768595956,3
+Full,RF,308,72,gpt-oss-20b,0,0.208256324706,1
+Full,RF,309,73,gpt-oss-20b,0,0.11429342394,4
+Full,RF,310,74,gpt-oss-20b,0,0.109497415273,0
+Full,RF,311,75,gpt-oss-20b,0,0.037097788051,2
+Full,RF,312,76,gpt-oss-20b,0,0.053497821888,1
+Full,RF,313,77,gpt-oss-20b,0,0.082484953792,3
+Full,RF,314,78,gpt-oss-20b,0,0.061327419991,2
+Full,RF,315,79,gpt-oss-20b,0,0.061896062084,1
+Full,RF,316,80,gpt-oss-20b,0,0.079986095228,2
+Full,RF,317,82,gpt-oss-20b,0,0.103186677576,4
+Full,RF,318,83,gpt-oss-20b,0,0.122298369144,2
+Full,RF,319,84,gpt-oss-20b,0,0.052259740957,2
+Full,RF,320,85,gpt-oss-20b,0,0.022299762398,0
+Full,RF,321,86,gpt-oss-20b,0,0.086149321053,1
+Full,RF,322,87,gpt-oss-20b,0,0.036223191029,0
+Full,RF,323,88,gpt-oss-20b,0,0.138073891363,3
+Full,RF,324,89,gpt-oss-20b,0,0.077421151939,1
+Full,RF,325,90,gpt-oss-20b,0,0.055063842345,2
+Full,RF,326,91,gpt-oss-20b,0,0.142493797358,3
+Full,RF,327,92,gpt-oss-20b,0,0.080899402088,0
+Full,RF,328,93,gpt-oss-20b,0,0.14384830286,4
+Full,RF,329,94,gpt-oss-20b,0,0.033893223022,4
+Full,RF,330,95,gpt-oss-20b,0,0.147979435243,4
+Full,RF,331,96,gpt-oss-20b,0,0.086315459488,2
+Full,RF,332,97,gpt-oss-20b,0,0.032970133138,0
+Full,RF,333,99,gpt-oss-20b,0,0.029327351994,4
+Full,RF,334,100,gpt-oss-20b,0,0.085246084345,0
+Full,RF,335,101,gpt-oss-20b,0,0.16391709917,1
+Full,RF,336,102,gpt-oss-20b,0,0.043936011432,2
+Full,RF,337,103,gpt-oss-20b,0,0.097809381029,0
+Full,RF,338,104,gpt-oss-20b,0,0.027777103744,4
+Full,RF,339,106,gpt-oss-20b,0,0.020410631903,2
+Full,RF,340,107,gpt-oss-20b,0,0.058012121527,2
+Full,RF,341,108,gpt-oss-20b,0,0.017527298715,1
+Full,RF,342,109,gpt-oss-20b,0,0.046962421552,1
+Full,RF,343,111,gpt-oss-20b,0,0.076598915405,0
+Full,RF,344,112,gpt-oss-20b,0,0.018421594584,0
+Full,RF,345,113,gpt-oss-20b,0,0.10352316033,4
+Full,RF,346,114,gpt-oss-20b,0,0.081426956228,3
+Full,RF,347,116,gpt-oss-20b,0,0.040539857666,0
+Full,RF,348,117,gpt-oss-20b,0,0.075689840702,2
+Full,RF,349,118,gpt-oss-20b,0,0.056659336645,3
+Full,RF,350,119,gpt-oss-20b,0,0.037468674254,3
+Full,RF,351,120,gpt-oss-20b,0,0.156957245568,2
+Full,RF,352,121,gpt-oss-20b,0,0.18283334647,0
+Full,RF,353,122,gpt-oss-20b,0,0.016462267599,1
+Full,RF,354,124,gpt-oss-20b,0,0.073869780892,1
+Full,RF,355,126,gpt-oss-20b,0,0.086327370044,3
+Full,RF,356,127,gpt-oss-20b,0,0.122813778657,1
+Full,RF,357,128,gpt-oss-20b,0,0.03063812911,3
+Full,RF,358,129,gpt-oss-20b,0,0.090887989105,2
+Full,RF,359,130,gpt-oss-20b,0,0.048257679225,3
+Full,RF,360,132,gpt-oss-20b,0,0.098022222323,2
+Full,RF,361,133,gpt-oss-20b,0,0.056776195303,1
+Full,RF,362,134,gpt-oss-20b,0,0.153415155662,3
+Full,RF,363,135,gpt-oss-20b,0,0.114998233754,3
+Full,RF,364,136,gpt-oss-20b,0,0.063979373957,3
+Full,RF,365,137,gpt-oss-20b,0,0.023878014409,4
+Full,RF,366,138,gpt-oss-20b,0,0.051059750841,4
+Full,RF,367,139,gpt-oss-20b,0,0.043187132048,4
+Full,RF,368,140,gpt-oss-20b,0,0.147575543163,1
+Full,RF,369,141,gpt-oss-20b,0,0.165196348547,4
+Full,RF,370,142,gpt-oss-20b,0,0.114251424963,1
+Full,RF,371,143,gpt-oss-20b,0,0.022566515098,2
+Full,RF,372,144,gpt-oss-20b,1,0.042142678339,4
+Full,RF,373,145,gpt-oss-20b,0,0.041981501526,3
+Full,RF,374,146,gpt-oss-20b,0,0.022479118656,1
+Full,RF,375,147,gpt-oss-20b,0,0.175436235737,0
+Full,RF,376,148,gpt-oss-20b,0,0.099471344845,4
+Full,RF,377,149,gpt-oss-20b,1,0.172653354645,0
+Full,GB,0,1,llama-3.1-8b-instant,0,0.666223713129,0
+Full,GB,1,2,llama-3.1-8b-instant,0,0.189187421757,4
+Full,GB,2,3,llama-3.1-8b-instant,0,0.350847843519,1
+Full,GB,3,4,llama-3.1-8b-instant,1,0.728919674213,0
+Full,GB,4,5,llama-3.1-8b-instant,0,0.023803697136,1
+Full,GB,5,6,llama-3.1-8b-instant,0,0.076262122449,2
+Full,GB,6,7,llama-3.1-8b-instant,0,0.144033433172,2
+Full,GB,7,9,llama-3.1-8b-instant,0,0.38568820544,3
+Full,GB,8,10,llama-3.1-8b-instant,0,0.328702805687,2
+Full,GB,9,13,llama-3.1-8b-instant,1,0.482930647507,1
+Full,GB,10,14,llama-3.1-8b-instant,0,0.100129451242,1
+Full,GB,11,16,llama-3.1-8b-instant,0,0.665670672922,3
+Full,GB,12,17,llama-3.1-8b-instant,1,0.046094763026,1
+Full,GB,13,20,llama-3.1-8b-instant,0,0.246656477102,4
+Full,GB,14,22,llama-3.1-8b-instant,0,0.175004002976,4
+Full,GB,15,23,llama-3.1-8b-instant,1,0.805366168754,3
+Full,GB,16,24,llama-3.1-8b-instant,1,0.471249450002,0
+Full,GB,17,25,llama-3.1-8b-instant,0,0.640821127942,0
+Full,GB,18,26,llama-3.1-8b-instant,1,0.04025870528,2
+Full,GB,19,27,llama-3.1-8b-instant,0,0.908317921012,0
+Full,GB,20,28,llama-3.1-8b-instant,1,0.104782628461,1
+Full,GB,21,29,llama-3.1-8b-instant,0,0.082041851343,0
+Full,GB,22,30,llama-3.1-8b-instant,0,0.193300800114,1
+Full,GB,23,31,llama-3.1-8b-instant,1,0.153272004708,1
+Full,GB,24,32,llama-3.1-8b-instant,1,0.105044350167,4
+Full,GB,25,34,llama-3.1-8b-instant,0,0.04393839851,3
+Full,GB,26,35,llama-3.1-8b-instant,0,0.234489415965,4
+Full,GB,27,37,llama-3.1-8b-instant,1,0.078412860468,2
+Full,GB,28,39,llama-3.1-8b-instant,1,0.895773392328,3
+Full,GB,29,40,llama-3.1-8b-instant,0,0.759964160418,4
+Full,GB,30,41,llama-3.1-8b-instant,0,0.033621532015,0
+Full,GB,31,42,llama-3.1-8b-instant,0,0.689924515156,3
+Full,GB,32,43,llama-3.1-8b-instant,1,0.321249805382,0
+Full,GB,33,44,llama-3.1-8b-instant,0,0.126575693172,1
+Full,GB,34,46,llama-3.1-8b-instant,1,0.166811476352,3
+Full,GB,35,47,llama-3.1-8b-instant,0,0.136314026629,0
+Full,GB,36,48,llama-3.1-8b-instant,0,0.040752777498,2
+Full,GB,37,49,llama-3.1-8b-instant,0,0.678295395075,2
+Full,GB,38,50,llama-3.1-8b-instant,1,0.166891501522,1
+Full,GB,39,52,llama-3.1-8b-instant,0,0.366352788752,4
+Full,GB,40,53,llama-3.1-8b-instant,0,0.141328293309,2
+Full,GB,41,54,llama-3.1-8b-instant,0,0.025424181478,4
+Full,GB,42,55,llama-3.1-8b-instant,0,0.181986522444,3
+Full,GB,43,56,llama-3.1-8b-instant,0,0.030290684885,4
+Full,GB,44,57,llama-3.1-8b-instant,1,0.10818623799,0
+Full,GB,45,58,llama-3.1-8b-instant,0,0.234637814,2
+Full,GB,46,59,llama-3.1-8b-instant,0,0.026925776116,4
+Full,GB,47,61,llama-3.1-8b-instant,1,0.110942006461,0
+Full,GB,48,62,llama-3.1-8b-instant,1,0.670457826834,4
+Full,GB,49,63,llama-3.1-8b-instant,0,0.369993278669,3
+Full,GB,50,64,llama-3.1-8b-instant,0,0.233422806001,3
+Full,GB,51,67,llama-3.1-8b-instant,1,0.048530289845,2
+Full,GB,52,68,llama-3.1-8b-instant,1,0.165633752867,0
+Full,GB,53,69,llama-3.1-8b-instant,0,0.209170070643,0
+Full,GB,54,70,llama-3.1-8b-instant,0,0.133238432326,1
+Full,GB,55,71,llama-3.1-8b-instant,1,0.625610397055,3
+Full,GB,56,72,llama-3.1-8b-instant,0,0.520346355335,1
+Full,GB,57,73,llama-3.1-8b-instant,0,0.831113835717,4
+Full,GB,58,74,llama-3.1-8b-instant,0,0.026659871387,0
+Full,GB,59,75,llama-3.1-8b-instant,1,0.021687861308,2
+Full,GB,60,76,llama-3.1-8b-instant,0,0.222510794878,1
+Full,GB,61,77,llama-3.1-8b-instant,1,0.067755240294,3
+Full,GB,62,78,llama-3.1-8b-instant,0,0.114912339,2
+Full,GB,63,79,llama-3.1-8b-instant,0,0.460528702771,1
+Full,GB,64,80,llama-3.1-8b-instant,0,0.283251269192,2
+Full,GB,65,82,llama-3.1-8b-instant,1,0.898722779984,4
+Full,GB,66,83,llama-3.1-8b-instant,1,0.161962126024,2
+Full,GB,67,84,llama-3.1-8b-instant,0,0.067146764609,2
+Full,GB,68,85,llama-3.1-8b-instant,1,0.157677605881,0
+Full,GB,69,86,llama-3.1-8b-instant,1,0.180497315942,1
+Full,GB,70,87,llama-3.1-8b-instant,0,0.030209683275,0
+Full,GB,71,88,llama-3.1-8b-instant,0,0.113478177518,3
+Full,GB,72,89,llama-3.1-8b-instant,0,0.115665878545,1
+Full,GB,73,90,llama-3.1-8b-instant,1,0.025655078688,2
+Full,GB,74,91,llama-3.1-8b-instant,1,0.500829220944,3
+Full,GB,75,92,llama-3.1-8b-instant,0,0.10742119839,0
+Full,GB,76,93,llama-3.1-8b-instant,1,0.237891958295,4
+Full,GB,77,94,llama-3.1-8b-instant,0,0.356588410519,4
+Full,GB,78,95,llama-3.1-8b-instant,0,0.853407354469,4
+Full,GB,79,96,llama-3.1-8b-instant,0,0.050480186369,2
+Full,GB,80,97,llama-3.1-8b-instant,0,0.073884370771,0
+Full,GB,81,99,llama-3.1-8b-instant,0,0.053371392298,4
+Full,GB,82,100,llama-3.1-8b-instant,0,0.201712088559,0
+Full,GB,83,101,llama-3.1-8b-instant,0,0.380788017735,1
+Full,GB,84,102,llama-3.1-8b-instant,0,0.170815563128,2
+Full,GB,85,103,llama-3.1-8b-instant,0,0.023670972509,0
+Full,GB,86,104,llama-3.1-8b-instant,1,0.203498691654,4
+Full,GB,87,106,llama-3.1-8b-instant,0,0.055387671567,2
+Full,GB,88,107,llama-3.1-8b-instant,0,0.030480411091,2
+Full,GB,89,108,llama-3.1-8b-instant,0,0.165683620354,1
+Full,GB,90,109,llama-3.1-8b-instant,0,0.369461421375,1
+Full,GB,91,111,llama-3.1-8b-instant,0,0.047710039228,0
+Full,GB,92,112,llama-3.1-8b-instant,0,0.011655712807,0
+Full,GB,93,113,llama-3.1-8b-instant,1,0.421144125969,4
+Full,GB,94,114,llama-3.1-8b-instant,0,0.212255700418,3
+Full,GB,95,116,llama-3.1-8b-instant,1,0.206849261255,0
+Full,GB,96,117,llama-3.1-8b-instant,1,0.112940963549,2
+Full,GB,97,118,llama-3.1-8b-instant,0,0.097483526869,3
+Full,GB,98,119,llama-3.1-8b-instant,0,0.235328789552,3
+Full,GB,99,120,llama-3.1-8b-instant,1,0.462784239263,2
+Full,GB,100,121,llama-3.1-8b-instant,0,0.362193276824,0
+Full,GB,101,122,llama-3.1-8b-instant,0,0.024008428934,1
+Full,GB,102,124,llama-3.1-8b-instant,0,0.28188024839,1
+Full,GB,103,126,llama-3.1-8b-instant,0,0.348149985294,3
+Full,GB,104,127,llama-3.1-8b-instant,0,0.218110609752,1
+Full,GB,105,128,llama-3.1-8b-instant,1,0.246192983517,3
+Full,GB,106,129,llama-3.1-8b-instant,0,0.011024646383,2
+Full,GB,107,130,llama-3.1-8b-instant,0,0.274446713682,3
+Full,GB,108,132,llama-3.1-8b-instant,1,0.26621959007,2
+Full,GB,109,133,llama-3.1-8b-instant,1,0.076018079196,1
+Full,GB,110,134,llama-3.1-8b-instant,0,0.907667902989,3
+Full,GB,111,135,llama-3.1-8b-instant,0,0.289805167272,3
+Full,GB,112,136,llama-3.1-8b-instant,0,0.088699634208,3
+Full,GB,113,137,llama-3.1-8b-instant,0,0.182348209703,4
+Full,GB,114,138,llama-3.1-8b-instant,0,0.153716360832,4
+Full,GB,115,139,llama-3.1-8b-instant,0,0.034908749346,4
+Full,GB,116,140,llama-3.1-8b-instant,0,0.337435167566,1
+Full,GB,117,141,llama-3.1-8b-instant,1,0.268000625255,4
+Full,GB,118,142,llama-3.1-8b-instant,1,0.516300225991,1
+Full,GB,119,143,llama-3.1-8b-instant,0,0.078253626489,2
+Full,GB,120,144,llama-3.1-8b-instant,0,0.275091202144,4
+Full,GB,121,145,llama-3.1-8b-instant,0,0.046305562993,3
+Full,GB,122,146,llama-3.1-8b-instant,0,0.023020201139,1
+Full,GB,123,147,llama-3.1-8b-instant,0,0.853105073229,0
+Full,GB,124,148,llama-3.1-8b-instant,0,0.58785668263,4
+Full,GB,125,149,llama-3.1-8b-instant,0,0.592010969367,0
+Full,GB,126,1,llama-3.3-70b-versatile,0,0.011537695846,0
+Full,GB,127,2,llama-3.3-70b-versatile,0,0.003865603277,4
+Full,GB,128,3,llama-3.3-70b-versatile,0,0.005722502891,1
+Full,GB,129,4,llama-3.3-70b-versatile,0,0.021131068004,0
+Full,GB,130,5,llama-3.3-70b-versatile,0,0.001374612281,1
+Full,GB,131,6,llama-3.3-70b-versatile,0,0.002308247545,2
+Full,GB,132,7,llama-3.3-70b-versatile,0,0.003580131708,2
+Full,GB,133,9,llama-3.3-70b-versatile,0,0.003706432667,3
+Full,GB,134,10,llama-3.3-70b-versatile,0,0.004318284735,2
+Full,GB,135,13,llama-3.3-70b-versatile,0,0.012672598285,1
+Full,GB,136,14,llama-3.3-70b-versatile,0,0.002269769685,1
+Full,GB,137,16,llama-3.3-70b-versatile,0,0.029244937676,3
+Full,GB,138,17,llama-3.3-70b-versatile,0,0.001560516109,1
+Full,GB,139,20,llama-3.3-70b-versatile,0,0.007287714396,4
+Full,GB,140,22,llama-3.3-70b-versatile,0,0.00468791124,4
+Full,GB,141,23,llama-3.3-70b-versatile,0,0.049824745358,3
+Full,GB,142,24,llama-3.3-70b-versatile,0,0.016181955058,0
+Full,GB,143,25,llama-3.3-70b-versatile,0,0.011581000389,0
+Full,GB,144,26,llama-3.3-70b-versatile,0,0.000777392877,2
+Full,GB,145,27,llama-3.3-70b-versatile,0,0.048708851937,0
+Full,GB,146,28,llama-3.3-70b-versatile,0,0.001695320043,1
+Full,GB,147,29,llama-3.3-70b-versatile,0,0.002076898645,0
+Full,GB,148,30,llama-3.3-70b-versatile,0,0.004104029245,1
+Full,GB,149,31,llama-3.3-70b-versatile,0,0.002877686106,1
+Full,GB,150,32,llama-3.3-70b-versatile,0,0.000508557947,4
+Full,GB,151,34,llama-3.3-70b-versatile,0,0.00110412842,3
+Full,GB,152,35,llama-3.3-70b-versatile,0,0.004995208679,4
+Full,GB,153,37,llama-3.3-70b-versatile,0,0.000978076153,2
+Full,GB,154,39,llama-3.3-70b-versatile,0,0.017254420119,3
+Full,GB,155,40,llama-3.3-70b-versatile,0,0.005676602104,4
+Full,GB,156,41,llama-3.3-70b-versatile,0,0.001609250252,0
+Full,GB,157,42,llama-3.3-70b-versatile,0,0.01209515649,3
+Full,GB,158,43,llama-3.3-70b-versatile,0,0.003268069826,0
+Full,GB,159,44,llama-3.3-70b-versatile,0,0.004783538973,1
+Full,GB,160,46,llama-3.3-70b-versatile,0,0.00354728558,3
+Full,GB,161,47,llama-3.3-70b-versatile,0,0.00409469601,0
+Full,GB,162,48,llama-3.3-70b-versatile,0,0.001186985508,2
+Full,GB,163,49,llama-3.3-70b-versatile,0,0.015747968233,2
+Full,GB,164,50,llama-3.3-70b-versatile,0,0.005406521875,1
+Full,GB,165,52,llama-3.3-70b-versatile,0,0.00152639643,4
+Full,GB,166,53,llama-3.3-70b-versatile,0,0.004101090049,2
+Full,GB,167,54,llama-3.3-70b-versatile,0,0.000698119931,4
+Full,GB,168,55,llama-3.3-70b-versatile,0,0.003100307792,3
+Full,GB,169,56,llama-3.3-70b-versatile,0,0.0007574926,4
+Full,GB,170,57,llama-3.3-70b-versatile,0,0.003059126261,0
+Full,GB,171,58,llama-3.3-70b-versatile,0,0.006247731312,2
+Full,GB,172,59,llama-3.3-70b-versatile,0,0.000474281524,4
+Full,GB,173,61,llama-3.3-70b-versatile,0,0.003226617807,0
+Full,GB,174,62,llama-3.3-70b-versatile,0,0.015839119297,4
+Full,GB,175,63,llama-3.3-70b-versatile,0,0.014742210684,3
+Full,GB,176,64,llama-3.3-70b-versatile,0,0.00171046348,3
+Full,GB,177,67,llama-3.3-70b-versatile,0,0.001570627523,2
+Full,GB,178,68,llama-3.3-70b-versatile,0,0.005052189245,0
+Full,GB,179,69,llama-3.3-70b-versatile,0,0.002789206959,0
+Full,GB,180,70,llama-3.3-70b-versatile,0,0.003642488838,1
+Full,GB,181,71,llama-3.3-70b-versatile,0,0.006128375157,3
+Full,GB,182,72,llama-3.3-70b-versatile,0,0.003819641342,1
+Full,GB,183,73,llama-3.3-70b-versatile,0,0.009886477303,4
+Full,GB,184,74,llama-3.3-70b-versatile,0,0.000963916932,0
+Full,GB,185,75,llama-3.3-70b-versatile,0,0.000953408379,2
+Full,GB,186,76,llama-3.3-70b-versatile,0,0.002334052359,1
+Full,GB,187,77,llama-3.3-70b-versatile,0,0.007015343339,3
+Full,GB,188,78,llama-3.3-70b-versatile,0,0.002147938446,2
+Full,GB,189,79,llama-3.3-70b-versatile,0,0.013427447257,1
+Full,GB,190,80,llama-3.3-70b-versatile,0,0.007489129841,2
+Full,GB,191,82,llama-3.3-70b-versatile,0,0.078580802139,4
+Full,GB,192,83,llama-3.3-70b-versatile,1,0.002029550238,2
+Full,GB,193,84,llama-3.3-70b-versatile,0,0.002383959465,2
+Full,GB,194,85,llama-3.3-70b-versatile,0,0.004852861628,0
+Full,GB,195,86,llama-3.3-70b-versatile,0,0.004392377086,1
+Full,GB,196,87,llama-3.3-70b-versatile,0,0.001137217649,0
+Full,GB,197,88,llama-3.3-70b-versatile,0,0.001026358657,3
+Full,GB,198,89,llama-3.3-70b-versatile,0,0.001942919927,1
+Full,GB,199,90,llama-3.3-70b-versatile,0,0.001041943427,2
+Full,GB,200,91,llama-3.3-70b-versatile,0,0.008356311449,3
+Full,GB,201,92,llama-3.3-70b-versatile,0,0.003837628479,0
+Full,GB,202,93,llama-3.3-70b-versatile,0,0.001237486267,4
+Full,GB,203,94,llama-3.3-70b-versatile,0,0.006716843123,4
+Full,GB,204,95,llama-3.3-70b-versatile,0,0.083514573964,4
+Full,GB,205,96,llama-3.3-70b-versatile,0,0.001160480516,2
+Full,GB,206,97,llama-3.3-70b-versatile,0,0.001923805385,0
+Full,GB,207,99,llama-3.3-70b-versatile,0,0.000931669852,4
+Full,GB,208,100,llama-3.3-70b-versatile,0,0.008240381454,0
+Full,GB,209,101,llama-3.3-70b-versatile,0,0.005820949712,1
+Full,GB,210,102,llama-3.3-70b-versatile,0,0.004052912914,2
+Full,GB,211,103,llama-3.3-70b-versatile,0,0.001203698583,0
+Full,GB,212,104,llama-3.3-70b-versatile,0,0.004191668114,4
+Full,GB,213,106,llama-3.3-70b-versatile,0,0.002000446463,2
+Full,GB,214,107,llama-3.3-70b-versatile,0,0.00074219937,2
+Full,GB,215,108,llama-3.3-70b-versatile,0,0.007162377211,1
+Full,GB,216,109,llama-3.3-70b-versatile,0,0.014787065318,1
+Full,GB,217,111,llama-3.3-70b-versatile,0,0.001818306684,0
+Full,GB,218,112,llama-3.3-70b-versatile,0,0.000489075741,0
+Full,GB,219,113,llama-3.3-70b-versatile,0,0.009089218823,4
+Full,GB,220,114,llama-3.3-70b-versatile,0,0.006360326869,3
+Full,GB,221,116,llama-3.3-70b-versatile,0,0.005488303876,0
+Full,GB,222,117,llama-3.3-70b-versatile,0,0.00210188648,2
+Full,GB,223,118,llama-3.3-70b-versatile,0,0.001945731627,3
+Full,GB,224,119,llama-3.3-70b-versatile,0,0.011474208233,3
+Full,GB,225,120,llama-3.3-70b-versatile,0,0.003996318833,2
+Full,GB,226,121,llama-3.3-70b-versatile,0,0.01186558244,0
+Full,GB,227,122,llama-3.3-70b-versatile,0,0.000795009694,1
+Full,GB,228,124,llama-3.3-70b-versatile,0,0.007781698587,1
+Full,GB,229,126,llama-3.3-70b-versatile,0,0.003154770134,3
+Full,GB,230,127,llama-3.3-70b-versatile,0,0.006230875233,1
+Full,GB,231,128,llama-3.3-70b-versatile,0,0.004917345667,3
+Full,GB,232,129,llama-3.3-70b-versatile,0,0.000508120531,2
+Full,GB,233,130,llama-3.3-70b-versatile,0,0.005690708051,3
+Full,GB,234,132,llama-3.3-70b-versatile,0,0.006979006162,2
+Full,GB,235,133,llama-3.3-70b-versatile,0,0.008411787083,1
+Full,GB,236,134,llama-3.3-70b-versatile,0,0.08444161982,3
+Full,GB,237,135,llama-3.3-70b-versatile,0,0.005083820717,3
+Full,GB,238,136,llama-3.3-70b-versatile,0,0.003085604477,3
+Full,GB,239,137,llama-3.3-70b-versatile,0,0.003606416906,4
+Full,GB,240,138,llama-3.3-70b-versatile,0,0.004090797945,4
+Full,GB,241,139,llama-3.3-70b-versatile,0,0.000697554091,4
+Full,GB,242,140,llama-3.3-70b-versatile,0,0.002781479424,1
+Full,GB,243,141,llama-3.3-70b-versatile,0,0.003566039297,4
+Full,GB,244,142,llama-3.3-70b-versatile,0,0.02512751527,1
+Full,GB,245,143,llama-3.3-70b-versatile,0,0.002091708227,2
+Full,GB,246,144,llama-3.3-70b-versatile,0,0.006562629761,4
+Full,GB,247,145,llama-3.3-70b-versatile,0,0.001451636348,3
+Full,GB,248,146,llama-3.3-70b-versatile,0,0.001136362441,1
+Full,GB,249,147,llama-3.3-70b-versatile,0,0.167040852509,0
+Full,GB,250,148,llama-3.3-70b-versatile,0,0.07249306396,4
+Full,GB,251,149,llama-3.3-70b-versatile,0,0.011341011753,0
+Full,GB,252,1,gpt-oss-20b,0,0.295844765846,0
+Full,GB,253,2,gpt-oss-20b,0,0.002178797977,4
+Full,GB,254,3,gpt-oss-20b,0,0.015592748321,1
+Full,GB,255,4,gpt-oss-20b,0,0.12389380874,0
+Full,GB,256,5,gpt-oss-20b,1,0.065166743124,1
+Full,GB,257,6,gpt-oss-20b,0,0.00755472253,2
+Full,GB,258,7,gpt-oss-20b,0,0.012626686423,2
+Full,GB,259,9,gpt-oss-20b,0,0.014881331749,3
+Full,GB,260,10,gpt-oss-20b,0,0.016195561825,2
+Full,GB,261,13,gpt-oss-20b,0,0.066609282911,1
+Full,GB,262,14,gpt-oss-20b,0,0.020251185193,1
+Full,GB,263,16,gpt-oss-20b,0,0.0506597007,3
+Full,GB,264,17,gpt-oss-20b,0,0.004204224588,1
+Full,GB,265,20,gpt-oss-20b,0,0.010438522591,4
+Full,GB,266,22,gpt-oss-20b,0,0.008805476624,4
+Full,GB,267,23,gpt-oss-20b,0,0.080367604308,3
+Full,GB,268,24,gpt-oss-20b,0,0.011728564851,0
+Full,GB,269,25,gpt-oss-20b,0,0.045541978962,0
+Full,GB,270,26,gpt-oss-20b,0,0.002811929945,2
+Full,GB,271,27,gpt-oss-20b,0,0.014114787813,0
+Full,GB,272,28,gpt-oss-20b,0,0.005736356916,1
+Full,GB,273,29,gpt-oss-20b,0,0.005449525413,0
+Full,GB,274,30,gpt-oss-20b,0,0.033458379,1
+Full,GB,275,31,gpt-oss-20b,0,0.022783876036,1
+Full,GB,276,32,gpt-oss-20b,0,0.047123937025,4
+Full,GB,277,34,gpt-oss-20b,0,0.003268663429,3
+Full,GB,278,35,gpt-oss-20b,0,0.007162013846,4
+Full,GB,279,37,gpt-oss-20b,0,0.027481139905,2
+Full,GB,280,39,gpt-oss-20b,0,0.129587889149,3
+Full,GB,281,40,gpt-oss-20b,1,0.416731244638,4
+Full,GB,282,41,gpt-oss-20b,0,0.003436208245,0
+Full,GB,283,42,gpt-oss-20b,1,0.020558403584,3
+Full,GB,284,43,gpt-oss-20b,0,0.033429638232,0
+Full,GB,285,44,gpt-oss-20b,0,0.011481542864,1
+Full,GB,286,46,gpt-oss-20b,0,0.010372265328,3
+Full,GB,287,47,gpt-oss-20b,0,0.01180807707,0
+Full,GB,288,48,gpt-oss-20b,0,0.005875204005,2
+Full,GB,289,49,gpt-oss-20b,0,0.028728923119,2
+Full,GB,290,50,gpt-oss-20b,0,0.014900946384,1
+Full,GB,291,52,gpt-oss-20b,0,0.34415040985,4
+Full,GB,292,53,gpt-oss-20b,0,0.010731706732,2
+Full,GB,293,54,gpt-oss-20b,0,0.001236908661,4
+Full,GB,294,55,gpt-oss-20b,0,0.00544046975,3
+Full,GB,295,56,gpt-oss-20b,0,0.002277977005,4
+Full,GB,296,57,gpt-oss-20b,0,0.011879870692,0
+Full,GB,297,58,gpt-oss-20b,0,0.017369044033,2
+Full,GB,298,59,gpt-oss-20b,0,0.0009224736,4
+Full,GB,299,61,gpt-oss-20b,0,0.004603908646,0
+Full,GB,300,62,gpt-oss-20b,0,0.019505715278,4
+Full,GB,301,63,gpt-oss-20b,0,0.030703473324,3
+Full,GB,302,64,gpt-oss-20b,0,0.004086116817,3
+Full,GB,303,67,gpt-oss-20b,0,0.005478704954,2
+Full,GB,304,68,gpt-oss-20b,0,0.407029731743,0
+Full,GB,305,69,gpt-oss-20b,0,0.003792421801,0
+Full,GB,306,70,gpt-oss-20b,0,0.009739858778,1
+Full,GB,307,71,gpt-oss-20b,1,0.138814198894,3
+Full,GB,308,72,gpt-oss-20b,0,0.002275304147,1
+Full,GB,309,73,gpt-oss-20b,0,0.027594164057,4
+Full,GB,310,74,gpt-oss-20b,0,0.003002531906,0
+Full,GB,311,75,gpt-oss-20b,0,0.00520873028,2
+Full,GB,312,76,gpt-oss-20b,0,0.012684817104,1
+Full,GB,313,77,gpt-oss-20b,0,0.012286569936,3
+Full,GB,314,78,gpt-oss-20b,0,0.016776090142,2
+Full,GB,315,79,gpt-oss-20b,0,0.036490678587,1
+Full,GB,316,80,gpt-oss-20b,0,0.012596494016,2
+Full,GB,317,82,gpt-oss-20b,0,0.011106433333,4
+Full,GB,318,83,gpt-oss-20b,0,0.009158551285,2
+Full,GB,319,84,gpt-oss-20b,0,0.012890839516,2
+Full,GB,320,85,gpt-oss-20b,0,0.013974396493,0
+Full,GB,321,86,gpt-oss-20b,0,0.014251396593,1
+Full,GB,322,87,gpt-oss-20b,0,0.005019303674,0
+Full,GB,323,88,gpt-oss-20b,0,0.003905284366,3
+Full,GB,324,89,gpt-oss-20b,0,0.007557271651,1
+Full,GB,325,90,gpt-oss-20b,0,0.013281590537,2
+Full,GB,326,91,gpt-oss-20b,0,0.049154520838,3
+Full,GB,327,92,gpt-oss-20b,0,0.011072142477,0
+Full,GB,328,93,gpt-oss-20b,0,0.025597560772,4
+Full,GB,329,94,gpt-oss-20b,0,0.022271815665,4
+Full,GB,330,95,gpt-oss-20b,0,0.015295381301,4
+Full,GB,331,96,gpt-oss-20b,0,0.009691571106,2
+Full,GB,332,97,gpt-oss-20b,0,0.006532384814,0
+Full,GB,333,99,gpt-oss-20b,0,0.001784858097,4
+Full,GB,334,100,gpt-oss-20b,0,0.00569900083,0
+Full,GB,335,101,gpt-oss-20b,0,0.018725836931,1
+Full,GB,336,102,gpt-oss-20b,0,0.013463172056,2
+Full,GB,337,103,gpt-oss-20b,0,0.001500418905,0
+Full,GB,338,104,gpt-oss-20b,0,0.00598073631,4
+Full,GB,339,106,gpt-oss-20b,0,0.006551906862,2
+Full,GB,340,107,gpt-oss-20b,0,0.008453264752,2
+Full,GB,341,108,gpt-oss-20b,0,0.016637238203,1
+Full,GB,342,109,gpt-oss-20b,0,0.037650954201,1
+Full,GB,343,111,gpt-oss-20b,0,0.003890364052,0
+Full,GB,344,112,gpt-oss-20b,0,0.001122930392,0
+Full,GB,345,113,gpt-oss-20b,0,0.008263278714,4
+Full,GB,346,114,gpt-oss-20b,0,0.042154786538,3
+Full,GB,347,116,gpt-oss-20b,0,0.013347660426,0
+Full,GB,348,117,gpt-oss-20b,0,0.007875235046,2
+Full,GB,349,118,gpt-oss-20b,0,0.005622719282,3
+Full,GB,350,119,gpt-oss-20b,0,0.011423331315,3
+Full,GB,351,120,gpt-oss-20b,0,0.070633647643,2
+Full,GB,352,121,gpt-oss-20b,0,0.034708136898,0
+Full,GB,353,122,gpt-oss-20b,0,0.007717392499,1
+Full,GB,354,124,gpt-oss-20b,0,0.017116209952,1
+Full,GB,355,126,gpt-oss-20b,0,0.009726584177,3
+Full,GB,356,127,gpt-oss-20b,0,0.012187503551,1
+Full,GB,357,128,gpt-oss-20b,0,0.010255158631,3
+Full,GB,358,129,gpt-oss-20b,0,0.003163106042,2
+Full,GB,359,130,gpt-oss-20b,0,0.01385139421,3
+Full,GB,360,132,gpt-oss-20b,0,0.018004771389,2
+Full,GB,361,133,gpt-oss-20b,0,0.007903240566,1
+Full,GB,362,134,gpt-oss-20b,0,0.05460599463,3
+Full,GB,363,135,gpt-oss-20b,0,0.009001706051,3
+Full,GB,364,136,gpt-oss-20b,0,0.026186821593,3
+Full,GB,365,137,gpt-oss-20b,0,0.004827401668,4
+Full,GB,366,138,gpt-oss-20b,0,0.003756876174,4
+Full,GB,367,139,gpt-oss-20b,0,0.002988026885,4
+Full,GB,368,140,gpt-oss-20b,0,0.024520843425,1
+Full,GB,369,141,gpt-oss-20b,0,0.008720782194,4
+Full,GB,370,142,gpt-oss-20b,0,0.008053608916,1
+Full,GB,371,143,gpt-oss-20b,0,0.009207066888,2
+Full,GB,372,144,gpt-oss-20b,1,0.005131844352,4
+Full,GB,373,145,gpt-oss-20b,0,0.009871634587,3
+Full,GB,374,146,gpt-oss-20b,0,0.002200744845,1
+Full,GB,375,147,gpt-oss-20b,0,0.04698070951,0
+Full,GB,376,148,gpt-oss-20b,0,0.091676475573,4
+Full,GB,377,149,gpt-oss-20b,1,0.01035458849,0
+Question/evidence,LR,0,1,llama-3.1-8b-instant,0,0.190169415467,0
+Question/evidence,LR,1,2,llama-3.1-8b-instant,0,0.274380592011,4
+Question/evidence,LR,2,3,llama-3.1-8b-instant,0,0.076984551561,1
+Question/evidence,LR,3,4,llama-3.1-8b-instant,1,0.245556217995,0
+Question/evidence,LR,4,5,llama-3.1-8b-instant,0,0.028667339699,1
+Question/evidence,LR,5,6,llama-3.1-8b-instant,0,0.066544092009,2
+Question/evidence,LR,6,7,llama-3.1-8b-instant,0,0.096829088725,2
+Question/evidence,LR,7,9,llama-3.1-8b-instant,0,0.122219057427,3
+Question/evidence,LR,8,10,llama-3.1-8b-instant,0,0.098665006577,2
+Question/evidence,LR,9,13,llama-3.1-8b-instant,1,0.150954545937,1
+Question/evidence,LR,10,14,llama-3.1-8b-instant,0,0.090209578518,1
+Question/evidence,LR,11,16,llama-3.1-8b-instant,0,0.16569484408,3
+Question/evidence,LR,12,17,llama-3.1-8b-instant,1,0.041226241299,1
+Question/evidence,LR,13,20,llama-3.1-8b-instant,0,0.119588239002,4
+Question/evidence,LR,14,22,llama-3.1-8b-instant,0,0.043386615831,4
+Question/evidence,LR,15,23,llama-3.1-8b-instant,1,0.080774133794,3
+Question/evidence,LR,16,24,llama-3.1-8b-instant,1,0.089491280623,0
+Question/evidence,LR,17,25,llama-3.1-8b-instant,0,0.050684941226,0
+Question/evidence,LR,18,26,llama-3.1-8b-instant,1,0.105170894159,2
+Question/evidence,LR,19,27,llama-3.1-8b-instant,0,0.122768649693,0
+Question/evidence,LR,20,28,llama-3.1-8b-instant,1,0.102018185161,1
+Question/evidence,LR,21,29,llama-3.1-8b-instant,0,0.086924971899,0
+Question/evidence,LR,22,30,llama-3.1-8b-instant,0,0.192572365957,1
+Question/evidence,LR,23,31,llama-3.1-8b-instant,1,0.183629258177,1
+Question/evidence,LR,24,32,llama-3.1-8b-instant,1,0.08536616181,4
+Question/evidence,LR,25,34,llama-3.1-8b-instant,0,0.075148723027,3
+Question/evidence,LR,26,35,llama-3.1-8b-instant,0,0.14178390597,4
+Question/evidence,LR,27,37,llama-3.1-8b-instant,1,0.10491425444,2
+Question/evidence,LR,28,39,llama-3.1-8b-instant,1,0.162459328153,3
+Question/evidence,LR,29,40,llama-3.1-8b-instant,0,0.469266434364,4
+Question/evidence,LR,30,41,llama-3.1-8b-instant,0,0.059096634848,0
+Question/evidence,LR,31,42,llama-3.1-8b-instant,0,0.122751237007,3
+Question/evidence,LR,32,43,llama-3.1-8b-instant,1,0.087441381672,0
+Question/evidence,LR,33,44,llama-3.1-8b-instant,0,0.041597189667,1
+Question/evidence,LR,34,46,llama-3.1-8b-instant,1,0.097060186925,3
+Question/evidence,LR,35,47,llama-3.1-8b-instant,0,0.070073938096,0
+Question/evidence,LR,36,48,llama-3.1-8b-instant,0,0.076614961717,2
+Question/evidence,LR,37,49,llama-3.1-8b-instant,0,0.133856787854,2
+Question/evidence,LR,38,50,llama-3.1-8b-instant,1,0.132522985731,1
+Question/evidence,LR,39,52,llama-3.1-8b-instant,0,0.074505284284,4
+Question/evidence,LR,40,53,llama-3.1-8b-instant,0,0.077242121081,2
+Question/evidence,LR,41,54,llama-3.1-8b-instant,0,0.124943530284,4
+Question/evidence,LR,42,55,llama-3.1-8b-instant,0,0.101179526617,3
+Question/evidence,LR,43,56,llama-3.1-8b-instant,0,0.030221864188,4
+Question/evidence,LR,44,57,llama-3.1-8b-instant,1,0.061898978573,0
+Question/evidence,LR,45,58,llama-3.1-8b-instant,0,0.07071337945,2
+Question/evidence,LR,46,59,llama-3.1-8b-instant,0,0.059605722484,4
+Question/evidence,LR,47,61,llama-3.1-8b-instant,1,0.067300159854,0
+Question/evidence,LR,48,62,llama-3.1-8b-instant,1,0.130432299378,4
+Question/evidence,LR,49,63,llama-3.1-8b-instant,0,0.104372659745,3
+Question/evidence,LR,50,64,llama-3.1-8b-instant,0,0.211301676559,3
+Question/evidence,LR,51,67,llama-3.1-8b-instant,1,0.094314485358,2
+Question/evidence,LR,52,68,llama-3.1-8b-instant,1,0.15906425666,0
+Question/evidence,LR,53,69,llama-3.1-8b-instant,0,0.26703972673,0
+Question/evidence,LR,54,70,llama-3.1-8b-instant,0,0.081240949581,1
+Question/evidence,LR,55,71,llama-3.1-8b-instant,1,0.285799757699,3
+Question/evidence,LR,56,72,llama-3.1-8b-instant,0,0.247186188554,1
+Question/evidence,LR,57,73,llama-3.1-8b-instant,0,0.112828365454,4
+Question/evidence,LR,58,74,llama-3.1-8b-instant,0,0.061621359369,0
+Question/evidence,LR,59,75,llama-3.1-8b-instant,1,0.104035953938,2
+Question/evidence,LR,60,76,llama-3.1-8b-instant,0,0.124232111819,1
+Question/evidence,LR,61,77,llama-3.1-8b-instant,1,0.102252944593,3
+Question/evidence,LR,62,78,llama-3.1-8b-instant,0,0.121169775531,2
+Question/evidence,LR,63,79,llama-3.1-8b-instant,0,0.146178518199,1
+Question/evidence,LR,64,80,llama-3.1-8b-instant,0,0.052065911766,2
+Question/evidence,LR,65,82,llama-3.1-8b-instant,1,0.253034255391,4
+Question/evidence,LR,66,83,llama-3.1-8b-instant,1,0.371747387003,2
+Question/evidence,LR,67,84,llama-3.1-8b-instant,0,0.036574803138,2
+Question/evidence,LR,68,85,llama-3.1-8b-instant,1,0.06633359854,0
+Question/evidence,LR,69,86,llama-3.1-8b-instant,1,0.202824003326,1
+Question/evidence,LR,70,87,llama-3.1-8b-instant,0,0.062917678564,0
+Question/evidence,LR,71,88,llama-3.1-8b-instant,0,0.113487675982,3
+Question/evidence,LR,72,89,llama-3.1-8b-instant,0,0.078477727836,1
+Question/evidence,LR,73,90,llama-3.1-8b-instant,1,0.08177466527,2
+Question/evidence,LR,74,91,llama-3.1-8b-instant,1,0.188172382004,3
+Question/evidence,LR,75,92,llama-3.1-8b-instant,0,0.094215865281,0
+Question/evidence,LR,76,93,llama-3.1-8b-instant,1,0.083580773906,4
+Question/evidence,LR,77,94,llama-3.1-8b-instant,0,0.089963031707,4
+Question/evidence,LR,78,95,llama-3.1-8b-instant,0,0.436239106759,4
+Question/evidence,LR,79,96,llama-3.1-8b-instant,0,0.097337906619,2
+Question/evidence,LR,80,97,llama-3.1-8b-instant,0,0.093408488652,0
+Question/evidence,LR,81,99,llama-3.1-8b-instant,0,0.093935154866,4
+Question/evidence,LR,82,100,llama-3.1-8b-instant,0,0.040900357512,0
+Question/evidence,LR,83,101,llama-3.1-8b-instant,0,0.232481571015,1
+Question/evidence,LR,84,102,llama-3.1-8b-instant,0,0.044144751327,2
+Question/evidence,LR,85,103,llama-3.1-8b-instant,0,0.204737742999,0
+Question/evidence,LR,86,104,llama-3.1-8b-instant,1,0.120372215061,4
+Question/evidence,LR,87,106,llama-3.1-8b-instant,0,0.070548060795,2
+Question/evidence,LR,88,107,llama-3.1-8b-instant,0,0.077833073868,2
+Question/evidence,LR,89,108,llama-3.1-8b-instant,0,0.061664478879,1
+Question/evidence,LR,90,109,llama-3.1-8b-instant,0,0.115723887091,1
+Question/evidence,LR,91,111,llama-3.1-8b-instant,0,0.037555292891,0
+Question/evidence,LR,92,112,llama-3.1-8b-instant,0,0.055361771909,0
+Question/evidence,LR,93,113,llama-3.1-8b-instant,1,0.077562956251,4
+Question/evidence,LR,94,114,llama-3.1-8b-instant,0,0.03993342573,3
+Question/evidence,LR,95,116,llama-3.1-8b-instant,1,0.09064224806,0
+Question/evidence,LR,96,117,llama-3.1-8b-instant,1,0.138367946111,2
+Question/evidence,LR,97,118,llama-3.1-8b-instant,0,0.099803803442,3
+Question/evidence,LR,98,119,llama-3.1-8b-instant,0,0.111401125028,3
+Question/evidence,LR,99,120,llama-3.1-8b-instant,1,0.213475358966,2
+Question/evidence,LR,100,121,llama-3.1-8b-instant,0,0.157986177626,0
+Question/evidence,LR,101,122,llama-3.1-8b-instant,0,0.048368486383,1
+Question/evidence,LR,102,124,llama-3.1-8b-instant,0,0.177113178999,1
+Question/evidence,LR,103,126,llama-3.1-8b-instant,0,0.10094638218,3
+Question/evidence,LR,104,127,llama-3.1-8b-instant,0,0.203567799924,1
+Question/evidence,LR,105,128,llama-3.1-8b-instant,1,0.074135907855,3
+Question/evidence,LR,106,129,llama-3.1-8b-instant,0,0.136149436022,2
+Question/evidence,LR,107,130,llama-3.1-8b-instant,0,0.082034760018,3
+Question/evidence,LR,108,132,llama-3.1-8b-instant,1,0.073519183565,2
+Question/evidence,LR,109,133,llama-3.1-8b-instant,1,0.136624310023,1
+Question/evidence,LR,110,134,llama-3.1-8b-instant,0,0.28768408754,3
+Question/evidence,LR,111,135,llama-3.1-8b-instant,0,0.111086049964,3
+Question/evidence,LR,112,136,llama-3.1-8b-instant,0,0.059081156849,3
+Question/evidence,LR,113,137,llama-3.1-8b-instant,0,0.073084384567,4
+Question/evidence,LR,114,138,llama-3.1-8b-instant,0,0.040233444117,4
+Question/evidence,LR,115,139,llama-3.1-8b-instant,0,0.04145170079,4
+Question/evidence,LR,116,140,llama-3.1-8b-instant,0,0.144175893804,1
+Question/evidence,LR,117,141,llama-3.1-8b-instant,1,0.162029289004,4
+Question/evidence,LR,118,142,llama-3.1-8b-instant,1,0.10423021275,1
+Question/evidence,LR,119,143,llama-3.1-8b-instant,0,0.081476640228,2
+Question/evidence,LR,120,144,llama-3.1-8b-instant,0,0.091402991096,4
+Question/evidence,LR,121,145,llama-3.1-8b-instant,0,0.060734553228,3
+Question/evidence,LR,122,146,llama-3.1-8b-instant,0,0.024437589396,1
+Question/evidence,LR,123,147,llama-3.1-8b-instant,0,0.367257216214,0
+Question/evidence,LR,124,148,llama-3.1-8b-instant,0,0.126800782198,4
+Question/evidence,LR,125,149,llama-3.1-8b-instant,0,0.320291861327,0
+Question/evidence,LR,126,1,llama-3.3-70b-versatile,0,0.190169415467,0
+Question/evidence,LR,127,2,llama-3.3-70b-versatile,0,0.274380592011,4
+Question/evidence,LR,128,3,llama-3.3-70b-versatile,0,0.076984551561,1
+Question/evidence,LR,129,4,llama-3.3-70b-versatile,0,0.245556217995,0
+Question/evidence,LR,130,5,llama-3.3-70b-versatile,0,0.028667339699,1
+Question/evidence,LR,131,6,llama-3.3-70b-versatile,0,0.066544092009,2
+Question/evidence,LR,132,7,llama-3.3-70b-versatile,0,0.096829088725,2
+Question/evidence,LR,133,9,llama-3.3-70b-versatile,0,0.122219057427,3
+Question/evidence,LR,134,10,llama-3.3-70b-versatile,0,0.098665006577,2
+Question/evidence,LR,135,13,llama-3.3-70b-versatile,0,0.150954545937,1
+Question/evidence,LR,136,14,llama-3.3-70b-versatile,0,0.090209578518,1
+Question/evidence,LR,137,16,llama-3.3-70b-versatile,0,0.16569484408,3
+Question/evidence,LR,138,17,llama-3.3-70b-versatile,0,0.041226241299,1
+Question/evidence,LR,139,20,llama-3.3-70b-versatile,0,0.119588239002,4
+Question/evidence,LR,140,22,llama-3.3-70b-versatile,0,0.043386615831,4
+Question/evidence,LR,141,23,llama-3.3-70b-versatile,0,0.080774133794,3
+Question/evidence,LR,142,24,llama-3.3-70b-versatile,0,0.089491280623,0
+Question/evidence,LR,143,25,llama-3.3-70b-versatile,0,0.050684941226,0
+Question/evidence,LR,144,26,llama-3.3-70b-versatile,0,0.105170894159,2
+Question/evidence,LR,145,27,llama-3.3-70b-versatile,0,0.122768649693,0
+Question/evidence,LR,146,28,llama-3.3-70b-versatile,0,0.102018185161,1
+Question/evidence,LR,147,29,llama-3.3-70b-versatile,0,0.086924971899,0
+Question/evidence,LR,148,30,llama-3.3-70b-versatile,0,0.192572365957,1
+Question/evidence,LR,149,31,llama-3.3-70b-versatile,0,0.183629258177,1
+Question/evidence,LR,150,32,llama-3.3-70b-versatile,0,0.08536616181,4
+Question/evidence,LR,151,34,llama-3.3-70b-versatile,0,0.075148723027,3
+Question/evidence,LR,152,35,llama-3.3-70b-versatile,0,0.14178390597,4
+Question/evidence,LR,153,37,llama-3.3-70b-versatile,0,0.10491425444,2
+Question/evidence,LR,154,39,llama-3.3-70b-versatile,0,0.162459328153,3
+Question/evidence,LR,155,40,llama-3.3-70b-versatile,0,0.469266434364,4
+Question/evidence,LR,156,41,llama-3.3-70b-versatile,0,0.059096634848,0
+Question/evidence,LR,157,42,llama-3.3-70b-versatile,0,0.122751237007,3
+Question/evidence,LR,158,43,llama-3.3-70b-versatile,0,0.087441381672,0
+Question/evidence,LR,159,44,llama-3.3-70b-versatile,0,0.041597189667,1
+Question/evidence,LR,160,46,llama-3.3-70b-versatile,0,0.097060186925,3
+Question/evidence,LR,161,47,llama-3.3-70b-versatile,0,0.070073938096,0
+Question/evidence,LR,162,48,llama-3.3-70b-versatile,0,0.076614961717,2
+Question/evidence,LR,163,49,llama-3.3-70b-versatile,0,0.133856787854,2
+Question/evidence,LR,164,50,llama-3.3-70b-versatile,0,0.132522985731,1
+Question/evidence,LR,165,52,llama-3.3-70b-versatile,0,0.074505284284,4
+Question/evidence,LR,166,53,llama-3.3-70b-versatile,0,0.077242121081,2
+Question/evidence,LR,167,54,llama-3.3-70b-versatile,0,0.124943530284,4
+Question/evidence,LR,168,55,llama-3.3-70b-versatile,0,0.101179526617,3
+Question/evidence,LR,169,56,llama-3.3-70b-versatile,0,0.030221864188,4
+Question/evidence,LR,170,57,llama-3.3-70b-versatile,0,0.061898978573,0
+Question/evidence,LR,171,58,llama-3.3-70b-versatile,0,0.07071337945,2
+Question/evidence,LR,172,59,llama-3.3-70b-versatile,0,0.059605722484,4
+Question/evidence,LR,173,61,llama-3.3-70b-versatile,0,0.067300159854,0
+Question/evidence,LR,174,62,llama-3.3-70b-versatile,0,0.130432299378,4
+Question/evidence,LR,175,63,llama-3.3-70b-versatile,0,0.104372659745,3
+Question/evidence,LR,176,64,llama-3.3-70b-versatile,0,0.211301676559,3
+Question/evidence,LR,177,67,llama-3.3-70b-versatile,0,0.094314485358,2
+Question/evidence,LR,178,68,llama-3.3-70b-versatile,0,0.15906425666,0
+Question/evidence,LR,179,69,llama-3.3-70b-versatile,0,0.26703972673,0
+Question/evidence,LR,180,70,llama-3.3-70b-versatile,0,0.081240949581,1
+Question/evidence,LR,181,71,llama-3.3-70b-versatile,0,0.285799757699,3
+Question/evidence,LR,182,72,llama-3.3-70b-versatile,0,0.247186188554,1
+Question/evidence,LR,183,73,llama-3.3-70b-versatile,0,0.112828365454,4
+Question/evidence,LR,184,74,llama-3.3-70b-versatile,0,0.061621359369,0
+Question/evidence,LR,185,75,llama-3.3-70b-versatile,0,0.104035953938,2
+Question/evidence,LR,186,76,llama-3.3-70b-versatile,0,0.124232111819,1
+Question/evidence,LR,187,77,llama-3.3-70b-versatile,0,0.102252944593,3
+Question/evidence,LR,188,78,llama-3.3-70b-versatile,0,0.121169775531,2
+Question/evidence,LR,189,79,llama-3.3-70b-versatile,0,0.146178518199,1
+Question/evidence,LR,190,80,llama-3.3-70b-versatile,0,0.052065911766,2
+Question/evidence,LR,191,82,llama-3.3-70b-versatile,0,0.253034255391,4
+Question/evidence,LR,192,83,llama-3.3-70b-versatile,1,0.371747387003,2
+Question/evidence,LR,193,84,llama-3.3-70b-versatile,0,0.036574803138,2
+Question/evidence,LR,194,85,llama-3.3-70b-versatile,0,0.06633359854,0
+Question/evidence,LR,195,86,llama-3.3-70b-versatile,0,0.202824003326,1
+Question/evidence,LR,196,87,llama-3.3-70b-versatile,0,0.062917678564,0
+Question/evidence,LR,197,88,llama-3.3-70b-versatile,0,0.113487675982,3
+Question/evidence,LR,198,89,llama-3.3-70b-versatile,0,0.078477727836,1
+Question/evidence,LR,199,90,llama-3.3-70b-versatile,0,0.08177466527,2
+Question/evidence,LR,200,91,llama-3.3-70b-versatile,0,0.188172382004,3
+Question/evidence,LR,201,92,llama-3.3-70b-versatile,0,0.094215865281,0
+Question/evidence,LR,202,93,llama-3.3-70b-versatile,0,0.083580773906,4
+Question/evidence,LR,203,94,llama-3.3-70b-versatile,0,0.089963031707,4
+Question/evidence,LR,204,95,llama-3.3-70b-versatile,0,0.436239106759,4
+Question/evidence,LR,205,96,llama-3.3-70b-versatile,0,0.097337906619,2
+Question/evidence,LR,206,97,llama-3.3-70b-versatile,0,0.093408488652,0
+Question/evidence,LR,207,99,llama-3.3-70b-versatile,0,0.093935154866,4
+Question/evidence,LR,208,100,llama-3.3-70b-versatile,0,0.040900357512,0
+Question/evidence,LR,209,101,llama-3.3-70b-versatile,0,0.232481571015,1
+Question/evidence,LR,210,102,llama-3.3-70b-versatile,0,0.044144751327,2
+Question/evidence,LR,211,103,llama-3.3-70b-versatile,0,0.204737742999,0
+Question/evidence,LR,212,104,llama-3.3-70b-versatile,0,0.120372215061,4
+Question/evidence,LR,213,106,llama-3.3-70b-versatile,0,0.070548060795,2
+Question/evidence,LR,214,107,llama-3.3-70b-versatile,0,0.077833073868,2
+Question/evidence,LR,215,108,llama-3.3-70b-versatile,0,0.061664478879,1
+Question/evidence,LR,216,109,llama-3.3-70b-versatile,0,0.115723887091,1
+Question/evidence,LR,217,111,llama-3.3-70b-versatile,0,0.037555292891,0
+Question/evidence,LR,218,112,llama-3.3-70b-versatile,0,0.055361771909,0
+Question/evidence,LR,219,113,llama-3.3-70b-versatile,0,0.077562956251,4
+Question/evidence,LR,220,114,llama-3.3-70b-versatile,0,0.03993342573,3
+Question/evidence,LR,221,116,llama-3.3-70b-versatile,0,0.09064224806,0
+Question/evidence,LR,222,117,llama-3.3-70b-versatile,0,0.138367946111,2
+Question/evidence,LR,223,118,llama-3.3-70b-versatile,0,0.099803803442,3
+Question/evidence,LR,224,119,llama-3.3-70b-versatile,0,0.111401125028,3
+Question/evidence,LR,225,120,llama-3.3-70b-versatile,0,0.213475358966,2
+Question/evidence,LR,226,121,llama-3.3-70b-versatile,0,0.157986177626,0
+Question/evidence,LR,227,122,llama-3.3-70b-versatile,0,0.048368486383,1
+Question/evidence,LR,228,124,llama-3.3-70b-versatile,0,0.177113178999,1
+Question/evidence,LR,229,126,llama-3.3-70b-versatile,0,0.10094638218,3
+Question/evidence,LR,230,127,llama-3.3-70b-versatile,0,0.203567799924,1
+Question/evidence,LR,231,128,llama-3.3-70b-versatile,0,0.074135907855,3
+Question/evidence,LR,232,129,llama-3.3-70b-versatile,0,0.136149436022,2
+Question/evidence,LR,233,130,llama-3.3-70b-versatile,0,0.082034760018,3
+Question/evidence,LR,234,132,llama-3.3-70b-versatile,0,0.073519183565,2
+Question/evidence,LR,235,133,llama-3.3-70b-versatile,0,0.136624310023,1
+Question/evidence,LR,236,134,llama-3.3-70b-versatile,0,0.28768408754,3
+Question/evidence,LR,237,135,llama-3.3-70b-versatile,0,0.111086049964,3
+Question/evidence,LR,238,136,llama-3.3-70b-versatile,0,0.059081156849,3
+Question/evidence,LR,239,137,llama-3.3-70b-versatile,0,0.073084384567,4
+Question/evidence,LR,240,138,llama-3.3-70b-versatile,0,0.040233444117,4
+Question/evidence,LR,241,139,llama-3.3-70b-versatile,0,0.04145170079,4
+Question/evidence,LR,242,140,llama-3.3-70b-versatile,0,0.144175893804,1
+Question/evidence,LR,243,141,llama-3.3-70b-versatile,0,0.162029289004,4
+Question/evidence,LR,244,142,llama-3.3-70b-versatile,0,0.10423021275,1
+Question/evidence,LR,245,143,llama-3.3-70b-versatile,0,0.081476640228,2
+Question/evidence,LR,246,144,llama-3.3-70b-versatile,0,0.091402991096,4
+Question/evidence,LR,247,145,llama-3.3-70b-versatile,0,0.060734553228,3
+Question/evidence,LR,248,146,llama-3.3-70b-versatile,0,0.024437589396,1
+Question/evidence,LR,249,147,llama-3.3-70b-versatile,0,0.367257216214,0
+Question/evidence,LR,250,148,llama-3.3-70b-versatile,0,0.126800782198,4
+Question/evidence,LR,251,149,llama-3.3-70b-versatile,0,0.320291861327,0
+Question/evidence,LR,252,1,gpt-oss-20b,0,0.190169415467,0
+Question/evidence,LR,253,2,gpt-oss-20b,0,0.274380592011,4
+Question/evidence,LR,254,3,gpt-oss-20b,0,0.076984551561,1
+Question/evidence,LR,255,4,gpt-oss-20b,0,0.245556217995,0
+Question/evidence,LR,256,5,gpt-oss-20b,1,0.028667339699,1
+Question/evidence,LR,257,6,gpt-oss-20b,0,0.066544092009,2
+Question/evidence,LR,258,7,gpt-oss-20b,0,0.096829088725,2
+Question/evidence,LR,259,9,gpt-oss-20b,0,0.122219057427,3
+Question/evidence,LR,260,10,gpt-oss-20b,0,0.098665006577,2
+Question/evidence,LR,261,13,gpt-oss-20b,0,0.150954545937,1
+Question/evidence,LR,262,14,gpt-oss-20b,0,0.090209578518,1
+Question/evidence,LR,263,16,gpt-oss-20b,0,0.16569484408,3
+Question/evidence,LR,264,17,gpt-oss-20b,0,0.041226241299,1
+Question/evidence,LR,265,20,gpt-oss-20b,0,0.119588239002,4
+Question/evidence,LR,266,22,gpt-oss-20b,0,0.043386615831,4
+Question/evidence,LR,267,23,gpt-oss-20b,0,0.080774133794,3
+Question/evidence,LR,268,24,gpt-oss-20b,0,0.089491280623,0
+Question/evidence,LR,269,25,gpt-oss-20b,0,0.050684941226,0
+Question/evidence,LR,270,26,gpt-oss-20b,0,0.105170894159,2
+Question/evidence,LR,271,27,gpt-oss-20b,0,0.122768649693,0
+Question/evidence,LR,272,28,gpt-oss-20b,0,0.102018185161,1
+Question/evidence,LR,273,29,gpt-oss-20b,0,0.086924971899,0
+Question/evidence,LR,274,30,gpt-oss-20b,0,0.192572365957,1
+Question/evidence,LR,275,31,gpt-oss-20b,0,0.183629258177,1
+Question/evidence,LR,276,32,gpt-oss-20b,0,0.08536616181,4
+Question/evidence,LR,277,34,gpt-oss-20b,0,0.075148723027,3
+Question/evidence,LR,278,35,gpt-oss-20b,0,0.14178390597,4
+Question/evidence,LR,279,37,gpt-oss-20b,0,0.10491425444,2
+Question/evidence,LR,280,39,gpt-oss-20b,0,0.162459328153,3
+Question/evidence,LR,281,40,gpt-oss-20b,1,0.469266434364,4
+Question/evidence,LR,282,41,gpt-oss-20b,0,0.059096634848,0
+Question/evidence,LR,283,42,gpt-oss-20b,1,0.122751237007,3
+Question/evidence,LR,284,43,gpt-oss-20b,0,0.087441381672,0
+Question/evidence,LR,285,44,gpt-oss-20b,0,0.041597189667,1
+Question/evidence,LR,286,46,gpt-oss-20b,0,0.097060186925,3
+Question/evidence,LR,287,47,gpt-oss-20b,0,0.070073938096,0
+Question/evidence,LR,288,48,gpt-oss-20b,0,0.076614961717,2
+Question/evidence,LR,289,49,gpt-oss-20b,0,0.133856787854,2
+Question/evidence,LR,290,50,gpt-oss-20b,0,0.132522985731,1
+Question/evidence,LR,291,52,gpt-oss-20b,0,0.074505284284,4
+Question/evidence,LR,292,53,gpt-oss-20b,0,0.077242121081,2
+Question/evidence,LR,293,54,gpt-oss-20b,0,0.124943530284,4
+Question/evidence,LR,294,55,gpt-oss-20b,0,0.101179526617,3
+Question/evidence,LR,295,56,gpt-oss-20b,0,0.030221864188,4
+Question/evidence,LR,296,57,gpt-oss-20b,0,0.061898978573,0
+Question/evidence,LR,297,58,gpt-oss-20b,0,0.07071337945,2
+Question/evidence,LR,298,59,gpt-oss-20b,0,0.059605722484,4
+Question/evidence,LR,299,61,gpt-oss-20b,0,0.067300159854,0
+Question/evidence,LR,300,62,gpt-oss-20b,0,0.130432299378,4
+Question/evidence,LR,301,63,gpt-oss-20b,0,0.104372659745,3
+Question/evidence,LR,302,64,gpt-oss-20b,0,0.211301676559,3
+Question/evidence,LR,303,67,gpt-oss-20b,0,0.094314485358,2
+Question/evidence,LR,304,68,gpt-oss-20b,0,0.15906425666,0
+Question/evidence,LR,305,69,gpt-oss-20b,0,0.26703972673,0
+Question/evidence,LR,306,70,gpt-oss-20b,0,0.081240949581,1
+Question/evidence,LR,307,71,gpt-oss-20b,1,0.285799757699,3
+Question/evidence,LR,308,72,gpt-oss-20b,0,0.247186188554,1
+Question/evidence,LR,309,73,gpt-oss-20b,0,0.112828365454,4
+Question/evidence,LR,310,74,gpt-oss-20b,0,0.061621359369,0
+Question/evidence,LR,311,75,gpt-oss-20b,0,0.104035953938,2
+Question/evidence,LR,312,76,gpt-oss-20b,0,0.124232111819,1
+Question/evidence,LR,313,77,gpt-oss-20b,0,0.102252944593,3
+Question/evidence,LR,314,78,gpt-oss-20b,0,0.121169775531,2
+Question/evidence,LR,315,79,gpt-oss-20b,0,0.146178518199,1
+Question/evidence,LR,316,80,gpt-oss-20b,0,0.052065911766,2
+Question/evidence,LR,317,82,gpt-oss-20b,0,0.253034255391,4
+Question/evidence,LR,318,83,gpt-oss-20b,0,0.371747387003,2
+Question/evidence,LR,319,84,gpt-oss-20b,0,0.036574803138,2
+Question/evidence,LR,320,85,gpt-oss-20b,0,0.06633359854,0
+Question/evidence,LR,321,86,gpt-oss-20b,0,0.202824003326,1
+Question/evidence,LR,322,87,gpt-oss-20b,0,0.062917678564,0
+Question/evidence,LR,323,88,gpt-oss-20b,0,0.113487675982,3
+Question/evidence,LR,324,89,gpt-oss-20b,0,0.078477727836,1
+Question/evidence,LR,325,90,gpt-oss-20b,0,0.08177466527,2
+Question/evidence,LR,326,91,gpt-oss-20b,0,0.188172382004,3
+Question/evidence,LR,327,92,gpt-oss-20b,0,0.094215865281,0
+Question/evidence,LR,328,93,gpt-oss-20b,0,0.083580773906,4
+Question/evidence,LR,329,94,gpt-oss-20b,0,0.089963031707,4
+Question/evidence,LR,330,95,gpt-oss-20b,0,0.436239106759,4
+Question/evidence,LR,331,96,gpt-oss-20b,0,0.097337906619,2
+Question/evidence,LR,332,97,gpt-oss-20b,0,0.093408488652,0
+Question/evidence,LR,333,99,gpt-oss-20b,0,0.093935154866,4
+Question/evidence,LR,334,100,gpt-oss-20b,0,0.040900357512,0
+Question/evidence,LR,335,101,gpt-oss-20b,0,0.232481571015,1
+Question/evidence,LR,336,102,gpt-oss-20b,0,0.044144751327,2
+Question/evidence,LR,337,103,gpt-oss-20b,0,0.204737742999,0
+Question/evidence,LR,338,104,gpt-oss-20b,0,0.120372215061,4
+Question/evidence,LR,339,106,gpt-oss-20b,0,0.070548060795,2
+Question/evidence,LR,340,107,gpt-oss-20b,0,0.077833073868,2
+Question/evidence,LR,341,108,gpt-oss-20b,0,0.061664478879,1
+Question/evidence,LR,342,109,gpt-oss-20b,0,0.115723887091,1
+Question/evidence,LR,343,111,gpt-oss-20b,0,0.037555292891,0
+Question/evidence,LR,344,112,gpt-oss-20b,0,0.055361771909,0
+Question/evidence,LR,345,113,gpt-oss-20b,0,0.077562956251,4
+Question/evidence,LR,346,114,gpt-oss-20b,0,0.03993342573,3
+Question/evidence,LR,347,116,gpt-oss-20b,0,0.09064224806,0
+Question/evidence,LR,348,117,gpt-oss-20b,0,0.138367946111,2
+Question/evidence,LR,349,118,gpt-oss-20b,0,0.099803803442,3
+Question/evidence,LR,350,119,gpt-oss-20b,0,0.111401125028,3
+Question/evidence,LR,351,120,gpt-oss-20b,0,0.213475358966,2
+Question/evidence,LR,352,121,gpt-oss-20b,0,0.157986177626,0
+Question/evidence,LR,353,122,gpt-oss-20b,0,0.048368486383,1
+Question/evidence,LR,354,124,gpt-oss-20b,0,0.177113178999,1
+Question/evidence,LR,355,126,gpt-oss-20b,0,0.10094638218,3
+Question/evidence,LR,356,127,gpt-oss-20b,0,0.203567799924,1
+Question/evidence,LR,357,128,gpt-oss-20b,0,0.074135907855,3
+Question/evidence,LR,358,129,gpt-oss-20b,0,0.136149436022,2
+Question/evidence,LR,359,130,gpt-oss-20b,0,0.082034760018,3
+Question/evidence,LR,360,132,gpt-oss-20b,0,0.073519183565,2
+Question/evidence,LR,361,133,gpt-oss-20b,0,0.136624310023,1
+Question/evidence,LR,362,134,gpt-oss-20b,0,0.28768408754,3
+Question/evidence,LR,363,135,gpt-oss-20b,0,0.111086049964,3
+Question/evidence,LR,364,136,gpt-oss-20b,0,0.059081156849,3
+Question/evidence,LR,365,137,gpt-oss-20b,0,0.073084384567,4
+Question/evidence,LR,366,138,gpt-oss-20b,0,0.040233444117,4
+Question/evidence,LR,367,139,gpt-oss-20b,0,0.04145170079,4
+Question/evidence,LR,368,140,gpt-oss-20b,0,0.144175893804,1
+Question/evidence,LR,369,141,gpt-oss-20b,0,0.162029289004,4
+Question/evidence,LR,370,142,gpt-oss-20b,0,0.10423021275,1
+Question/evidence,LR,371,143,gpt-oss-20b,0,0.081476640228,2
+Question/evidence,LR,372,144,gpt-oss-20b,1,0.091402991096,4
+Question/evidence,LR,373,145,gpt-oss-20b,0,0.060734553228,3
+Question/evidence,LR,374,146,gpt-oss-20b,0,0.024437589396,1
+Question/evidence,LR,375,147,gpt-oss-20b,0,0.367257216214,0
+Question/evidence,LR,376,148,gpt-oss-20b,0,0.126800782198,4
+Question/evidence,LR,377,149,gpt-oss-20b,1,0.320291861327,0
+Question/evidence,RF,0,1,llama-3.1-8b-instant,0,0.23732238282,0
+Question/evidence,RF,1,2,llama-3.1-8b-instant,0,0.153148365319,4
+Question/evidence,RF,2,3,llama-3.1-8b-instant,0,0.155164801601,1
+Question/evidence,RF,3,4,llama-3.1-8b-instant,1,0.289809080976,0
+Question/evidence,RF,4,5,llama-3.1-8b-instant,0,0.050327090836,1
+Question/evidence,RF,5,6,llama-3.1-8b-instant,0,0.052410367739,2
+Question/evidence,RF,6,7,llama-3.1-8b-instant,0,0.051425360199,2
+Question/evidence,RF,7,9,llama-3.1-8b-instant,0,0.171571531482,3
+Question/evidence,RF,8,10,llama-3.1-8b-instant,0,0.09911540753,2
+Question/evidence,RF,9,13,llama-3.1-8b-instant,1,0.210813230419,1
+Question/evidence,RF,10,14,llama-3.1-8b-instant,0,0.105777362386,1
+Question/evidence,RF,11,16,llama-3.1-8b-instant,0,0.194895336813,3
+Question/evidence,RF,12,17,llama-3.1-8b-instant,1,0.034968048878,1
+Question/evidence,RF,13,20,llama-3.1-8b-instant,0,0.115014124066,4
+Question/evidence,RF,14,22,llama-3.1-8b-instant,0,0.059373693501,4
+Question/evidence,RF,15,23,llama-3.1-8b-instant,1,0.219551587038,3
+Question/evidence,RF,16,24,llama-3.1-8b-instant,1,0.115999727714,0
+Question/evidence,RF,17,25,llama-3.1-8b-instant,0,0.173061730482,0
+Question/evidence,RF,18,26,llama-3.1-8b-instant,1,0.10213744791,2
+Question/evidence,RF,19,27,llama-3.1-8b-instant,0,0.241448743063,0
+Question/evidence,RF,20,28,llama-3.1-8b-instant,1,0.120633920559,1
+Question/evidence,RF,21,29,llama-3.1-8b-instant,0,0.07061250581,0
+Question/evidence,RF,22,30,llama-3.1-8b-instant,0,0.166359718598,1
+Question/evidence,RF,23,31,llama-3.1-8b-instant,1,0.142563288206,1
+Question/evidence,RF,24,32,llama-3.1-8b-instant,1,0.177033126502,4
+Question/evidence,RF,25,34,llama-3.1-8b-instant,0,0.061368055107,3
+Question/evidence,RF,26,35,llama-3.1-8b-instant,0,0.142035224962,4
+Question/evidence,RF,27,37,llama-3.1-8b-instant,1,0.12010086327,2
+Question/evidence,RF,28,39,llama-3.1-8b-instant,1,0.231321842943,3
+Question/evidence,RF,29,40,llama-3.1-8b-instant,0,0.263337806164,4
+Question/evidence,RF,30,41,llama-3.1-8b-instant,0,0.022049018604,0
+Question/evidence,RF,31,42,llama-3.1-8b-instant,0,0.182909199188,3
+Question/evidence,RF,32,43,llama-3.1-8b-instant,1,0.146448582207,0
+Question/evidence,RF,33,44,llama-3.1-8b-instant,0,0.077832899525,1
+Question/evidence,RF,34,46,llama-3.1-8b-instant,1,0.072368965668,3
+Question/evidence,RF,35,47,llama-3.1-8b-instant,0,0.065392454085,0
+Question/evidence,RF,36,48,llama-3.1-8b-instant,0,0.042025985094,2
+Question/evidence,RF,37,49,llama-3.1-8b-instant,0,0.222588174118,2
+Question/evidence,RF,38,50,llama-3.1-8b-instant,1,0.100117628057,1
+Question/evidence,RF,39,52,llama-3.1-8b-instant,0,0.224653656527,4
+Question/evidence,RF,40,53,llama-3.1-8b-instant,0,0.063202984622,2
+Question/evidence,RF,41,54,llama-3.1-8b-instant,0,0.076541935874,4
+Question/evidence,RF,42,55,llama-3.1-8b-instant,0,0.10054425374,3
+Question/evidence,RF,43,56,llama-3.1-8b-instant,0,0.051378589655,4
+Question/evidence,RF,44,57,llama-3.1-8b-instant,1,0.099604726624,0
+Question/evidence,RF,45,58,llama-3.1-8b-instant,0,0.107691395487,2
+Question/evidence,RF,46,59,llama-3.1-8b-instant,0,0.049039304091,4
+Question/evidence,RF,47,61,llama-3.1-8b-instant,1,0.077387847296,0
+Question/evidence,RF,48,62,llama-3.1-8b-instant,1,0.17648301993,4
+Question/evidence,RF,49,63,llama-3.1-8b-instant,0,0.091550638256,3
+Question/evidence,RF,50,64,llama-3.1-8b-instant,0,0.13376445739,3
+Question/evidence,RF,51,67,llama-3.1-8b-instant,1,0.032925288785,2
+Question/evidence,RF,52,68,llama-3.1-8b-instant,1,0.213438624101,0
+Question/evidence,RF,53,69,llama-3.1-8b-instant,0,0.139772758028,0
+Question/evidence,RF,54,70,llama-3.1-8b-instant,0,0.093619408162,1
+Question/evidence,RF,55,71,llama-3.1-8b-instant,1,0.262991835087,3
+Question/evidence,RF,56,72,llama-3.1-8b-instant,0,0.228463561757,1
+Question/evidence,RF,57,73,llama-3.1-8b-instant,0,0.191455447886,4
+Question/evidence,RF,58,74,llama-3.1-8b-instant,0,0.098298051148,0
+Question/evidence,RF,59,75,llama-3.1-8b-instant,1,0.034933259576,2
+Question/evidence,RF,60,76,llama-3.1-8b-instant,0,0.057934989452,1
+Question/evidence,RF,61,77,llama-3.1-8b-instant,1,0.139441020719,3
+Question/evidence,RF,62,78,llama-3.1-8b-instant,0,0.094132020683,2
+Question/evidence,RF,63,79,llama-3.1-8b-instant,0,0.15621489751,1
+Question/evidence,RF,64,80,llama-3.1-8b-instant,0,0.089783111809,2
+Question/evidence,RF,65,82,llama-3.1-8b-instant,1,0.209200977803,4
+Question/evidence,RF,66,83,llama-3.1-8b-instant,1,0.138777218171,2
+Question/evidence,RF,67,84,llama-3.1-8b-instant,0,0.055434005722,2
+Question/evidence,RF,68,85,llama-3.1-8b-instant,1,0.044415754438,0
+Question/evidence,RF,69,86,llama-3.1-8b-instant,1,0.106874303211,1
+Question/evidence,RF,70,87,llama-3.1-8b-instant,0,0.040449801875,0
+Question/evidence,RF,71,88,llama-3.1-8b-instant,0,0.182769591419,3
+Question/evidence,RF,72,89,llama-3.1-8b-instant,0,0.121424597319,1
+Question/evidence,RF,73,90,llama-3.1-8b-instant,1,0.033907901396,2
+Question/evidence,RF,74,91,llama-3.1-8b-instant,1,0.207033413737,3
+Question/evidence,RF,75,92,llama-3.1-8b-instant,0,0.093400324819,0
+Question/evidence,RF,76,93,llama-3.1-8b-instant,1,0.153681280056,4
+Question/evidence,RF,77,94,llama-3.1-8b-instant,0,0.09429015795,4
+Question/evidence,RF,78,95,llama-3.1-8b-instant,0,0.291373326102,4
+Question/evidence,RF,79,96,llama-3.1-8b-instant,0,0.076348669787,2
+Question/evidence,RF,80,97,llama-3.1-8b-instant,0,0.07594883353,0
+Question/evidence,RF,81,99,llama-3.1-8b-instant,0,0.044117735712,4
+Question/evidence,RF,82,100,llama-3.1-8b-instant,0,0.103460090161,0
+Question/evidence,RF,83,101,llama-3.1-8b-instant,0,0.222517234264,1
+Question/evidence,RF,84,102,llama-3.1-8b-instant,0,0.075152792354,2
+Question/evidence,RF,85,103,llama-3.1-8b-instant,0,0.117632327729,0
+Question/evidence,RF,86,104,llama-3.1-8b-instant,1,0.063476449866,4
+Question/evidence,RF,87,106,llama-3.1-8b-instant,0,0.03556294809,2
+Question/evidence,RF,88,107,llama-3.1-8b-instant,0,0.088953371173,2
+Question/evidence,RF,89,108,llama-3.1-8b-instant,0,0.032063403157,1
+Question/evidence,RF,90,109,llama-3.1-8b-instant,0,0.109651841551,1
+Question/evidence,RF,91,111,llama-3.1-8b-instant,0,0.079576963965,0
+Question/evidence,RF,92,112,llama-3.1-8b-instant,0,0.03154105752,0
+Question/evidence,RF,93,113,llama-3.1-8b-instant,1,0.171484632104,4
+Question/evidence,RF,94,114,llama-3.1-8b-instant,0,0.105588530177,3
+Question/evidence,RF,95,116,llama-3.1-8b-instant,1,0.098282785577,0
+Question/evidence,RF,96,117,llama-3.1-8b-instant,1,0.123341259925,2
+Question/evidence,RF,97,118,llama-3.1-8b-instant,0,0.094753955962,3
+Question/evidence,RF,98,119,llama-3.1-8b-instant,0,0.10230712007,3
+Question/evidence,RF,99,120,llama-3.1-8b-instant,1,0.197812569894,2
+Question/evidence,RF,100,121,llama-3.1-8b-instant,0,0.223213527246,0
+Question/evidence,RF,101,122,llama-3.1-8b-instant,0,0.027184691869,1
+Question/evidence,RF,102,124,llama-3.1-8b-instant,0,0.13586760969,1
+Question/evidence,RF,103,126,llama-3.1-8b-instant,0,0.16325920554,3
+Question/evidence,RF,104,127,llama-3.1-8b-instant,0,0.170305196631,1
+Question/evidence,RF,105,128,llama-3.1-8b-instant,1,0.089819444668,3
+Question/evidence,RF,106,129,llama-3.1-8b-instant,0,0.068684397901,2
+Question/evidence,RF,107,130,llama-3.1-8b-instant,0,0.102442558858,3
+Question/evidence,RF,108,132,llama-3.1-8b-instant,1,0.143514117925,2
+Question/evidence,RF,109,133,llama-3.1-8b-instant,1,0.089451554663,1
+Question/evidence,RF,110,134,llama-3.1-8b-instant,0,0.290309406746,3
+Question/evidence,RF,111,135,llama-3.1-8b-instant,0,0.136186157807,3
+Question/evidence,RF,112,136,llama-3.1-8b-instant,0,0.075319099427,3
+Question/evidence,RF,113,137,llama-3.1-8b-instant,0,0.067276436607,4
+Question/evidence,RF,114,138,llama-3.1-8b-instant,0,0.102400537327,4
+Question/evidence,RF,115,139,llama-3.1-8b-instant,0,0.071790566581,4
+Question/evidence,RF,116,140,llama-3.1-8b-instant,0,0.171666732828,1
+Question/evidence,RF,117,141,llama-3.1-8b-instant,1,0.211035213376,4
+Question/evidence,RF,118,142,llama-3.1-8b-instant,1,0.169874823156,1
+Question/evidence,RF,119,143,llama-3.1-8b-instant,0,0.036029391092,2
+Question/evidence,RF,120,144,llama-3.1-8b-instant,0,0.08120254142,4
+Question/evidence,RF,121,145,llama-3.1-8b-instant,0,0.04800332294,3
+Question/evidence,RF,122,146,llama-3.1-8b-instant,0,0.038059992566,1
+Question/evidence,RF,123,147,llama-3.1-8b-instant,0,0.241133546446,0
+Question/evidence,RF,124,148,llama-3.1-8b-instant,0,0.087853394502,4
+Question/evidence,RF,125,149,llama-3.1-8b-instant,0,0.240731872256,0
+Question/evidence,RF,126,1,llama-3.3-70b-versatile,0,0.23732238282,0
+Question/evidence,RF,127,2,llama-3.3-70b-versatile,0,0.153148365319,4
+Question/evidence,RF,128,3,llama-3.3-70b-versatile,0,0.155164801601,1
+Question/evidence,RF,129,4,llama-3.3-70b-versatile,0,0.289809080976,0
+Question/evidence,RF,130,5,llama-3.3-70b-versatile,0,0.050327090836,1
+Question/evidence,RF,131,6,llama-3.3-70b-versatile,0,0.052410367739,2
+Question/evidence,RF,132,7,llama-3.3-70b-versatile,0,0.051425360199,2
+Question/evidence,RF,133,9,llama-3.3-70b-versatile,0,0.171571531482,3
+Question/evidence,RF,134,10,llama-3.3-70b-versatile,0,0.09911540753,2
+Question/evidence,RF,135,13,llama-3.3-70b-versatile,0,0.210813230419,1
+Question/evidence,RF,136,14,llama-3.3-70b-versatile,0,0.105777362386,1
+Question/evidence,RF,137,16,llama-3.3-70b-versatile,0,0.194895336813,3
+Question/evidence,RF,138,17,llama-3.3-70b-versatile,0,0.034968048878,1
+Question/evidence,RF,139,20,llama-3.3-70b-versatile,0,0.115014124066,4
+Question/evidence,RF,140,22,llama-3.3-70b-versatile,0,0.059373693501,4
+Question/evidence,RF,141,23,llama-3.3-70b-versatile,0,0.219551587038,3
+Question/evidence,RF,142,24,llama-3.3-70b-versatile,0,0.115999727714,0
+Question/evidence,RF,143,25,llama-3.3-70b-versatile,0,0.173061730482,0
+Question/evidence,RF,144,26,llama-3.3-70b-versatile,0,0.10213744791,2
+Question/evidence,RF,145,27,llama-3.3-70b-versatile,0,0.241448743063,0
+Question/evidence,RF,146,28,llama-3.3-70b-versatile,0,0.120633920559,1
+Question/evidence,RF,147,29,llama-3.3-70b-versatile,0,0.07061250581,0
+Question/evidence,RF,148,30,llama-3.3-70b-versatile,0,0.166359718598,1
+Question/evidence,RF,149,31,llama-3.3-70b-versatile,0,0.142563288206,1
+Question/evidence,RF,150,32,llama-3.3-70b-versatile,0,0.177033126502,4
+Question/evidence,RF,151,34,llama-3.3-70b-versatile,0,0.061368055107,3
+Question/evidence,RF,152,35,llama-3.3-70b-versatile,0,0.142035224962,4
+Question/evidence,RF,153,37,llama-3.3-70b-versatile,0,0.12010086327,2
+Question/evidence,RF,154,39,llama-3.3-70b-versatile,0,0.231321842943,3
+Question/evidence,RF,155,40,llama-3.3-70b-versatile,0,0.263337806164,4
+Question/evidence,RF,156,41,llama-3.3-70b-versatile,0,0.022049018604,0
+Question/evidence,RF,157,42,llama-3.3-70b-versatile,0,0.182909199188,3
+Question/evidence,RF,158,43,llama-3.3-70b-versatile,0,0.146448582207,0
+Question/evidence,RF,159,44,llama-3.3-70b-versatile,0,0.077832899525,1
+Question/evidence,RF,160,46,llama-3.3-70b-versatile,0,0.072368965668,3
+Question/evidence,RF,161,47,llama-3.3-70b-versatile,0,0.065392454085,0
+Question/evidence,RF,162,48,llama-3.3-70b-versatile,0,0.042025985094,2
+Question/evidence,RF,163,49,llama-3.3-70b-versatile,0,0.222588174118,2
+Question/evidence,RF,164,50,llama-3.3-70b-versatile,0,0.100117628057,1
+Question/evidence,RF,165,52,llama-3.3-70b-versatile,0,0.224653656527,4
+Question/evidence,RF,166,53,llama-3.3-70b-versatile,0,0.063202984622,2
+Question/evidence,RF,167,54,llama-3.3-70b-versatile,0,0.076541935874,4
+Question/evidence,RF,168,55,llama-3.3-70b-versatile,0,0.10054425374,3
+Question/evidence,RF,169,56,llama-3.3-70b-versatile,0,0.051378589655,4
+Question/evidence,RF,170,57,llama-3.3-70b-versatile,0,0.099604726624,0
+Question/evidence,RF,171,58,llama-3.3-70b-versatile,0,0.107691395487,2
+Question/evidence,RF,172,59,llama-3.3-70b-versatile,0,0.049039304091,4
+Question/evidence,RF,173,61,llama-3.3-70b-versatile,0,0.077387847296,0
+Question/evidence,RF,174,62,llama-3.3-70b-versatile,0,0.17648301993,4
+Question/evidence,RF,175,63,llama-3.3-70b-versatile,0,0.091550638256,3
+Question/evidence,RF,176,64,llama-3.3-70b-versatile,0,0.13376445739,3
+Question/evidence,RF,177,67,llama-3.3-70b-versatile,0,0.032925288785,2
+Question/evidence,RF,178,68,llama-3.3-70b-versatile,0,0.213438624101,0
+Question/evidence,RF,179,69,llama-3.3-70b-versatile,0,0.139772758028,0
+Question/evidence,RF,180,70,llama-3.3-70b-versatile,0,0.093619408162,1
+Question/evidence,RF,181,71,llama-3.3-70b-versatile,0,0.262991835087,3
+Question/evidence,RF,182,72,llama-3.3-70b-versatile,0,0.228463561757,1
+Question/evidence,RF,183,73,llama-3.3-70b-versatile,0,0.191455447886,4
+Question/evidence,RF,184,74,llama-3.3-70b-versatile,0,0.098298051148,0
+Question/evidence,RF,185,75,llama-3.3-70b-versatile,0,0.034933259576,2
+Question/evidence,RF,186,76,llama-3.3-70b-versatile,0,0.057934989452,1
+Question/evidence,RF,187,77,llama-3.3-70b-versatile,0,0.139441020719,3
+Question/evidence,RF,188,78,llama-3.3-70b-versatile,0,0.094132020683,2
+Question/evidence,RF,189,79,llama-3.3-70b-versatile,0,0.15621489751,1
+Question/evidence,RF,190,80,llama-3.3-70b-versatile,0,0.089783111809,2
+Question/evidence,RF,191,82,llama-3.3-70b-versatile,0,0.209200977803,4
+Question/evidence,RF,192,83,llama-3.3-70b-versatile,1,0.138777218171,2
+Question/evidence,RF,193,84,llama-3.3-70b-versatile,0,0.055434005722,2
+Question/evidence,RF,194,85,llama-3.3-70b-versatile,0,0.044415754438,0
+Question/evidence,RF,195,86,llama-3.3-70b-versatile,0,0.106874303211,1
+Question/evidence,RF,196,87,llama-3.3-70b-versatile,0,0.040449801875,0
+Question/evidence,RF,197,88,llama-3.3-70b-versatile,0,0.182769591419,3
+Question/evidence,RF,198,89,llama-3.3-70b-versatile,0,0.121424597319,1
+Question/evidence,RF,199,90,llama-3.3-70b-versatile,0,0.033907901396,2
+Question/evidence,RF,200,91,llama-3.3-70b-versatile,0,0.207033413737,3
+Question/evidence,RF,201,92,llama-3.3-70b-versatile,0,0.093400324819,0
+Question/evidence,RF,202,93,llama-3.3-70b-versatile,0,0.153681280056,4
+Question/evidence,RF,203,94,llama-3.3-70b-versatile,0,0.09429015795,4
+Question/evidence,RF,204,95,llama-3.3-70b-versatile,0,0.291373326102,4
+Question/evidence,RF,205,96,llama-3.3-70b-versatile,0,0.076348669787,2
+Question/evidence,RF,206,97,llama-3.3-70b-versatile,0,0.07594883353,0
+Question/evidence,RF,207,99,llama-3.3-70b-versatile,0,0.044117735712,4
+Question/evidence,RF,208,100,llama-3.3-70b-versatile,0,0.103460090161,0
+Question/evidence,RF,209,101,llama-3.3-70b-versatile,0,0.222517234264,1
+Question/evidence,RF,210,102,llama-3.3-70b-versatile,0,0.075152792354,2
+Question/evidence,RF,211,103,llama-3.3-70b-versatile,0,0.117632327729,0
+Question/evidence,RF,212,104,llama-3.3-70b-versatile,0,0.063476449866,4
+Question/evidence,RF,213,106,llama-3.3-70b-versatile,0,0.03556294809,2
+Question/evidence,RF,214,107,llama-3.3-70b-versatile,0,0.088953371173,2
+Question/evidence,RF,215,108,llama-3.3-70b-versatile,0,0.032063403157,1
+Question/evidence,RF,216,109,llama-3.3-70b-versatile,0,0.109651841551,1
+Question/evidence,RF,217,111,llama-3.3-70b-versatile,0,0.079576963965,0
+Question/evidence,RF,218,112,llama-3.3-70b-versatile,0,0.03154105752,0
+Question/evidence,RF,219,113,llama-3.3-70b-versatile,0,0.171484632104,4
+Question/evidence,RF,220,114,llama-3.3-70b-versatile,0,0.105588530177,3
+Question/evidence,RF,221,116,llama-3.3-70b-versatile,0,0.098282785577,0
+Question/evidence,RF,222,117,llama-3.3-70b-versatile,0,0.123341259925,2
+Question/evidence,RF,223,118,llama-3.3-70b-versatile,0,0.094753955962,3
+Question/evidence,RF,224,119,llama-3.3-70b-versatile,0,0.10230712007,3
+Question/evidence,RF,225,120,llama-3.3-70b-versatile,0,0.197812569894,2
+Question/evidence,RF,226,121,llama-3.3-70b-versatile,0,0.223213527246,0
+Question/evidence,RF,227,122,llama-3.3-70b-versatile,0,0.027184691869,1
+Question/evidence,RF,228,124,llama-3.3-70b-versatile,0,0.13586760969,1
+Question/evidence,RF,229,126,llama-3.3-70b-versatile,0,0.16325920554,3
+Question/evidence,RF,230,127,llama-3.3-70b-versatile,0,0.170305196631,1
+Question/evidence,RF,231,128,llama-3.3-70b-versatile,0,0.089819444668,3
+Question/evidence,RF,232,129,llama-3.3-70b-versatile,0,0.068684397901,2
+Question/evidence,RF,233,130,llama-3.3-70b-versatile,0,0.102442558858,3
+Question/evidence,RF,234,132,llama-3.3-70b-versatile,0,0.143514117925,2
+Question/evidence,RF,235,133,llama-3.3-70b-versatile,0,0.089451554663,1
+Question/evidence,RF,236,134,llama-3.3-70b-versatile,0,0.290309406746,3
+Question/evidence,RF,237,135,llama-3.3-70b-versatile,0,0.136186157807,3
+Question/evidence,RF,238,136,llama-3.3-70b-versatile,0,0.075319099427,3
+Question/evidence,RF,239,137,llama-3.3-70b-versatile,0,0.067276436607,4
+Question/evidence,RF,240,138,llama-3.3-70b-versatile,0,0.102400537327,4
+Question/evidence,RF,241,139,llama-3.3-70b-versatile,0,0.071790566581,4
+Question/evidence,RF,242,140,llama-3.3-70b-versatile,0,0.171666732828,1
+Question/evidence,RF,243,141,llama-3.3-70b-versatile,0,0.211035213376,4
+Question/evidence,RF,244,142,llama-3.3-70b-versatile,0,0.169874823156,1
+Question/evidence,RF,245,143,llama-3.3-70b-versatile,0,0.036029391092,2
+Question/evidence,RF,246,144,llama-3.3-70b-versatile,0,0.08120254142,4
+Question/evidence,RF,247,145,llama-3.3-70b-versatile,0,0.04800332294,3
+Question/evidence,RF,248,146,llama-3.3-70b-versatile,0,0.038059992566,1
+Question/evidence,RF,249,147,llama-3.3-70b-versatile,0,0.241133546446,0
+Question/evidence,RF,250,148,llama-3.3-70b-versatile,0,0.087853394502,4
+Question/evidence,RF,251,149,llama-3.3-70b-versatile,0,0.240731872256,0
+Question/evidence,RF,252,1,gpt-oss-20b,0,0.23732238282,0
+Question/evidence,RF,253,2,gpt-oss-20b,0,0.153148365319,4
+Question/evidence,RF,254,3,gpt-oss-20b,0,0.155164801601,1
+Question/evidence,RF,255,4,gpt-oss-20b,0,0.289809080976,0
+Question/evidence,RF,256,5,gpt-oss-20b,1,0.050327090836,1
+Question/evidence,RF,257,6,gpt-oss-20b,0,0.052410367739,2
+Question/evidence,RF,258,7,gpt-oss-20b,0,0.051425360199,2
+Question/evidence,RF,259,9,gpt-oss-20b,0,0.171571531482,3
+Question/evidence,RF,260,10,gpt-oss-20b,0,0.09911540753,2
+Question/evidence,RF,261,13,gpt-oss-20b,0,0.210813230419,1
+Question/evidence,RF,262,14,gpt-oss-20b,0,0.105777362386,1
+Question/evidence,RF,263,16,gpt-oss-20b,0,0.194895336813,3
+Question/evidence,RF,264,17,gpt-oss-20b,0,0.034968048878,1
+Question/evidence,RF,265,20,gpt-oss-20b,0,0.115014124066,4
+Question/evidence,RF,266,22,gpt-oss-20b,0,0.059373693501,4
+Question/evidence,RF,267,23,gpt-oss-20b,0,0.219551587038,3
+Question/evidence,RF,268,24,gpt-oss-20b,0,0.115999727714,0
+Question/evidence,RF,269,25,gpt-oss-20b,0,0.173061730482,0
+Question/evidence,RF,270,26,gpt-oss-20b,0,0.10213744791,2
+Question/evidence,RF,271,27,gpt-oss-20b,0,0.241448743063,0
+Question/evidence,RF,272,28,gpt-oss-20b,0,0.120633920559,1
+Question/evidence,RF,273,29,gpt-oss-20b,0,0.07061250581,0
+Question/evidence,RF,274,30,gpt-oss-20b,0,0.166359718598,1
+Question/evidence,RF,275,31,gpt-oss-20b,0,0.142563288206,1
+Question/evidence,RF,276,32,gpt-oss-20b,0,0.177033126502,4
+Question/evidence,RF,277,34,gpt-oss-20b,0,0.061368055107,3
+Question/evidence,RF,278,35,gpt-oss-20b,0,0.142035224962,4
+Question/evidence,RF,279,37,gpt-oss-20b,0,0.12010086327,2
+Question/evidence,RF,280,39,gpt-oss-20b,0,0.231321842943,3
+Question/evidence,RF,281,40,gpt-oss-20b,1,0.263337806164,4
+Question/evidence,RF,282,41,gpt-oss-20b,0,0.022049018604,0
+Question/evidence,RF,283,42,gpt-oss-20b,1,0.182909199188,3
+Question/evidence,RF,284,43,gpt-oss-20b,0,0.146448582207,0
+Question/evidence,RF,285,44,gpt-oss-20b,0,0.077832899525,1
+Question/evidence,RF,286,46,gpt-oss-20b,0,0.072368965668,3
+Question/evidence,RF,287,47,gpt-oss-20b,0,0.065392454085,0
+Question/evidence,RF,288,48,gpt-oss-20b,0,0.042025985094,2
+Question/evidence,RF,289,49,gpt-oss-20b,0,0.222588174118,2
+Question/evidence,RF,290,50,gpt-oss-20b,0,0.100117628057,1
+Question/evidence,RF,291,52,gpt-oss-20b,0,0.224653656527,4
+Question/evidence,RF,292,53,gpt-oss-20b,0,0.063202984622,2
+Question/evidence,RF,293,54,gpt-oss-20b,0,0.076541935874,4
+Question/evidence,RF,294,55,gpt-oss-20b,0,0.10054425374,3
+Question/evidence,RF,295,56,gpt-oss-20b,0,0.051378589655,4
+Question/evidence,RF,296,57,gpt-oss-20b,0,0.099604726624,0
+Question/evidence,RF,297,58,gpt-oss-20b,0,0.107691395487,2
+Question/evidence,RF,298,59,gpt-oss-20b,0,0.049039304091,4
+Question/evidence,RF,299,61,gpt-oss-20b,0,0.077387847296,0
+Question/evidence,RF,300,62,gpt-oss-20b,0,0.17648301993,4
+Question/evidence,RF,301,63,gpt-oss-20b,0,0.091550638256,3
+Question/evidence,RF,302,64,gpt-oss-20b,0,0.13376445739,3
+Question/evidence,RF,303,67,gpt-oss-20b,0,0.032925288785,2
+Question/evidence,RF,304,68,gpt-oss-20b,0,0.213438624101,0
+Question/evidence,RF,305,69,gpt-oss-20b,0,0.139772758028,0
+Question/evidence,RF,306,70,gpt-oss-20b,0,0.093619408162,1
+Question/evidence,RF,307,71,gpt-oss-20b,1,0.262991835087,3
+Question/evidence,RF,308,72,gpt-oss-20b,0,0.228463561757,1
+Question/evidence,RF,309,73,gpt-oss-20b,0,0.191455447886,4
+Question/evidence,RF,310,74,gpt-oss-20b,0,0.098298051148,0
+Question/evidence,RF,311,75,gpt-oss-20b,0,0.034933259576,2
+Question/evidence,RF,312,76,gpt-oss-20b,0,0.057934989452,1
+Question/evidence,RF,313,77,gpt-oss-20b,0,0.139441020719,3
+Question/evidence,RF,314,78,gpt-oss-20b,0,0.094132020683,2
+Question/evidence,RF,315,79,gpt-oss-20b,0,0.15621489751,1
+Question/evidence,RF,316,80,gpt-oss-20b,0,0.089783111809,2
+Question/evidence,RF,317,82,gpt-oss-20b,0,0.209200977803,4
+Question/evidence,RF,318,83,gpt-oss-20b,0,0.138777218171,2
+Question/evidence,RF,319,84,gpt-oss-20b,0,0.055434005722,2
+Question/evidence,RF,320,85,gpt-oss-20b,0,0.044415754438,0
+Question/evidence,RF,321,86,gpt-oss-20b,0,0.106874303211,1
+Question/evidence,RF,322,87,gpt-oss-20b,0,0.040449801875,0
+Question/evidence,RF,323,88,gpt-oss-20b,0,0.182769591419,3
+Question/evidence,RF,324,89,gpt-oss-20b,0,0.121424597319,1
+Question/evidence,RF,325,90,gpt-oss-20b,0,0.033907901396,2
+Question/evidence,RF,326,91,gpt-oss-20b,0,0.207033413737,3
+Question/evidence,RF,327,92,gpt-oss-20b,0,0.093400324819,0
+Question/evidence,RF,328,93,gpt-oss-20b,0,0.153681280056,4
+Question/evidence,RF,329,94,gpt-oss-20b,0,0.09429015795,4
+Question/evidence,RF,330,95,gpt-oss-20b,0,0.291373326102,4
+Question/evidence,RF,331,96,gpt-oss-20b,0,0.076348669787,2
+Question/evidence,RF,332,97,gpt-oss-20b,0,0.07594883353,0
+Question/evidence,RF,333,99,gpt-oss-20b,0,0.044117735712,4
+Question/evidence,RF,334,100,gpt-oss-20b,0,0.103460090161,0
+Question/evidence,RF,335,101,gpt-oss-20b,0,0.222517234264,1
+Question/evidence,RF,336,102,gpt-oss-20b,0,0.075152792354,2
+Question/evidence,RF,337,103,gpt-oss-20b,0,0.117632327729,0
+Question/evidence,RF,338,104,gpt-oss-20b,0,0.063476449866,4
+Question/evidence,RF,339,106,gpt-oss-20b,0,0.03556294809,2
+Question/evidence,RF,340,107,gpt-oss-20b,0,0.088953371173,2
+Question/evidence,RF,341,108,gpt-oss-20b,0,0.032063403157,1
+Question/evidence,RF,342,109,gpt-oss-20b,0,0.109651841551,1
+Question/evidence,RF,343,111,gpt-oss-20b,0,0.079576963965,0
+Question/evidence,RF,344,112,gpt-oss-20b,0,0.03154105752,0
+Question/evidence,RF,345,113,gpt-oss-20b,0,0.171484632104,4
+Question/evidence,RF,346,114,gpt-oss-20b,0,0.105588530177,3
+Question/evidence,RF,347,116,gpt-oss-20b,0,0.098282785577,0
+Question/evidence,RF,348,117,gpt-oss-20b,0,0.123341259925,2
+Question/evidence,RF,349,118,gpt-oss-20b,0,0.094753955962,3
+Question/evidence,RF,350,119,gpt-oss-20b,0,0.10230712007,3
+Question/evidence,RF,351,120,gpt-oss-20b,0,0.197812569894,2
+Question/evidence,RF,352,121,gpt-oss-20b,0,0.223213527246,0
+Question/evidence,RF,353,122,gpt-oss-20b,0,0.027184691869,1
+Question/evidence,RF,354,124,gpt-oss-20b,0,0.13586760969,1
+Question/evidence,RF,355,126,gpt-oss-20b,0,0.16325920554,3
+Question/evidence,RF,356,127,gpt-oss-20b,0,0.170305196631,1
+Question/evidence,RF,357,128,gpt-oss-20b,0,0.089819444668,3
+Question/evidence,RF,358,129,gpt-oss-20b,0,0.068684397901,2
+Question/evidence,RF,359,130,gpt-oss-20b,0,0.102442558858,3
+Question/evidence,RF,360,132,gpt-oss-20b,0,0.143514117925,2
+Question/evidence,RF,361,133,gpt-oss-20b,0,0.089451554663,1
+Question/evidence,RF,362,134,gpt-oss-20b,0,0.290309406746,3
+Question/evidence,RF,363,135,gpt-oss-20b,0,0.136186157807,3
+Question/evidence,RF,364,136,gpt-oss-20b,0,0.075319099427,3
+Question/evidence,RF,365,137,gpt-oss-20b,0,0.067276436607,4
+Question/evidence,RF,366,138,gpt-oss-20b,0,0.102400537327,4
+Question/evidence,RF,367,139,gpt-oss-20b,0,0.071790566581,4
+Question/evidence,RF,368,140,gpt-oss-20b,0,0.171666732828,1
+Question/evidence,RF,369,141,gpt-oss-20b,0,0.211035213376,4
+Question/evidence,RF,370,142,gpt-oss-20b,0,0.169874823156,1
+Question/evidence,RF,371,143,gpt-oss-20b,0,0.036029391092,2
+Question/evidence,RF,372,144,gpt-oss-20b,1,0.08120254142,4
+Question/evidence,RF,373,145,gpt-oss-20b,0,0.04800332294,3
+Question/evidence,RF,374,146,gpt-oss-20b,0,0.038059992566,1
+Question/evidence,RF,375,147,gpt-oss-20b,0,0.241133546446,0
+Question/evidence,RF,376,148,gpt-oss-20b,0,0.087853394502,4
+Question/evidence,RF,377,149,gpt-oss-20b,1,0.240731872256,0
+Question/evidence,GB,0,1,llama-3.1-8b-instant,0,0.167536701798,0
+Question/evidence,GB,1,2,llama-3.1-8b-instant,0,0.036824968617,4
+Question/evidence,GB,2,3,llama-3.1-8b-instant,0,0.072429815809,1
+Question/evidence,GB,3,4,llama-3.1-8b-instant,1,0.201436350794,0
+Question/evidence,GB,4,5,llama-3.1-8b-instant,0,0.008576676026,1
+Question/evidence,GB,5,6,llama-3.1-8b-instant,0,0.033888770027,2
+Question/evidence,GB,6,7,llama-3.1-8b-instant,0,0.034845619777,2
+Question/evidence,GB,7,9,llama-3.1-8b-instant,0,0.093876031025,3
+Question/evidence,GB,8,10,llama-3.1-8b-instant,0,0.064233125996,2
+Question/evidence,GB,9,13,llama-3.1-8b-instant,1,0.115636427078,1
+Question/evidence,GB,10,14,llama-3.1-8b-instant,0,0.050337182808,1
+Question/evidence,GB,11,16,llama-3.1-8b-instant,0,0.203799407136,3
+Question/evidence,GB,12,17,llama-3.1-8b-instant,1,0.010065574507,1
+Question/evidence,GB,13,20,llama-3.1-8b-instant,0,0.071357144937,4
+Question/evidence,GB,14,22,llama-3.1-8b-instant,0,0.052814315229,4
+Question/evidence,GB,15,23,llama-3.1-8b-instant,1,0.380177176758,3
+Question/evidence,GB,16,24,llama-3.1-8b-instant,1,0.087861251027,0
+Question/evidence,GB,17,25,llama-3.1-8b-instant,0,0.132788614974,0
+Question/evidence,GB,18,26,llama-3.1-8b-instant,1,0.01839478345,2
+Question/evidence,GB,19,27,llama-3.1-8b-instant,0,0.141996760896,0
+Question/evidence,GB,20,28,llama-3.1-8b-instant,1,0.022449368224,1
+Question/evidence,GB,21,29,llama-3.1-8b-instant,0,0.025530979527,0
+Question/evidence,GB,22,30,llama-3.1-8b-instant,0,0.078511644226,1
+Question/evidence,GB,23,31,llama-3.1-8b-instant,1,0.034947786458,1
+Question/evidence,GB,24,32,llama-3.1-8b-instant,1,0.018514501139,4
+Question/evidence,GB,25,34,llama-3.1-8b-instant,0,0.023753253802,3
+Question/evidence,GB,26,35,llama-3.1-8b-instant,0,0.062207646565,4
+Question/evidence,GB,27,37,llama-3.1-8b-instant,1,0.029764230952,2
+Question/evidence,GB,28,39,llama-3.1-8b-instant,1,0.564376450641,3
+Question/evidence,GB,29,40,llama-3.1-8b-instant,0,0.219133744117,4
+Question/evidence,GB,30,41,llama-3.1-8b-instant,0,0.017368643511,0
+Question/evidence,GB,31,42,llama-3.1-8b-instant,0,0.178032514536,3
+Question/evidence,GB,32,43,llama-3.1-8b-instant,1,0.052990831268,0
+Question/evidence,GB,33,44,llama-3.1-8b-instant,0,0.021361092578,1
+Question/evidence,GB,34,46,llama-3.1-8b-instant,1,0.032161483106,3
+Question/evidence,GB,35,47,llama-3.1-8b-instant,0,0.053101847327,0
+Question/evidence,GB,36,48,llama-3.1-8b-instant,0,0.008121795599,2
+Question/evidence,GB,37,49,llama-3.1-8b-instant,0,0.190969954859,2
+Question/evidence,GB,38,50,llama-3.1-8b-instant,1,0.016186835199,1
+Question/evidence,GB,39,52,llama-3.1-8b-instant,0,0.217341723113,4
+Question/evidence,GB,40,53,llama-3.1-8b-instant,0,0.046833388036,2
+Question/evidence,GB,41,54,llama-3.1-8b-instant,0,0.008311949204,4
+Question/evidence,GB,42,55,llama-3.1-8b-instant,0,0.052189143648,3
+Question/evidence,GB,43,56,llama-3.1-8b-instant,0,0.006781387171,4
+Question/evidence,GB,44,57,llama-3.1-8b-instant,1,0.030482531528,0
+Question/evidence,GB,45,58,llama-3.1-8b-instant,0,0.065624940004,2
+Question/evidence,GB,46,59,llama-3.1-8b-instant,0,0.015016879976,4
+Question/evidence,GB,47,61,llama-3.1-8b-instant,1,0.032274955895,0
+Question/evidence,GB,48,62,llama-3.1-8b-instant,1,0.171774600772,4
+Question/evidence,GB,49,63,llama-3.1-8b-instant,0,0.349565524784,3
+Question/evidence,GB,50,64,llama-3.1-8b-instant,0,0.053740734611,3
+Question/evidence,GB,51,67,llama-3.1-8b-instant,1,0.015830233464,2
+Question/evidence,GB,52,68,llama-3.1-8b-instant,1,0.051247286943,0
+Question/evidence,GB,53,69,llama-3.1-8b-instant,0,0.075427107425,0
+Question/evidence,GB,54,70,llama-3.1-8b-instant,0,0.035498726043,1
+Question/evidence,GB,55,71,llama-3.1-8b-instant,1,0.334343848832,3
+Question/evidence,GB,56,72,llama-3.1-8b-instant,0,0.063660734002,1
+Question/evidence,GB,57,73,llama-3.1-8b-instant,0,0.372572791835,4
+Question/evidence,GB,58,74,llama-3.1-8b-instant,0,0.011919746184,0
+Question/evidence,GB,59,75,llama-3.1-8b-instant,1,0.006467816704,2
+Question/evidence,GB,60,76,llama-3.1-8b-instant,0,0.034629383749,1
+Question/evidence,GB,61,77,llama-3.1-8b-instant,1,0.005895629972,3
+Question/evidence,GB,62,78,llama-3.1-8b-instant,0,0.047889405395,2
+Question/evidence,GB,63,79,llama-3.1-8b-instant,0,0.087251499378,1
+Question/evidence,GB,64,80,llama-3.1-8b-instant,0,0.088361099506,2
+Question/evidence,GB,65,82,llama-3.1-8b-instant,1,0.326724589017,4
+Question/evidence,GB,66,83,llama-3.1-8b-instant,1,0.046196526088,2
+Question/evidence,GB,67,84,llama-3.1-8b-instant,0,0.066253047058,2
+Question/evidence,GB,68,85,llama-3.1-8b-instant,1,0.04923138478,0
+Question/evidence,GB,69,86,llama-3.1-8b-instant,1,0.038193500681,1
+Question/evidence,GB,70,87,llama-3.1-8b-instant,0,0.011529723257,0
+Question/evidence,GB,71,88,llama-3.1-8b-instant,0,0.033204251364,3
+Question/evidence,GB,72,89,llama-3.1-8b-instant,0,0.029467710258,1
+Question/evidence,GB,73,90,llama-3.1-8b-instant,1,0.008460336968,2
+Question/evidence,GB,74,91,llama-3.1-8b-instant,1,0.244786211775,3
+Question/evidence,GB,75,92,llama-3.1-8b-instant,0,0.061587977164,0
+Question/evidence,GB,76,93,llama-3.1-8b-instant,1,0.032678898284,4
+Question/evidence,GB,77,94,llama-3.1-8b-instant,0,0.085679044286,4
+Question/evidence,GB,78,95,llama-3.1-8b-instant,0,0.357652567781,4
+Question/evidence,GB,79,96,llama-3.1-8b-instant,0,0.017105698717,2
+Question/evidence,GB,80,97,llama-3.1-8b-instant,0,0.03802788884,0
+Question/evidence,GB,81,99,llama-3.1-8b-instant,0,0.016630904941,4
+Question/evidence,GB,82,100,llama-3.1-8b-instant,0,0.061266812009,0
+Question/evidence,GB,83,101,llama-3.1-8b-instant,0,0.129206216317,1
+Question/evidence,GB,84,102,llama-3.1-8b-instant,0,0.037646938511,2
+Question/evidence,GB,85,103,llama-3.1-8b-instant,0,0.017535251091,0
+Question/evidence,GB,86,104,llama-3.1-8b-instant,1,0.034263809507,4
+Question/evidence,GB,87,106,llama-3.1-8b-instant,0,0.027014442972,2
+Question/evidence,GB,88,107,llama-3.1-8b-instant,0,0.007774518977,2
+Question/evidence,GB,89,108,llama-3.1-8b-instant,0,0.047405725585,1
+Question/evidence,GB,90,109,llama-3.1-8b-instant,0,0.156745246953,1
+Question/evidence,GB,91,111,llama-3.1-8b-instant,0,0.02139118105,0
+Question/evidence,GB,92,112,llama-3.1-8b-instant,0,0.004373333427,0
+Question/evidence,GB,93,113,llama-3.1-8b-instant,1,0.141929661075,4
+Question/evidence,GB,94,114,llama-3.1-8b-instant,0,0.056370813046,3
+Question/evidence,GB,95,116,llama-3.1-8b-instant,1,0.126986100028,0
+Question/evidence,GB,96,117,llama-3.1-8b-instant,1,0.031682886333,2
+Question/evidence,GB,97,118,llama-3.1-8b-instant,0,0.018679484267,3
+Question/evidence,GB,98,119,llama-3.1-8b-instant,0,0.069978793396,3
+Question/evidence,GB,99,120,llama-3.1-8b-instant,1,0.204750326656,2
+Question/evidence,GB,100,121,llama-3.1-8b-instant,0,0.126343499385,0
+Question/evidence,GB,101,122,llama-3.1-8b-instant,0,0.005224200772,1
+Question/evidence,GB,102,124,llama-3.1-8b-instant,0,0.10334476866,1
+Question/evidence,GB,103,126,llama-3.1-8b-instant,0,0.10282789377,3
+Question/evidence,GB,104,127,llama-3.1-8b-instant,0,0.07412473734,1
+Question/evidence,GB,105,128,llama-3.1-8b-instant,1,0.054252565955,3
+Question/evidence,GB,106,129,llama-3.1-8b-instant,0,0.00285742271,2
+Question/evidence,GB,107,130,llama-3.1-8b-instant,0,0.070330695348,3
+Question/evidence,GB,108,132,llama-3.1-8b-instant,1,0.085904587648,2
+Question/evidence,GB,109,133,llama-3.1-8b-instant,1,0.019145756201,1
+Question/evidence,GB,110,134,llama-3.1-8b-instant,0,0.474612667104,3
+Question/evidence,GB,111,135,llama-3.1-8b-instant,0,0.0540380499,3
+Question/evidence,GB,112,136,llama-3.1-8b-instant,0,0.009581425917,3
+Question/evidence,GB,113,137,llama-3.1-8b-instant,0,0.071547578436,4
+Question/evidence,GB,114,138,llama-3.1-8b-instant,0,0.028777060729,4
+Question/evidence,GB,115,139,llama-3.1-8b-instant,0,0.008191855698,4
+Question/evidence,GB,116,140,llama-3.1-8b-instant,0,0.1078493958,1
+Question/evidence,GB,117,141,llama-3.1-8b-instant,1,0.079736003721,4
+Question/evidence,GB,118,142,llama-3.1-8b-instant,1,0.076308337202,1
+Question/evidence,GB,119,143,llama-3.1-8b-instant,0,0.032775135029,2
+Question/evidence,GB,120,144,llama-3.1-8b-instant,0,0.059575918778,4
+Question/evidence,GB,121,145,llama-3.1-8b-instant,0,0.017687637798,3
+Question/evidence,GB,122,146,llama-3.1-8b-instant,0,0.008362129661,1
+Question/evidence,GB,123,147,llama-3.1-8b-instant,0,0.621189986187,0
+Question/evidence,GB,124,148,llama-3.1-8b-instant,0,0.274702683568,4
+Question/evidence,GB,125,149,llama-3.1-8b-instant,0,0.118740828561,0
+Question/evidence,GB,126,1,llama-3.3-70b-versatile,0,0.167536701798,0
+Question/evidence,GB,127,2,llama-3.3-70b-versatile,0,0.036824968617,4
+Question/evidence,GB,128,3,llama-3.3-70b-versatile,0,0.072429815809,1
+Question/evidence,GB,129,4,llama-3.3-70b-versatile,0,0.201436350794,0
+Question/evidence,GB,130,5,llama-3.3-70b-versatile,0,0.008576676026,1
+Question/evidence,GB,131,6,llama-3.3-70b-versatile,0,0.033888770027,2
+Question/evidence,GB,132,7,llama-3.3-70b-versatile,0,0.034845619777,2
+Question/evidence,GB,133,9,llama-3.3-70b-versatile,0,0.093876031025,3
+Question/evidence,GB,134,10,llama-3.3-70b-versatile,0,0.064233125996,2
+Question/evidence,GB,135,13,llama-3.3-70b-versatile,0,0.115636427078,1
+Question/evidence,GB,136,14,llama-3.3-70b-versatile,0,0.050337182808,1
+Question/evidence,GB,137,16,llama-3.3-70b-versatile,0,0.203799407136,3
+Question/evidence,GB,138,17,llama-3.3-70b-versatile,0,0.010065574507,1
+Question/evidence,GB,139,20,llama-3.3-70b-versatile,0,0.071357144937,4
+Question/evidence,GB,140,22,llama-3.3-70b-versatile,0,0.052814315229,4
+Question/evidence,GB,141,23,llama-3.3-70b-versatile,0,0.380177176758,3
+Question/evidence,GB,142,24,llama-3.3-70b-versatile,0,0.087861251027,0
+Question/evidence,GB,143,25,llama-3.3-70b-versatile,0,0.132788614974,0
+Question/evidence,GB,144,26,llama-3.3-70b-versatile,0,0.01839478345,2
+Question/evidence,GB,145,27,llama-3.3-70b-versatile,0,0.141996760896,0
+Question/evidence,GB,146,28,llama-3.3-70b-versatile,0,0.022449368224,1
+Question/evidence,GB,147,29,llama-3.3-70b-versatile,0,0.025530979527,0
+Question/evidence,GB,148,30,llama-3.3-70b-versatile,0,0.078511644226,1
+Question/evidence,GB,149,31,llama-3.3-70b-versatile,0,0.034947786458,1
+Question/evidence,GB,150,32,llama-3.3-70b-versatile,0,0.018514501139,4
+Question/evidence,GB,151,34,llama-3.3-70b-versatile,0,0.023753253802,3
+Question/evidence,GB,152,35,llama-3.3-70b-versatile,0,0.062207646565,4
+Question/evidence,GB,153,37,llama-3.3-70b-versatile,0,0.029764230952,2
+Question/evidence,GB,154,39,llama-3.3-70b-versatile,0,0.564376450641,3
+Question/evidence,GB,155,40,llama-3.3-70b-versatile,0,0.219133744117,4
+Question/evidence,GB,156,41,llama-3.3-70b-versatile,0,0.017368643511,0
+Question/evidence,GB,157,42,llama-3.3-70b-versatile,0,0.178032514536,3
+Question/evidence,GB,158,43,llama-3.3-70b-versatile,0,0.052990831268,0
+Question/evidence,GB,159,44,llama-3.3-70b-versatile,0,0.021361092578,1
+Question/evidence,GB,160,46,llama-3.3-70b-versatile,0,0.032161483106,3
+Question/evidence,GB,161,47,llama-3.3-70b-versatile,0,0.053101847327,0
+Question/evidence,GB,162,48,llama-3.3-70b-versatile,0,0.008121795599,2
+Question/evidence,GB,163,49,llama-3.3-70b-versatile,0,0.190969954859,2
+Question/evidence,GB,164,50,llama-3.3-70b-versatile,0,0.016186835199,1
+Question/evidence,GB,165,52,llama-3.3-70b-versatile,0,0.217341723113,4
+Question/evidence,GB,166,53,llama-3.3-70b-versatile,0,0.046833388036,2
+Question/evidence,GB,167,54,llama-3.3-70b-versatile,0,0.008311949204,4
+Question/evidence,GB,168,55,llama-3.3-70b-versatile,0,0.052189143648,3
+Question/evidence,GB,169,56,llama-3.3-70b-versatile,0,0.006781387171,4
+Question/evidence,GB,170,57,llama-3.3-70b-versatile,0,0.030482531528,0
+Question/evidence,GB,171,58,llama-3.3-70b-versatile,0,0.065624940004,2
+Question/evidence,GB,172,59,llama-3.3-70b-versatile,0,0.015016879976,4
+Question/evidence,GB,173,61,llama-3.3-70b-versatile,0,0.032274955895,0
+Question/evidence,GB,174,62,llama-3.3-70b-versatile,0,0.171774600772,4
+Question/evidence,GB,175,63,llama-3.3-70b-versatile,0,0.349565524784,3
+Question/evidence,GB,176,64,llama-3.3-70b-versatile,0,0.053740734611,3
+Question/evidence,GB,177,67,llama-3.3-70b-versatile,0,0.015830233464,2
+Question/evidence,GB,178,68,llama-3.3-70b-versatile,0,0.051247286943,0
+Question/evidence,GB,179,69,llama-3.3-70b-versatile,0,0.075427107425,0
+Question/evidence,GB,180,70,llama-3.3-70b-versatile,0,0.035498726043,1
+Question/evidence,GB,181,71,llama-3.3-70b-versatile,0,0.334343848832,3
+Question/evidence,GB,182,72,llama-3.3-70b-versatile,0,0.063660734002,1
+Question/evidence,GB,183,73,llama-3.3-70b-versatile,0,0.372572791835,4
+Question/evidence,GB,184,74,llama-3.3-70b-versatile,0,0.011919746184,0
+Question/evidence,GB,185,75,llama-3.3-70b-versatile,0,0.006467816704,2
+Question/evidence,GB,186,76,llama-3.3-70b-versatile,0,0.034629383749,1
+Question/evidence,GB,187,77,llama-3.3-70b-versatile,0,0.005895629972,3
+Question/evidence,GB,188,78,llama-3.3-70b-versatile,0,0.047889405395,2
+Question/evidence,GB,189,79,llama-3.3-70b-versatile,0,0.087251499378,1
+Question/evidence,GB,190,80,llama-3.3-70b-versatile,0,0.088361099506,2
+Question/evidence,GB,191,82,llama-3.3-70b-versatile,0,0.326724589017,4
+Question/evidence,GB,192,83,llama-3.3-70b-versatile,1,0.046196526088,2
+Question/evidence,GB,193,84,llama-3.3-70b-versatile,0,0.066253047058,2
+Question/evidence,GB,194,85,llama-3.3-70b-versatile,0,0.04923138478,0
+Question/evidence,GB,195,86,llama-3.3-70b-versatile,0,0.038193500681,1
+Question/evidence,GB,196,87,llama-3.3-70b-versatile,0,0.011529723257,0
+Question/evidence,GB,197,88,llama-3.3-70b-versatile,0,0.033204251364,3
+Question/evidence,GB,198,89,llama-3.3-70b-versatile,0,0.029467710258,1
+Question/evidence,GB,199,90,llama-3.3-70b-versatile,0,0.008460336968,2
+Question/evidence,GB,200,91,llama-3.3-70b-versatile,0,0.244786211775,3
+Question/evidence,GB,201,92,llama-3.3-70b-versatile,0,0.061587977164,0
+Question/evidence,GB,202,93,llama-3.3-70b-versatile,0,0.032678898284,4
+Question/evidence,GB,203,94,llama-3.3-70b-versatile,0,0.085679044286,4
+Question/evidence,GB,204,95,llama-3.3-70b-versatile,0,0.357652567781,4
+Question/evidence,GB,205,96,llama-3.3-70b-versatile,0,0.017105698717,2
+Question/evidence,GB,206,97,llama-3.3-70b-versatile,0,0.03802788884,0
+Question/evidence,GB,207,99,llama-3.3-70b-versatile,0,0.016630904941,4
+Question/evidence,GB,208,100,llama-3.3-70b-versatile,0,0.061266812009,0
+Question/evidence,GB,209,101,llama-3.3-70b-versatile,0,0.129206216317,1
+Question/evidence,GB,210,102,llama-3.3-70b-versatile,0,0.037646938511,2
+Question/evidence,GB,211,103,llama-3.3-70b-versatile,0,0.017535251091,0
+Question/evidence,GB,212,104,llama-3.3-70b-versatile,0,0.034263809507,4
+Question/evidence,GB,213,106,llama-3.3-70b-versatile,0,0.027014442972,2
+Question/evidence,GB,214,107,llama-3.3-70b-versatile,0,0.007774518977,2
+Question/evidence,GB,215,108,llama-3.3-70b-versatile,0,0.047405725585,1
+Question/evidence,GB,216,109,llama-3.3-70b-versatile,0,0.156745246953,1
+Question/evidence,GB,217,111,llama-3.3-70b-versatile,0,0.02139118105,0
+Question/evidence,GB,218,112,llama-3.3-70b-versatile,0,0.004373333427,0
+Question/evidence,GB,219,113,llama-3.3-70b-versatile,0,0.141929661075,4
+Question/evidence,GB,220,114,llama-3.3-70b-versatile,0,0.056370813046,3
+Question/evidence,GB,221,116,llama-3.3-70b-versatile,0,0.126986100028,0
+Question/evidence,GB,222,117,llama-3.3-70b-versatile,0,0.031682886333,2
+Question/evidence,GB,223,118,llama-3.3-70b-versatile,0,0.018679484267,3
+Question/evidence,GB,224,119,llama-3.3-70b-versatile,0,0.069978793396,3
+Question/evidence,GB,225,120,llama-3.3-70b-versatile,0,0.204750326656,2
+Question/evidence,GB,226,121,llama-3.3-70b-versatile,0,0.126343499385,0
+Question/evidence,GB,227,122,llama-3.3-70b-versatile,0,0.005224200772,1
+Question/evidence,GB,228,124,llama-3.3-70b-versatile,0,0.10334476866,1
+Question/evidence,GB,229,126,llama-3.3-70b-versatile,0,0.10282789377,3
+Question/evidence,GB,230,127,llama-3.3-70b-versatile,0,0.07412473734,1
+Question/evidence,GB,231,128,llama-3.3-70b-versatile,0,0.054252565955,3
+Question/evidence,GB,232,129,llama-3.3-70b-versatile,0,0.00285742271,2
+Question/evidence,GB,233,130,llama-3.3-70b-versatile,0,0.070330695348,3
+Question/evidence,GB,234,132,llama-3.3-70b-versatile,0,0.085904587648,2
+Question/evidence,GB,235,133,llama-3.3-70b-versatile,0,0.019145756201,1
+Question/evidence,GB,236,134,llama-3.3-70b-versatile,0,0.474612667104,3
+Question/evidence,GB,237,135,llama-3.3-70b-versatile,0,0.0540380499,3
+Question/evidence,GB,238,136,llama-3.3-70b-versatile,0,0.009581425917,3
+Question/evidence,GB,239,137,llama-3.3-70b-versatile,0,0.071547578436,4
+Question/evidence,GB,240,138,llama-3.3-70b-versatile,0,0.028777060729,4
+Question/evidence,GB,241,139,llama-3.3-70b-versatile,0,0.008191855698,4
+Question/evidence,GB,242,140,llama-3.3-70b-versatile,0,0.1078493958,1
+Question/evidence,GB,243,141,llama-3.3-70b-versatile,0,0.079736003721,4
+Question/evidence,GB,244,142,llama-3.3-70b-versatile,0,0.076308337202,1
+Question/evidence,GB,245,143,llama-3.3-70b-versatile,0,0.032775135029,2
+Question/evidence,GB,246,144,llama-3.3-70b-versatile,0,0.059575918778,4
+Question/evidence,GB,247,145,llama-3.3-70b-versatile,0,0.017687637798,3
+Question/evidence,GB,248,146,llama-3.3-70b-versatile,0,0.008362129661,1
+Question/evidence,GB,249,147,llama-3.3-70b-versatile,0,0.621189986187,0
+Question/evidence,GB,250,148,llama-3.3-70b-versatile,0,0.274702683568,4
+Question/evidence,GB,251,149,llama-3.3-70b-versatile,0,0.118740828561,0
+Question/evidence,GB,252,1,gpt-oss-20b,0,0.167536701798,0
+Question/evidence,GB,253,2,gpt-oss-20b,0,0.036824968617,4
+Question/evidence,GB,254,3,gpt-oss-20b,0,0.072429815809,1
+Question/evidence,GB,255,4,gpt-oss-20b,0,0.201436350794,0
+Question/evidence,GB,256,5,gpt-oss-20b,1,0.008576676026,1
+Question/evidence,GB,257,6,gpt-oss-20b,0,0.033888770027,2
+Question/evidence,GB,258,7,gpt-oss-20b,0,0.034845619777,2
+Question/evidence,GB,259,9,gpt-oss-20b,0,0.093876031025,3
+Question/evidence,GB,260,10,gpt-oss-20b,0,0.064233125996,2
+Question/evidence,GB,261,13,gpt-oss-20b,0,0.115636427078,1
+Question/evidence,GB,262,14,gpt-oss-20b,0,0.050337182808,1
+Question/evidence,GB,263,16,gpt-oss-20b,0,0.203799407136,3
+Question/evidence,GB,264,17,gpt-oss-20b,0,0.010065574507,1
+Question/evidence,GB,265,20,gpt-oss-20b,0,0.071357144937,4
+Question/evidence,GB,266,22,gpt-oss-20b,0,0.052814315229,4
+Question/evidence,GB,267,23,gpt-oss-20b,0,0.380177176758,3
+Question/evidence,GB,268,24,gpt-oss-20b,0,0.087861251027,0
+Question/evidence,GB,269,25,gpt-oss-20b,0,0.132788614974,0
+Question/evidence,GB,270,26,gpt-oss-20b,0,0.01839478345,2
+Question/evidence,GB,271,27,gpt-oss-20b,0,0.141996760896,0
+Question/evidence,GB,272,28,gpt-oss-20b,0,0.022449368224,1
+Question/evidence,GB,273,29,gpt-oss-20b,0,0.025530979527,0
+Question/evidence,GB,274,30,gpt-oss-20b,0,0.078511644226,1
+Question/evidence,GB,275,31,gpt-oss-20b,0,0.034947786458,1
+Question/evidence,GB,276,32,gpt-oss-20b,0,0.018514501139,4
+Question/evidence,GB,277,34,gpt-oss-20b,0,0.023753253802,3
+Question/evidence,GB,278,35,gpt-oss-20b,0,0.062207646565,4
+Question/evidence,GB,279,37,gpt-oss-20b,0,0.029764230952,2
+Question/evidence,GB,280,39,gpt-oss-20b,0,0.564376450641,3
+Question/evidence,GB,281,40,gpt-oss-20b,1,0.219133744117,4
+Question/evidence,GB,282,41,gpt-oss-20b,0,0.017368643511,0
+Question/evidence,GB,283,42,gpt-oss-20b,1,0.178032514536,3
+Question/evidence,GB,284,43,gpt-oss-20b,0,0.052990831268,0
+Question/evidence,GB,285,44,gpt-oss-20b,0,0.021361092578,1
+Question/evidence,GB,286,46,gpt-oss-20b,0,0.032161483106,3
+Question/evidence,GB,287,47,gpt-oss-20b,0,0.053101847327,0
+Question/evidence,GB,288,48,gpt-oss-20b,0,0.008121795599,2
+Question/evidence,GB,289,49,gpt-oss-20b,0,0.190969954859,2
+Question/evidence,GB,290,50,gpt-oss-20b,0,0.016186835199,1
+Question/evidence,GB,291,52,gpt-oss-20b,0,0.217341723113,4
+Question/evidence,GB,292,53,gpt-oss-20b,0,0.046833388036,2
+Question/evidence,GB,293,54,gpt-oss-20b,0,0.008311949204,4
+Question/evidence,GB,294,55,gpt-oss-20b,0,0.052189143648,3
+Question/evidence,GB,295,56,gpt-oss-20b,0,0.006781387171,4
+Question/evidence,GB,296,57,gpt-oss-20b,0,0.030482531528,0
+Question/evidence,GB,297,58,gpt-oss-20b,0,0.065624940004,2
+Question/evidence,GB,298,59,gpt-oss-20b,0,0.015016879976,4
+Question/evidence,GB,299,61,gpt-oss-20b,0,0.032274955895,0
+Question/evidence,GB,300,62,gpt-oss-20b,0,0.171774600772,4
+Question/evidence,GB,301,63,gpt-oss-20b,0,0.349565524784,3
+Question/evidence,GB,302,64,gpt-oss-20b,0,0.053740734611,3
+Question/evidence,GB,303,67,gpt-oss-20b,0,0.015830233464,2
+Question/evidence,GB,304,68,gpt-oss-20b,0,0.051247286943,0
+Question/evidence,GB,305,69,gpt-oss-20b,0,0.075427107425,0
+Question/evidence,GB,306,70,gpt-oss-20b,0,0.035498726043,1
+Question/evidence,GB,307,71,gpt-oss-20b,1,0.334343848832,3
+Question/evidence,GB,308,72,gpt-oss-20b,0,0.063660734002,1
+Question/evidence,GB,309,73,gpt-oss-20b,0,0.372572791835,4
+Question/evidence,GB,310,74,gpt-oss-20b,0,0.011919746184,0
+Question/evidence,GB,311,75,gpt-oss-20b,0,0.006467816704,2
+Question/evidence,GB,312,76,gpt-oss-20b,0,0.034629383749,1
+Question/evidence,GB,313,77,gpt-oss-20b,0,0.005895629972,3
+Question/evidence,GB,314,78,gpt-oss-20b,0,0.047889405395,2
+Question/evidence,GB,315,79,gpt-oss-20b,0,0.087251499378,1
+Question/evidence,GB,316,80,gpt-oss-20b,0,0.088361099506,2
+Question/evidence,GB,317,82,gpt-oss-20b,0,0.326724589017,4
+Question/evidence,GB,318,83,gpt-oss-20b,0,0.046196526088,2
+Question/evidence,GB,319,84,gpt-oss-20b,0,0.066253047058,2
+Question/evidence,GB,320,85,gpt-oss-20b,0,0.04923138478,0
+Question/evidence,GB,321,86,gpt-oss-20b,0,0.038193500681,1
+Question/evidence,GB,322,87,gpt-oss-20b,0,0.011529723257,0
+Question/evidence,GB,323,88,gpt-oss-20b,0,0.033204251364,3
+Question/evidence,GB,324,89,gpt-oss-20b,0,0.029467710258,1
+Question/evidence,GB,325,90,gpt-oss-20b,0,0.008460336968,2
+Question/evidence,GB,326,91,gpt-oss-20b,0,0.244786211775,3
+Question/evidence,GB,327,92,gpt-oss-20b,0,0.061587977164,0
+Question/evidence,GB,328,93,gpt-oss-20b,0,0.032678898284,4
+Question/evidence,GB,329,94,gpt-oss-20b,0,0.085679044286,4
+Question/evidence,GB,330,95,gpt-oss-20b,0,0.357652567781,4
+Question/evidence,GB,331,96,gpt-oss-20b,0,0.017105698717,2
+Question/evidence,GB,332,97,gpt-oss-20b,0,0.03802788884,0
+Question/evidence,GB,333,99,gpt-oss-20b,0,0.016630904941,4
+Question/evidence,GB,334,100,gpt-oss-20b,0,0.061266812009,0
+Question/evidence,GB,335,101,gpt-oss-20b,0,0.129206216317,1
+Question/evidence,GB,336,102,gpt-oss-20b,0,0.037646938511,2
+Question/evidence,GB,337,103,gpt-oss-20b,0,0.017535251091,0
+Question/evidence,GB,338,104,gpt-oss-20b,0,0.034263809507,4
+Question/evidence,GB,339,106,gpt-oss-20b,0,0.027014442972,2
+Question/evidence,GB,340,107,gpt-oss-20b,0,0.007774518977,2
+Question/evidence,GB,341,108,gpt-oss-20b,0,0.047405725585,1
+Question/evidence,GB,342,109,gpt-oss-20b,0,0.156745246953,1
+Question/evidence,GB,343,111,gpt-oss-20b,0,0.02139118105,0
+Question/evidence,GB,344,112,gpt-oss-20b,0,0.004373333427,0
+Question/evidence,GB,345,113,gpt-oss-20b,0,0.141929661075,4
+Question/evidence,GB,346,114,gpt-oss-20b,0,0.056370813046,3
+Question/evidence,GB,347,116,gpt-oss-20b,0,0.126986100028,0
+Question/evidence,GB,348,117,gpt-oss-20b,0,0.031682886333,2
+Question/evidence,GB,349,118,gpt-oss-20b,0,0.018679484267,3
+Question/evidence,GB,350,119,gpt-oss-20b,0,0.069978793396,3
+Question/evidence,GB,351,120,gpt-oss-20b,0,0.204750326656,2
+Question/evidence,GB,352,121,gpt-oss-20b,0,0.126343499385,0
+Question/evidence,GB,353,122,gpt-oss-20b,0,0.005224200772,1
+Question/evidence,GB,354,124,gpt-oss-20b,0,0.10334476866,1
+Question/evidence,GB,355,126,gpt-oss-20b,0,0.10282789377,3
+Question/evidence,GB,356,127,gpt-oss-20b,0,0.07412473734,1
+Question/evidence,GB,357,128,gpt-oss-20b,0,0.054252565955,3
+Question/evidence,GB,358,129,gpt-oss-20b,0,0.00285742271,2
+Question/evidence,GB,359,130,gpt-oss-20b,0,0.070330695348,3
+Question/evidence,GB,360,132,gpt-oss-20b,0,0.085904587648,2
+Question/evidence,GB,361,133,gpt-oss-20b,0,0.019145756201,1
+Question/evidence,GB,362,134,gpt-oss-20b,0,0.474612667104,3
+Question/evidence,GB,363,135,gpt-oss-20b,0,0.0540380499,3
+Question/evidence,GB,364,136,gpt-oss-20b,0,0.009581425917,3
+Question/evidence,GB,365,137,gpt-oss-20b,0,0.071547578436,4
+Question/evidence,GB,366,138,gpt-oss-20b,0,0.028777060729,4
+Question/evidence,GB,367,139,gpt-oss-20b,0,0.008191855698,4
+Question/evidence,GB,368,140,gpt-oss-20b,0,0.1078493958,1
+Question/evidence,GB,369,141,gpt-oss-20b,0,0.079736003721,4
+Question/evidence,GB,370,142,gpt-oss-20b,0,0.076308337202,1
+Question/evidence,GB,371,143,gpt-oss-20b,0,0.032775135029,2
+Question/evidence,GB,372,144,gpt-oss-20b,1,0.059575918778,4
+Question/evidence,GB,373,145,gpt-oss-20b,0,0.017687637798,3
+Question/evidence,GB,374,146,gpt-oss-20b,0,0.008362129661,1
+Question/evidence,GB,375,147,gpt-oss-20b,0,0.621189986187,0
+Question/evidence,GB,376,148,gpt-oss-20b,0,0.274702683568,4
+Question/evidence,GB,377,149,gpt-oss-20b,1,0.118740828561,0
+Identity only,LR,0,1,llama-3.1-8b-instant,0,0.269755628082,0
+Identity only,LR,1,2,llama-3.1-8b-instant,0,0.274924201162,4
+Identity only,LR,2,3,llama-3.1-8b-instant,0,0.269755628082,1
+Identity only,LR,3,4,llama-3.1-8b-instant,1,0.269755628082,0
+Identity only,LR,4,5,llama-3.1-8b-instant,0,0.269755628082,1
+Identity only,LR,5,6,llama-3.1-8b-instant,0,0.257058103527,2
+Identity only,LR,6,7,llama-3.1-8b-instant,0,0.257058103527,2
+Identity only,LR,7,9,llama-3.1-8b-instant,0,0.272309321329,3
+Identity only,LR,8,10,llama-3.1-8b-instant,0,0.257058103527,2
+Identity only,LR,9,13,llama-3.1-8b-instant,1,0.269755628082,1
+Identity only,LR,10,14,llama-3.1-8b-instant,0,0.269755628082,1
+Identity only,LR,11,16,llama-3.1-8b-instant,0,0.272309321329,3
+Identity only,LR,12,17,llama-3.1-8b-instant,1,0.269755628082,1
+Identity only,LR,13,20,llama-3.1-8b-instant,0,0.274924201162,4
+Identity only,LR,14,22,llama-3.1-8b-instant,0,0.274924201162,4
+Identity only,LR,15,23,llama-3.1-8b-instant,1,0.272309321329,3
+Identity only,LR,16,24,llama-3.1-8b-instant,1,0.269755628082,0
+Identity only,LR,17,25,llama-3.1-8b-instant,0,0.269755628082,0
+Identity only,LR,18,26,llama-3.1-8b-instant,1,0.257058103527,2
+Identity only,LR,19,27,llama-3.1-8b-instant,0,0.269755628082,0
+Identity only,LR,20,28,llama-3.1-8b-instant,1,0.269755628082,1
+Identity only,LR,21,29,llama-3.1-8b-instant,0,0.269755628082,0
+Identity only,LR,22,30,llama-3.1-8b-instant,0,0.269755628082,1
+Identity only,LR,23,31,llama-3.1-8b-instant,1,0.269755628082,1
+Identity only,LR,24,32,llama-3.1-8b-instant,1,0.274924201162,4
+Identity only,LR,25,34,llama-3.1-8b-instant,0,0.272309321329,3
+Identity only,LR,26,35,llama-3.1-8b-instant,0,0.274924201162,4
+Identity only,LR,27,37,llama-3.1-8b-instant,1,0.257058103527,2
+Identity only,LR,28,39,llama-3.1-8b-instant,1,0.272309321329,3
+Identity only,LR,29,40,llama-3.1-8b-instant,0,0.274924201162,4
+Identity only,LR,30,41,llama-3.1-8b-instant,0,0.269755628082,0
+Identity only,LR,31,42,llama-3.1-8b-instant,0,0.272309321329,3
+Identity only,LR,32,43,llama-3.1-8b-instant,1,0.269755628082,0
+Identity only,LR,33,44,llama-3.1-8b-instant,0,0.269755628082,1
+Identity only,LR,34,46,llama-3.1-8b-instant,1,0.272309321329,3
+Identity only,LR,35,47,llama-3.1-8b-instant,0,0.269755628082,0
+Identity only,LR,36,48,llama-3.1-8b-instant,0,0.257058103527,2
+Identity only,LR,37,49,llama-3.1-8b-instant,0,0.257058103527,2
+Identity only,LR,38,50,llama-3.1-8b-instant,1,0.269755628082,1
+Identity only,LR,39,52,llama-3.1-8b-instant,0,0.274924201162,4
+Identity only,LR,40,53,llama-3.1-8b-instant,0,0.257058103527,2
+Identity only,LR,41,54,llama-3.1-8b-instant,0,0.274924201162,4
+Identity only,LR,42,55,llama-3.1-8b-instant,0,0.272309321329,3
+Identity only,LR,43,56,llama-3.1-8b-instant,0,0.274924201162,4
+Identity only,LR,44,57,llama-3.1-8b-instant,1,0.269755628082,0
+Identity only,LR,45,58,llama-3.1-8b-instant,0,0.257058103527,2
+Identity only,LR,46,59,llama-3.1-8b-instant,0,0.274924201162,4
+Identity only,LR,47,61,llama-3.1-8b-instant,1,0.269755628082,0
+Identity only,LR,48,62,llama-3.1-8b-instant,1,0.274924201162,4
+Identity only,LR,49,63,llama-3.1-8b-instant,0,0.272309321329,3
+Identity only,LR,50,64,llama-3.1-8b-instant,0,0.272309321329,3
+Identity only,LR,51,67,llama-3.1-8b-instant,1,0.257058103527,2
+Identity only,LR,52,68,llama-3.1-8b-instant,1,0.269755628082,0
+Identity only,LR,53,69,llama-3.1-8b-instant,0,0.269755628082,0
+Identity only,LR,54,70,llama-3.1-8b-instant,0,0.269755628082,1
+Identity only,LR,55,71,llama-3.1-8b-instant,1,0.272309321329,3
+Identity only,LR,56,72,llama-3.1-8b-instant,0,0.269755628082,1
+Identity only,LR,57,73,llama-3.1-8b-instant,0,0.274924201162,4
+Identity only,LR,58,74,llama-3.1-8b-instant,0,0.269755628082,0
+Identity only,LR,59,75,llama-3.1-8b-instant,1,0.257058103527,2
+Identity only,LR,60,76,llama-3.1-8b-instant,0,0.269755628082,1
+Identity only,LR,61,77,llama-3.1-8b-instant,1,0.272309321329,3
+Identity only,LR,62,78,llama-3.1-8b-instant,0,0.257058103527,2
+Identity only,LR,63,79,llama-3.1-8b-instant,0,0.269755628082,1
+Identity only,LR,64,80,llama-3.1-8b-instant,0,0.257058103527,2
+Identity only,LR,65,82,llama-3.1-8b-instant,1,0.274924201162,4
+Identity only,LR,66,83,llama-3.1-8b-instant,1,0.257058103527,2
+Identity only,LR,67,84,llama-3.1-8b-instant,0,0.257058103527,2
+Identity only,LR,68,85,llama-3.1-8b-instant,1,0.269755628082,0
+Identity only,LR,69,86,llama-3.1-8b-instant,1,0.269755628082,1
+Identity only,LR,70,87,llama-3.1-8b-instant,0,0.269755628082,0
+Identity only,LR,71,88,llama-3.1-8b-instant,0,0.272309321329,3
+Identity only,LR,72,89,llama-3.1-8b-instant,0,0.269755628082,1
+Identity only,LR,73,90,llama-3.1-8b-instant,1,0.257058103527,2
+Identity only,LR,74,91,llama-3.1-8b-instant,1,0.272309321329,3
+Identity only,LR,75,92,llama-3.1-8b-instant,0,0.269755628082,0
+Identity only,LR,76,93,llama-3.1-8b-instant,1,0.274924201162,4
+Identity only,LR,77,94,llama-3.1-8b-instant,0,0.274924201162,4
+Identity only,LR,78,95,llama-3.1-8b-instant,0,0.274924201162,4
+Identity only,LR,79,96,llama-3.1-8b-instant,0,0.257058103527,2
+Identity only,LR,80,97,llama-3.1-8b-instant,0,0.269755628082,0
+Identity only,LR,81,99,llama-3.1-8b-instant,0,0.274924201162,4
+Identity only,LR,82,100,llama-3.1-8b-instant,0,0.269755628082,0
+Identity only,LR,83,101,llama-3.1-8b-instant,0,0.269755628082,1
+Identity only,LR,84,102,llama-3.1-8b-instant,0,0.257058103527,2
+Identity only,LR,85,103,llama-3.1-8b-instant,0,0.269755628082,0
+Identity only,LR,86,104,llama-3.1-8b-instant,1,0.274924201162,4
+Identity only,LR,87,106,llama-3.1-8b-instant,0,0.257058103527,2
+Identity only,LR,88,107,llama-3.1-8b-instant,0,0.257058103527,2
+Identity only,LR,89,108,llama-3.1-8b-instant,0,0.269755628082,1
+Identity only,LR,90,109,llama-3.1-8b-instant,0,0.269755628082,1
+Identity only,LR,91,111,llama-3.1-8b-instant,0,0.269755628082,0
+Identity only,LR,92,112,llama-3.1-8b-instant,0,0.269755628082,0
+Identity only,LR,93,113,llama-3.1-8b-instant,1,0.274924201162,4
+Identity only,LR,94,114,llama-3.1-8b-instant,0,0.272309321329,3
+Identity only,LR,95,116,llama-3.1-8b-instant,1,0.269755628082,0
+Identity only,LR,96,117,llama-3.1-8b-instant,1,0.257058103527,2
+Identity only,LR,97,118,llama-3.1-8b-instant,0,0.272309321329,3
+Identity only,LR,98,119,llama-3.1-8b-instant,0,0.272309321329,3
+Identity only,LR,99,120,llama-3.1-8b-instant,1,0.257058103527,2
+Identity only,LR,100,121,llama-3.1-8b-instant,0,0.269755628082,0
+Identity only,LR,101,122,llama-3.1-8b-instant,0,0.269755628082,1
+Identity only,LR,102,124,llama-3.1-8b-instant,0,0.269755628082,1
+Identity only,LR,103,126,llama-3.1-8b-instant,0,0.272309321329,3
+Identity only,LR,104,127,llama-3.1-8b-instant,0,0.269755628082,1
+Identity only,LR,105,128,llama-3.1-8b-instant,1,0.272309321329,3
+Identity only,LR,106,129,llama-3.1-8b-instant,0,0.257058103527,2
+Identity only,LR,107,130,llama-3.1-8b-instant,0,0.272309321329,3
+Identity only,LR,108,132,llama-3.1-8b-instant,1,0.257058103527,2
+Identity only,LR,109,133,llama-3.1-8b-instant,1,0.269755628082,1
+Identity only,LR,110,134,llama-3.1-8b-instant,0,0.272309321329,3
+Identity only,LR,111,135,llama-3.1-8b-instant,0,0.272309321329,3
+Identity only,LR,112,136,llama-3.1-8b-instant,0,0.272309321329,3
+Identity only,LR,113,137,llama-3.1-8b-instant,0,0.274924201162,4
+Identity only,LR,114,138,llama-3.1-8b-instant,0,0.274924201162,4
+Identity only,LR,115,139,llama-3.1-8b-instant,0,0.274924201162,4
+Identity only,LR,116,140,llama-3.1-8b-instant,0,0.269755628082,1
+Identity only,LR,117,141,llama-3.1-8b-instant,1,0.274924201162,4
+Identity only,LR,118,142,llama-3.1-8b-instant,1,0.269755628082,1
+Identity only,LR,119,143,llama-3.1-8b-instant,0,0.257058103527,2
+Identity only,LR,120,144,llama-3.1-8b-instant,0,0.274924201162,4
+Identity only,LR,121,145,llama-3.1-8b-instant,0,0.272309321329,3
+Identity only,LR,122,146,llama-3.1-8b-instant,0,0.269755628082,1
+Identity only,LR,123,147,llama-3.1-8b-instant,0,0.269755628082,0
+Identity only,LR,124,148,llama-3.1-8b-instant,0,0.274924201162,4
+Identity only,LR,125,149,llama-3.1-8b-instant,0,0.269755628082,0
+Identity only,LR,126,1,llama-3.3-70b-versatile,0,0.033521895157,0
+Identity only,LR,127,2,llama-3.3-70b-versatile,0,0.033605375879,4
+Identity only,LR,128,3,llama-3.3-70b-versatile,0,0.033521895157,1
+Identity only,LR,129,4,llama-3.3-70b-versatile,0,0.033521895157,0
+Identity only,LR,130,5,llama-3.3-70b-versatile,0,0.033521895157,1
+Identity only,LR,131,6,llama-3.3-70b-versatile,0,0.025602041417,2
+Identity only,LR,132,7,llama-3.3-70b-versatile,0,0.025602041417,2
+Identity only,LR,133,9,llama-3.3-70b-versatile,0,0.03321017931,3
+Identity only,LR,134,10,llama-3.3-70b-versatile,0,0.025602041417,2
+Identity only,LR,135,13,llama-3.3-70b-versatile,0,0.033521895157,1
+Identity only,LR,136,14,llama-3.3-70b-versatile,0,0.033521895157,1
+Identity only,LR,137,16,llama-3.3-70b-versatile,0,0.03321017931,3
+Identity only,LR,138,17,llama-3.3-70b-versatile,0,0.033521895157,1
+Identity only,LR,139,20,llama-3.3-70b-versatile,0,0.033605375879,4
+Identity only,LR,140,22,llama-3.3-70b-versatile,0,0.033605375879,4
+Identity only,LR,141,23,llama-3.3-70b-versatile,0,0.03321017931,3
+Identity only,LR,142,24,llama-3.3-70b-versatile,0,0.033521895157,0
+Identity only,LR,143,25,llama-3.3-70b-versatile,0,0.033521895157,0
+Identity only,LR,144,26,llama-3.3-70b-versatile,0,0.025602041417,2
+Identity only,LR,145,27,llama-3.3-70b-versatile,0,0.033521895157,0
+Identity only,LR,146,28,llama-3.3-70b-versatile,0,0.033521895157,1
+Identity only,LR,147,29,llama-3.3-70b-versatile,0,0.033521895157,0
+Identity only,LR,148,30,llama-3.3-70b-versatile,0,0.033521895157,1
+Identity only,LR,149,31,llama-3.3-70b-versatile,0,0.033521895157,1
+Identity only,LR,150,32,llama-3.3-70b-versatile,0,0.033605375879,4
+Identity only,LR,151,34,llama-3.3-70b-versatile,0,0.03321017931,3
+Identity only,LR,152,35,llama-3.3-70b-versatile,0,0.033605375879,4
+Identity only,LR,153,37,llama-3.3-70b-versatile,0,0.025602041417,2
+Identity only,LR,154,39,llama-3.3-70b-versatile,0,0.03321017931,3
+Identity only,LR,155,40,llama-3.3-70b-versatile,0,0.033605375879,4
+Identity only,LR,156,41,llama-3.3-70b-versatile,0,0.033521895157,0
+Identity only,LR,157,42,llama-3.3-70b-versatile,0,0.03321017931,3
+Identity only,LR,158,43,llama-3.3-70b-versatile,0,0.033521895157,0
+Identity only,LR,159,44,llama-3.3-70b-versatile,0,0.033521895157,1
+Identity only,LR,160,46,llama-3.3-70b-versatile,0,0.03321017931,3
+Identity only,LR,161,47,llama-3.3-70b-versatile,0,0.033521895157,0
+Identity only,LR,162,48,llama-3.3-70b-versatile,0,0.025602041417,2
+Identity only,LR,163,49,llama-3.3-70b-versatile,0,0.025602041417,2
+Identity only,LR,164,50,llama-3.3-70b-versatile,0,0.033521895157,1
+Identity only,LR,165,52,llama-3.3-70b-versatile,0,0.033605375879,4
+Identity only,LR,166,53,llama-3.3-70b-versatile,0,0.025602041417,2
+Identity only,LR,167,54,llama-3.3-70b-versatile,0,0.033605375879,4
+Identity only,LR,168,55,llama-3.3-70b-versatile,0,0.03321017931,3
+Identity only,LR,169,56,llama-3.3-70b-versatile,0,0.033605375879,4
+Identity only,LR,170,57,llama-3.3-70b-versatile,0,0.033521895157,0
+Identity only,LR,171,58,llama-3.3-70b-versatile,0,0.025602041417,2
+Identity only,LR,172,59,llama-3.3-70b-versatile,0,0.033605375879,4
+Identity only,LR,173,61,llama-3.3-70b-versatile,0,0.033521895157,0
+Identity only,LR,174,62,llama-3.3-70b-versatile,0,0.033605375879,4
+Identity only,LR,175,63,llama-3.3-70b-versatile,0,0.03321017931,3
+Identity only,LR,176,64,llama-3.3-70b-versatile,0,0.03321017931,3
+Identity only,LR,177,67,llama-3.3-70b-versatile,0,0.025602041417,2
+Identity only,LR,178,68,llama-3.3-70b-versatile,0,0.033521895157,0
+Identity only,LR,179,69,llama-3.3-70b-versatile,0,0.033521895157,0
+Identity only,LR,180,70,llama-3.3-70b-versatile,0,0.033521895157,1
+Identity only,LR,181,71,llama-3.3-70b-versatile,0,0.03321017931,3
+Identity only,LR,182,72,llama-3.3-70b-versatile,0,0.033521895157,1
+Identity only,LR,183,73,llama-3.3-70b-versatile,0,0.033605375879,4
+Identity only,LR,184,74,llama-3.3-70b-versatile,0,0.033521895157,0
+Identity only,LR,185,75,llama-3.3-70b-versatile,0,0.025602041417,2
+Identity only,LR,186,76,llama-3.3-70b-versatile,0,0.033521895157,1
+Identity only,LR,187,77,llama-3.3-70b-versatile,0,0.03321017931,3
+Identity only,LR,188,78,llama-3.3-70b-versatile,0,0.025602041417,2
+Identity only,LR,189,79,llama-3.3-70b-versatile,0,0.033521895157,1
+Identity only,LR,190,80,llama-3.3-70b-versatile,0,0.025602041417,2
+Identity only,LR,191,82,llama-3.3-70b-versatile,0,0.033605375879,4
+Identity only,LR,192,83,llama-3.3-70b-versatile,1,0.025602041417,2
+Identity only,LR,193,84,llama-3.3-70b-versatile,0,0.025602041417,2
+Identity only,LR,194,85,llama-3.3-70b-versatile,0,0.033521895157,0
+Identity only,LR,195,86,llama-3.3-70b-versatile,0,0.033521895157,1
+Identity only,LR,196,87,llama-3.3-70b-versatile,0,0.033521895157,0
+Identity only,LR,197,88,llama-3.3-70b-versatile,0,0.03321017931,3
+Identity only,LR,198,89,llama-3.3-70b-versatile,0,0.033521895157,1
+Identity only,LR,199,90,llama-3.3-70b-versatile,0,0.025602041417,2
+Identity only,LR,200,91,llama-3.3-70b-versatile,0,0.03321017931,3
+Identity only,LR,201,92,llama-3.3-70b-versatile,0,0.033521895157,0
+Identity only,LR,202,93,llama-3.3-70b-versatile,0,0.033605375879,4
+Identity only,LR,203,94,llama-3.3-70b-versatile,0,0.033605375879,4
+Identity only,LR,204,95,llama-3.3-70b-versatile,0,0.033605375879,4
+Identity only,LR,205,96,llama-3.3-70b-versatile,0,0.025602041417,2
+Identity only,LR,206,97,llama-3.3-70b-versatile,0,0.033521895157,0
+Identity only,LR,207,99,llama-3.3-70b-versatile,0,0.033605375879,4
+Identity only,LR,208,100,llama-3.3-70b-versatile,0,0.033521895157,0
+Identity only,LR,209,101,llama-3.3-70b-versatile,0,0.033521895157,1
+Identity only,LR,210,102,llama-3.3-70b-versatile,0,0.025602041417,2
+Identity only,LR,211,103,llama-3.3-70b-versatile,0,0.033521895157,0
+Identity only,LR,212,104,llama-3.3-70b-versatile,0,0.033605375879,4
+Identity only,LR,213,106,llama-3.3-70b-versatile,0,0.025602041417,2
+Identity only,LR,214,107,llama-3.3-70b-versatile,0,0.025602041417,2
+Identity only,LR,215,108,llama-3.3-70b-versatile,0,0.033521895157,1
+Identity only,LR,216,109,llama-3.3-70b-versatile,0,0.033521895157,1
+Identity only,LR,217,111,llama-3.3-70b-versatile,0,0.033521895157,0
+Identity only,LR,218,112,llama-3.3-70b-versatile,0,0.033521895157,0
+Identity only,LR,219,113,llama-3.3-70b-versatile,0,0.033605375879,4
+Identity only,LR,220,114,llama-3.3-70b-versatile,0,0.03321017931,3
+Identity only,LR,221,116,llama-3.3-70b-versatile,0,0.033521895157,0
+Identity only,LR,222,117,llama-3.3-70b-versatile,0,0.025602041417,2
+Identity only,LR,223,118,llama-3.3-70b-versatile,0,0.03321017931,3
+Identity only,LR,224,119,llama-3.3-70b-versatile,0,0.03321017931,3
+Identity only,LR,225,120,llama-3.3-70b-versatile,0,0.025602041417,2
+Identity only,LR,226,121,llama-3.3-70b-versatile,0,0.033521895157,0
+Identity only,LR,227,122,llama-3.3-70b-versatile,0,0.033521895157,1
+Identity only,LR,228,124,llama-3.3-70b-versatile,0,0.033521895157,1
+Identity only,LR,229,126,llama-3.3-70b-versatile,0,0.03321017931,3
+Identity only,LR,230,127,llama-3.3-70b-versatile,0,0.033521895157,1
+Identity only,LR,231,128,llama-3.3-70b-versatile,0,0.03321017931,3
+Identity only,LR,232,129,llama-3.3-70b-versatile,0,0.025602041417,2
+Identity only,LR,233,130,llama-3.3-70b-versatile,0,0.03321017931,3
+Identity only,LR,234,132,llama-3.3-70b-versatile,0,0.025602041417,2
+Identity only,LR,235,133,llama-3.3-70b-versatile,0,0.033521895157,1
+Identity only,LR,236,134,llama-3.3-70b-versatile,0,0.03321017931,3
+Identity only,LR,237,135,llama-3.3-70b-versatile,0,0.03321017931,3
+Identity only,LR,238,136,llama-3.3-70b-versatile,0,0.03321017931,3
+Identity only,LR,239,137,llama-3.3-70b-versatile,0,0.033605375879,4
+Identity only,LR,240,138,llama-3.3-70b-versatile,0,0.033605375879,4
+Identity only,LR,241,139,llama-3.3-70b-versatile,0,0.033605375879,4
+Identity only,LR,242,140,llama-3.3-70b-versatile,0,0.033521895157,1
+Identity only,LR,243,141,llama-3.3-70b-versatile,0,0.033605375879,4
+Identity only,LR,244,142,llama-3.3-70b-versatile,0,0.033521895157,1
+Identity only,LR,245,143,llama-3.3-70b-versatile,0,0.025602041417,2
+Identity only,LR,246,144,llama-3.3-70b-versatile,0,0.033605375879,4
+Identity only,LR,247,145,llama-3.3-70b-versatile,0,0.03321017931,3
+Identity only,LR,248,146,llama-3.3-70b-versatile,0,0.033521895157,1
+Identity only,LR,249,147,llama-3.3-70b-versatile,0,0.033521895157,0
+Identity only,LR,250,148,llama-3.3-70b-versatile,0,0.033605375879,4
+Identity only,LR,251,149,llama-3.3-70b-versatile,0,0.033521895157,0
+Identity only,LR,252,1,gpt-oss-20b,0,0.066625219468,0
+Identity only,LR,253,2,gpt-oss-20b,0,0.057722878426,4
+Identity only,LR,254,3,gpt-oss-20b,0,0.066625219468,1
+Identity only,LR,255,4,gpt-oss-20b,0,0.066625219468,0
+Identity only,LR,256,5,gpt-oss-20b,1,0.066625219468,1
+Identity only,LR,257,6,gpt-oss-20b,0,0.073862179776,2
+Identity only,LR,258,7,gpt-oss-20b,0,0.073862179776,2
+Identity only,LR,259,9,gpt-oss-20b,0,0.05706716948,3
+Identity only,LR,260,10,gpt-oss-20b,0,0.073862179776,2
+Identity only,LR,261,13,gpt-oss-20b,0,0.066625219468,1
+Identity only,LR,262,14,gpt-oss-20b,0,0.066625219468,1
+Identity only,LR,263,16,gpt-oss-20b,0,0.05706716948,3
+Identity only,LR,264,17,gpt-oss-20b,0,0.066625219468,1
+Identity only,LR,265,20,gpt-oss-20b,0,0.057722878426,4
+Identity only,LR,266,22,gpt-oss-20b,0,0.057722878426,4
+Identity only,LR,267,23,gpt-oss-20b,0,0.05706716948,3
+Identity only,LR,268,24,gpt-oss-20b,0,0.066625219468,0
+Identity only,LR,269,25,gpt-oss-20b,0,0.066625219468,0
+Identity only,LR,270,26,gpt-oss-20b,0,0.073862179776,2
+Identity only,LR,271,27,gpt-oss-20b,0,0.066625219468,0
+Identity only,LR,272,28,gpt-oss-20b,0,0.066625219468,1
+Identity only,LR,273,29,gpt-oss-20b,0,0.066625219468,0
+Identity only,LR,274,30,gpt-oss-20b,0,0.066625219468,1
+Identity only,LR,275,31,gpt-oss-20b,0,0.066625219468,1
+Identity only,LR,276,32,gpt-oss-20b,0,0.057722878426,4
+Identity only,LR,277,34,gpt-oss-20b,0,0.05706716948,3
+Identity only,LR,278,35,gpt-oss-20b,0,0.057722878426,4
+Identity only,LR,279,37,gpt-oss-20b,0,0.073862179776,2
+Identity only,LR,280,39,gpt-oss-20b,0,0.05706716948,3
+Identity only,LR,281,40,gpt-oss-20b,1,0.057722878426,4
+Identity only,LR,282,41,gpt-oss-20b,0,0.066625219468,0
+Identity only,LR,283,42,gpt-oss-20b,1,0.05706716948,3
+Identity only,LR,284,43,gpt-oss-20b,0,0.066625219468,0
+Identity only,LR,285,44,gpt-oss-20b,0,0.066625219468,1
+Identity only,LR,286,46,gpt-oss-20b,0,0.05706716948,3
+Identity only,LR,287,47,gpt-oss-20b,0,0.066625219468,0
+Identity only,LR,288,48,gpt-oss-20b,0,0.073862179776,2
+Identity only,LR,289,49,gpt-oss-20b,0,0.073862179776,2
+Identity only,LR,290,50,gpt-oss-20b,0,0.066625219468,1
+Identity only,LR,291,52,gpt-oss-20b,0,0.057722878426,4
+Identity only,LR,292,53,gpt-oss-20b,0,0.073862179776,2
+Identity only,LR,293,54,gpt-oss-20b,0,0.057722878426,4
+Identity only,LR,294,55,gpt-oss-20b,0,0.05706716948,3
+Identity only,LR,295,56,gpt-oss-20b,0,0.057722878426,4
+Identity only,LR,296,57,gpt-oss-20b,0,0.066625219468,0
+Identity only,LR,297,58,gpt-oss-20b,0,0.073862179776,2
+Identity only,LR,298,59,gpt-oss-20b,0,0.057722878426,4
+Identity only,LR,299,61,gpt-oss-20b,0,0.066625219468,0
+Identity only,LR,300,62,gpt-oss-20b,0,0.057722878426,4
+Identity only,LR,301,63,gpt-oss-20b,0,0.05706716948,3
+Identity only,LR,302,64,gpt-oss-20b,0,0.05706716948,3
+Identity only,LR,303,67,gpt-oss-20b,0,0.073862179776,2
+Identity only,LR,304,68,gpt-oss-20b,0,0.066625219468,0
+Identity only,LR,305,69,gpt-oss-20b,0,0.066625219468,0
+Identity only,LR,306,70,gpt-oss-20b,0,0.066625219468,1
+Identity only,LR,307,71,gpt-oss-20b,1,0.05706716948,3
+Identity only,LR,308,72,gpt-oss-20b,0,0.066625219468,1
+Identity only,LR,309,73,gpt-oss-20b,0,0.057722878426,4
+Identity only,LR,310,74,gpt-oss-20b,0,0.066625219468,0
+Identity only,LR,311,75,gpt-oss-20b,0,0.073862179776,2
+Identity only,LR,312,76,gpt-oss-20b,0,0.066625219468,1
+Identity only,LR,313,77,gpt-oss-20b,0,0.05706716948,3
+Identity only,LR,314,78,gpt-oss-20b,0,0.073862179776,2
+Identity only,LR,315,79,gpt-oss-20b,0,0.066625219468,1
+Identity only,LR,316,80,gpt-oss-20b,0,0.073862179776,2
+Identity only,LR,317,82,gpt-oss-20b,0,0.057722878426,4
+Identity only,LR,318,83,gpt-oss-20b,0,0.073862179776,2
+Identity only,LR,319,84,gpt-oss-20b,0,0.073862179776,2
+Identity only,LR,320,85,gpt-oss-20b,0,0.066625219468,0
+Identity only,LR,321,86,gpt-oss-20b,0,0.066625219468,1
+Identity only,LR,322,87,gpt-oss-20b,0,0.066625219468,0
+Identity only,LR,323,88,gpt-oss-20b,0,0.05706716948,3
+Identity only,LR,324,89,gpt-oss-20b,0,0.066625219468,1
+Identity only,LR,325,90,gpt-oss-20b,0,0.073862179776,2
+Identity only,LR,326,91,gpt-oss-20b,0,0.05706716948,3
+Identity only,LR,327,92,gpt-oss-20b,0,0.066625219468,0
+Identity only,LR,328,93,gpt-oss-20b,0,0.057722878426,4
+Identity only,LR,329,94,gpt-oss-20b,0,0.057722878426,4
+Identity only,LR,330,95,gpt-oss-20b,0,0.057722878426,4
+Identity only,LR,331,96,gpt-oss-20b,0,0.073862179776,2
+Identity only,LR,332,97,gpt-oss-20b,0,0.066625219468,0
+Identity only,LR,333,99,gpt-oss-20b,0,0.057722878426,4
+Identity only,LR,334,100,gpt-oss-20b,0,0.066625219468,0
+Identity only,LR,335,101,gpt-oss-20b,0,0.066625219468,1
+Identity only,LR,336,102,gpt-oss-20b,0,0.073862179776,2
+Identity only,LR,337,103,gpt-oss-20b,0,0.066625219468,0
+Identity only,LR,338,104,gpt-oss-20b,0,0.057722878426,4
+Identity only,LR,339,106,gpt-oss-20b,0,0.073862179776,2
+Identity only,LR,340,107,gpt-oss-20b,0,0.073862179776,2
+Identity only,LR,341,108,gpt-oss-20b,0,0.066625219468,1
+Identity only,LR,342,109,gpt-oss-20b,0,0.066625219468,1
+Identity only,LR,343,111,gpt-oss-20b,0,0.066625219468,0
+Identity only,LR,344,112,gpt-oss-20b,0,0.066625219468,0
+Identity only,LR,345,113,gpt-oss-20b,0,0.057722878426,4
+Identity only,LR,346,114,gpt-oss-20b,0,0.05706716948,3
+Identity only,LR,347,116,gpt-oss-20b,0,0.066625219468,0
+Identity only,LR,348,117,gpt-oss-20b,0,0.073862179776,2
+Identity only,LR,349,118,gpt-oss-20b,0,0.05706716948,3
+Identity only,LR,350,119,gpt-oss-20b,0,0.05706716948,3
+Identity only,LR,351,120,gpt-oss-20b,0,0.073862179776,2
+Identity only,LR,352,121,gpt-oss-20b,0,0.066625219468,0
+Identity only,LR,353,122,gpt-oss-20b,0,0.066625219468,1
+Identity only,LR,354,124,gpt-oss-20b,0,0.066625219468,1
+Identity only,LR,355,126,gpt-oss-20b,0,0.05706716948,3
+Identity only,LR,356,127,gpt-oss-20b,0,0.066625219468,1
+Identity only,LR,357,128,gpt-oss-20b,0,0.05706716948,3
+Identity only,LR,358,129,gpt-oss-20b,0,0.073862179776,2
+Identity only,LR,359,130,gpt-oss-20b,0,0.05706716948,3
+Identity only,LR,360,132,gpt-oss-20b,0,0.073862179776,2
+Identity only,LR,361,133,gpt-oss-20b,0,0.066625219468,1
+Identity only,LR,362,134,gpt-oss-20b,0,0.05706716948,3
+Identity only,LR,363,135,gpt-oss-20b,0,0.05706716948,3
+Identity only,LR,364,136,gpt-oss-20b,0,0.05706716948,3
+Identity only,LR,365,137,gpt-oss-20b,0,0.057722878426,4
+Identity only,LR,366,138,gpt-oss-20b,0,0.057722878426,4
+Identity only,LR,367,139,gpt-oss-20b,0,0.057722878426,4
+Identity only,LR,368,140,gpt-oss-20b,0,0.066625219468,1
+Identity only,LR,369,141,gpt-oss-20b,0,0.057722878426,4
+Identity only,LR,370,142,gpt-oss-20b,0,0.066625219468,1
+Identity only,LR,371,143,gpt-oss-20b,0,0.073862179776,2
+Identity only,LR,372,144,gpt-oss-20b,1,0.057722878426,4
+Identity only,LR,373,145,gpt-oss-20b,0,0.05706716948,3
+Identity only,LR,374,146,gpt-oss-20b,0,0.066625219468,1
+Identity only,LR,375,147,gpt-oss-20b,0,0.066625219468,0
+Identity only,LR,376,148,gpt-oss-20b,0,0.057722878426,4
+Identity only,LR,377,149,gpt-oss-20b,1,0.066625219468,0
+Within Llama-3.1-8B,LR,0,1,llama-3.1-8b-instant,0,0.39227330919,3
+Within Llama-3.1-8B,LR,1,2,llama-3.1-8b-instant,0,0.638332733999,0
+Within Llama-3.1-8B,LR,2,3,llama-3.1-8b-instant,0,0.355876838836,4
+Within Llama-3.1-8B,LR,3,4,llama-3.1-8b-instant,1,0.703340860739,2
+Within Llama-3.1-8B,LR,4,5,llama-3.1-8b-instant,0,0.039918832353,0
+Within Llama-3.1-8B,LR,5,6,llama-3.1-8b-instant,0,0.131033462571,4
+Within Llama-3.1-8B,LR,6,7,llama-3.1-8b-instant,0,0.238133788326,0
+Within Llama-3.1-8B,LR,7,9,llama-3.1-8b-instant,0,0.22230536998,1
+Within Llama-3.1-8B,LR,8,10,llama-3.1-8b-instant,0,0.292159288877,2
+Within Llama-3.1-8B,LR,9,13,llama-3.1-8b-instant,1,0.339242911069,3
+Within Llama-3.1-8B,LR,10,14,llama-3.1-8b-instant,0,0.157831501278,0
+Within Llama-3.1-8B,LR,11,16,llama-3.1-8b-instant,0,0.249634414697,4
+Within Llama-3.1-8B,LR,12,17,llama-3.1-8b-instant,1,0.091397373295,2
+Within Llama-3.1-8B,LR,13,20,llama-3.1-8b-instant,0,0.710261552932,3
+Within Llama-3.1-8B,LR,14,22,llama-3.1-8b-instant,0,0.178393182712,3
+Within Llama-3.1-8B,LR,15,23,llama-3.1-8b-instant,1,0.324878392756,2
+Within Llama-3.1-8B,LR,16,24,llama-3.1-8b-instant,1,0.315940298957,1
+Within Llama-3.1-8B,LR,17,25,llama-3.1-8b-instant,0,0.4326902188,4
+Within Llama-3.1-8B,LR,18,26,llama-3.1-8b-instant,1,0.289437384384,1
+Within Llama-3.1-8B,LR,19,27,llama-3.1-8b-instant,0,0.225768139861,1
+Within Llama-3.1-8B,LR,20,28,llama-3.1-8b-instant,1,0.290714119447,1
+Within Llama-3.1-8B,LR,21,29,llama-3.1-8b-instant,0,0.23349579981,2
+Within Llama-3.1-8B,LR,22,30,llama-3.1-8b-instant,0,0.575431933097,0
+Within Llama-3.1-8B,LR,23,31,llama-3.1-8b-instant,1,0.222915713904,3
+Within Llama-3.1-8B,LR,24,32,llama-3.1-8b-instant,1,0.11862244183,4
+Within Llama-3.1-8B,LR,25,34,llama-3.1-8b-instant,0,0.11981842847,0
+Within Llama-3.1-8B,LR,26,35,llama-3.1-8b-instant,0,0.260562542873,2
+Within Llama-3.1-8B,LR,27,37,llama-3.1-8b-instant,1,0.175890062853,3
+Within Llama-3.1-8B,LR,28,39,llama-3.1-8b-instant,1,0.292386584841,4
+Within Llama-3.1-8B,LR,29,40,llama-3.1-8b-instant,0,0.839190980003,3
+Within Llama-3.1-8B,LR,30,41,llama-3.1-8b-instant,0,0.181121452424,1
+Within Llama-3.1-8B,LR,31,42,llama-3.1-8b-instant,0,0.363115349838,1
+Within Llama-3.1-8B,LR,32,43,llama-3.1-8b-instant,1,0.1029468604,3
+Within Llama-3.1-8B,LR,33,44,llama-3.1-8b-instant,0,0.034333625878,2
+Within Llama-3.1-8B,LR,34,46,llama-3.1-8b-instant,1,0.231064926465,0
+Within Llama-3.1-8B,LR,35,47,llama-3.1-8b-instant,0,0.311036461077,3
+Within Llama-3.1-8B,LR,36,48,llama-3.1-8b-instant,0,0.187839219693,4
+Within Llama-3.1-8B,LR,37,49,llama-3.1-8b-instant,0,0.429426124554,1
+Within Llama-3.1-8B,LR,38,50,llama-3.1-8b-instant,1,0.292913903716,3
+Within Llama-3.1-8B,LR,39,52,llama-3.1-8b-instant,0,0.51276984048,0
+Within Llama-3.1-8B,LR,40,53,llama-3.1-8b-instant,0,0.218072332024,1
+Within Llama-3.1-8B,LR,41,54,llama-3.1-8b-instant,0,0.238970839293,3
+Within Llama-3.1-8B,LR,42,55,llama-3.1-8b-instant,0,0.317063986302,1
+Within Llama-3.1-8B,LR,43,56,llama-3.1-8b-instant,0,0.154299942483,3
+Within Llama-3.1-8B,LR,44,57,llama-3.1-8b-instant,1,0.198104585363,4
+Within Llama-3.1-8B,LR,45,58,llama-3.1-8b-instant,0,0.189083245118,0
+Within Llama-3.1-8B,LR,46,59,llama-3.1-8b-instant,0,0.139554716899,3
+Within Llama-3.1-8B,LR,47,61,llama-3.1-8b-instant,1,0.268446112061,0
+Within Llama-3.1-8B,LR,48,62,llama-3.1-8b-instant,1,0.37410312696,1
+Within Llama-3.1-8B,LR,49,63,llama-3.1-8b-instant,0,0.213909349573,2
+Within Llama-3.1-8B,LR,50,64,llama-3.1-8b-instant,0,0.533011168417,0
+Within Llama-3.1-8B,LR,51,67,llama-3.1-8b-instant,1,0.204457985615,2
+Within Llama-3.1-8B,LR,52,68,llama-3.1-8b-instant,1,0.439377395743,1
+Within Llama-3.1-8B,LR,53,69,llama-3.1-8b-instant,0,0.510909943219,2
+Within Llama-3.1-8B,LR,54,70,llama-3.1-8b-instant,0,0.132694912227,2
+Within Llama-3.1-8B,LR,55,71,llama-3.1-8b-instant,1,0.693923814093,2
+Within Llama-3.1-8B,LR,56,72,llama-3.1-8b-instant,0,0.896795615326,4
+Within Llama-3.1-8B,LR,57,73,llama-3.1-8b-instant,0,0.472956726806,0
+Within Llama-3.1-8B,LR,58,74,llama-3.1-8b-instant,0,0.039965716035,0
+Within Llama-3.1-8B,LR,59,75,llama-3.1-8b-instant,1,0.188663143668,2
+Within Llama-3.1-8B,LR,60,76,llama-3.1-8b-instant,0,0.270985543101,2
+Within Llama-3.1-8B,LR,61,77,llama-3.1-8b-instant,1,0.320269914242,0
+Within Llama-3.1-8B,LR,62,78,llama-3.1-8b-instant,0,0.289643309141,4
+Within Llama-3.1-8B,LR,63,79,llama-3.1-8b-instant,0,0.417935547111,2
+Within Llama-3.1-8B,LR,64,80,llama-3.1-8b-instant,0,0.041397288971,3
+Within Llama-3.1-8B,LR,65,82,llama-3.1-8b-instant,1,0.531584243424,4
+Within Llama-3.1-8B,LR,66,83,llama-3.1-8b-instant,1,0.831967583617,0
+Within Llama-3.1-8B,LR,67,84,llama-3.1-8b-instant,0,0.091876188175,4
+Within Llama-3.1-8B,LR,68,85,llama-3.1-8b-instant,1,0.191441080493,0
+Within Llama-3.1-8B,LR,69,86,llama-3.1-8b-instant,1,0.519691911088,4
+Within Llama-3.1-8B,LR,70,87,llama-3.1-8b-instant,0,0.201845687422,0
+Within Llama-3.1-8B,LR,71,88,llama-3.1-8b-instant,0,0.28156531685,0
+Within Llama-3.1-8B,LR,72,89,llama-3.1-8b-instant,0,0.175723982019,0
+Within Llama-3.1-8B,LR,73,90,llama-3.1-8b-instant,1,0.066885029836,0
+Within Llama-3.1-8B,LR,74,91,llama-3.1-8b-instant,1,0.460193288296,3
+Within Llama-3.1-8B,LR,75,92,llama-3.1-8b-instant,0,0.201517456554,1
+Within Llama-3.1-8B,LR,76,93,llama-3.1-8b-instant,1,0.143374465054,1
+Within Llama-3.1-8B,LR,77,94,llama-3.1-8b-instant,0,0.201894137371,0
+Within Llama-3.1-8B,LR,78,95,llama-3.1-8b-instant,0,0.846558128059,2
+Within Llama-3.1-8B,LR,79,96,llama-3.1-8b-instant,0,0.180817034081,4
+Within Llama-3.1-8B,LR,80,97,llama-3.1-8b-instant,0,0.34342845315,2
+Within Llama-3.1-8B,LR,81,99,llama-3.1-8b-instant,0,0.309867311095,1
+Within Llama-3.1-8B,LR,82,100,llama-3.1-8b-instant,0,0.096678498976,3
+Within Llama-3.1-8B,LR,83,101,llama-3.1-8b-instant,0,0.323168742338,4
+Within Llama-3.1-8B,LR,84,102,llama-3.1-8b-instant,0,0.140745125188,1
+Within Llama-3.1-8B,LR,85,103,llama-3.1-8b-instant,0,0.500634144453,4
+Within Llama-3.1-8B,LR,86,104,llama-3.1-8b-instant,1,0.285981120609,0
+Within Llama-3.1-8B,LR,87,106,llama-3.1-8b-instant,0,0.184882277589,1
+Within Llama-3.1-8B,LR,88,107,llama-3.1-8b-instant,0,0.193446798681,3
+Within Llama-3.1-8B,LR,89,108,llama-3.1-8b-instant,0,0.187028780673,3
+Within Llama-3.1-8B,LR,90,109,llama-3.1-8b-instant,0,0.357415931525,2
+Within Llama-3.1-8B,LR,91,111,llama-3.1-8b-instant,0,0.094518009317,3
+Within Llama-3.1-8B,LR,92,112,llama-3.1-8b-instant,0,0.155403498454,4
+Within Llama-3.1-8B,LR,93,113,llama-3.1-8b-instant,1,0.247576907543,1
+Within Llama-3.1-8B,LR,94,114,llama-3.1-8b-instant,0,0.105258778912,3
+Within Llama-3.1-8B,LR,95,116,llama-3.1-8b-instant,1,0.350833501662,2
+Within Llama-3.1-8B,LR,96,117,llama-3.1-8b-instant,1,0.554797379172,3
+Within Llama-3.1-8B,LR,97,118,llama-3.1-8b-instant,0,0.299206064396,1
+Within Llama-3.1-8B,LR,98,119,llama-3.1-8b-instant,0,0.38508839884,3
+Within Llama-3.1-8B,LR,99,120,llama-3.1-8b-instant,1,0.370705918512,4
+Within Llama-3.1-8B,LR,100,121,llama-3.1-8b-instant,0,0.405070429323,4
+Within Llama-3.1-8B,LR,101,122,llama-3.1-8b-instant,0,0.184923534097,4
+Within Llama-3.1-8B,LR,102,124,llama-3.1-8b-instant,0,0.355704771291,0
+Within Llama-3.1-8B,LR,103,126,llama-3.1-8b-instant,0,0.218193819073,0
+Within Llama-3.1-8B,LR,104,127,llama-3.1-8b-instant,0,0.696538700129,3
+Within Llama-3.1-8B,LR,105,128,llama-3.1-8b-instant,1,0.195948789605,0
+Within Llama-3.1-8B,LR,106,129,llama-3.1-8b-instant,0,0.221852536265,1
+Within Llama-3.1-8B,LR,107,130,llama-3.1-8b-instant,0,0.149341197894,4
+Within Llama-3.1-8B,LR,108,132,llama-3.1-8b-instant,1,0.23262004851,2
+Within Llama-3.1-8B,LR,109,133,llama-3.1-8b-instant,1,0.269239098983,1
+Within Llama-3.1-8B,LR,110,134,llama-3.1-8b-instant,0,0.879787424978,3
+Within Llama-3.1-8B,LR,111,135,llama-3.1-8b-instant,0,0.2167535104,1
+Within Llama-3.1-8B,LR,112,136,llama-3.1-8b-instant,0,0.372318146866,4
+Within Llama-3.1-8B,LR,113,137,llama-3.1-8b-instant,0,0.251955774632,1
+Within Llama-3.1-8B,LR,114,138,llama-3.1-8b-instant,0,0.137819145593,2
+Within Llama-3.1-8B,LR,115,139,llama-3.1-8b-instant,0,0.104109703037,0
+Within Llama-3.1-8B,LR,116,140,llama-3.1-8b-instant,0,0.397693388192,2
+Within Llama-3.1-8B,LR,117,141,llama-3.1-8b-instant,1,0.10784895533,3
+Within Llama-3.1-8B,LR,118,142,llama-3.1-8b-instant,1,0.453414082855,4
+Within Llama-3.1-8B,LR,119,143,llama-3.1-8b-instant,0,0.181651854365,2
+Within Llama-3.1-8B,LR,120,144,llama-3.1-8b-instant,0,0.294257186479,1
+Within Llama-3.1-8B,LR,121,145,llama-3.1-8b-instant,0,0.141527586646,1
+Within Llama-3.1-8B,LR,122,146,llama-3.1-8b-instant,0,0.046625627176,2
+Within Llama-3.1-8B,LR,123,147,llama-3.1-8b-instant,0,0.812243948419,2
+Within Llama-3.1-8B,LR,124,148,llama-3.1-8b-instant,0,0.120408777579,4
+Within Llama-3.1-8B,LR,125,149,llama-3.1-8b-instant,0,0.178706837425,4
+Leave out llama-3.1-8b-instant,LR,0,1,llama-3.1-8b-instant,0,0.019306958462,0
+Leave out llama-3.1-8b-instant,LR,1,2,llama-3.1-8b-instant,0,0.005739416903,4
+Leave out llama-3.1-8b-instant,LR,2,3,llama-3.1-8b-instant,0,0.002239907831,1
+Leave out llama-3.1-8b-instant,LR,3,4,llama-3.1-8b-instant,1,0.039595744114,0
+Leave out llama-3.1-8b-instant,LR,4,5,llama-3.1-8b-instant,0,0.007111058436,1
+Leave out llama-3.1-8b-instant,LR,5,6,llama-3.1-8b-instant,0,0.009273925654,2
+Leave out llama-3.1-8b-instant,LR,6,7,llama-3.1-8b-instant,0,0.007911373986,2
+Leave out llama-3.1-8b-instant,LR,7,9,llama-3.1-8b-instant,0,0.007844672233,3
+Leave out llama-3.1-8b-instant,LR,8,10,llama-3.1-8b-instant,0,0.009744629908,2
+Leave out llama-3.1-8b-instant,LR,9,13,llama-3.1-8b-instant,1,0.025459605737,1
+Leave out llama-3.1-8b-instant,LR,10,14,llama-3.1-8b-instant,0,0.014542654959,1
+Leave out llama-3.1-8b-instant,LR,11,16,llama-3.1-8b-instant,0,0.047632173692,3
+Leave out llama-3.1-8b-instant,LR,12,17,llama-3.1-8b-instant,1,0.001736869228,1
+Leave out llama-3.1-8b-instant,LR,13,20,llama-3.1-8b-instant,0,0.011355183634,4
+Leave out llama-3.1-8b-instant,LR,14,22,llama-3.1-8b-instant,0,0.002095164403,4
+Leave out llama-3.1-8b-instant,LR,15,23,llama-3.1-8b-instant,1,0.002150393194,3
+Leave out llama-3.1-8b-instant,LR,16,24,llama-3.1-8b-instant,1,0.011141591821,0
+Leave out llama-3.1-8b-instant,LR,17,25,llama-3.1-8b-instant,0,0.001216591404,0
+Leave out llama-3.1-8b-instant,LR,18,26,llama-3.1-8b-instant,1,0.003831131541,2
+Leave out llama-3.1-8b-instant,LR,19,27,llama-3.1-8b-instant,0,0.01247239079,0
+Leave out llama-3.1-8b-instant,LR,20,28,llama-3.1-8b-instant,1,0.010011487639,1
+Leave out llama-3.1-8b-instant,LR,21,29,llama-3.1-8b-instant,0,0.007997478947,0
+Leave out llama-3.1-8b-instant,LR,22,30,llama-3.1-8b-instant,0,0.031109461725,1
+Leave out llama-3.1-8b-instant,LR,23,31,llama-3.1-8b-instant,1,0.027639452336,1
+Leave out llama-3.1-8b-instant,LR,24,32,llama-3.1-8b-instant,1,0.117539128184,4
+Leave out llama-3.1-8b-instant,LR,25,34,llama-3.1-8b-instant,0,0.009754353176,3
+Leave out llama-3.1-8b-instant,LR,26,35,llama-3.1-8b-instant,0,0.009435755107,4
+Leave out llama-3.1-8b-instant,LR,27,37,llama-3.1-8b-instant,1,0.005657400539,2
+Leave out llama-3.1-8b-instant,LR,28,39,llama-3.1-8b-instant,1,0.051822359589,3
+Leave out llama-3.1-8b-instant,LR,29,40,llama-3.1-8b-instant,0,0.40518285781,4
+Leave out llama-3.1-8b-instant,LR,30,41,llama-3.1-8b-instant,0,0.007020222126,0
+Leave out llama-3.1-8b-instant,LR,31,42,llama-3.1-8b-instant,0,0.004594470938,3
+Leave out llama-3.1-8b-instant,LR,32,43,llama-3.1-8b-instant,1,0.002996723544,0
+Leave out llama-3.1-8b-instant,LR,33,44,llama-3.1-8b-instant,0,0.020447774745,1
+Leave out llama-3.1-8b-instant,LR,34,46,llama-3.1-8b-instant,1,0.007296962163,3
+Leave out llama-3.1-8b-instant,LR,35,47,llama-3.1-8b-instant,0,0.011178322906,0
+Leave out llama-3.1-8b-instant,LR,36,48,llama-3.1-8b-instant,0,0.010840414111,2
+Leave out llama-3.1-8b-instant,LR,37,49,llama-3.1-8b-instant,0,0.00764581622,2
+Leave out llama-3.1-8b-instant,LR,38,50,llama-3.1-8b-instant,1,0.00814951471,1
+Leave out llama-3.1-8b-instant,LR,39,52,llama-3.1-8b-instant,0,0.040495350888,4
+Leave out llama-3.1-8b-instant,LR,40,53,llama-3.1-8b-instant,0,0.007776256386,2
+Leave out llama-3.1-8b-instant,LR,41,54,llama-3.1-8b-instant,0,0.002309259645,4
+Leave out llama-3.1-8b-instant,LR,42,55,llama-3.1-8b-instant,0,0.00339223894,3
+Leave out llama-3.1-8b-instant,LR,43,56,llama-3.1-8b-instant,0,0.001330229842,4
+Leave out llama-3.1-8b-instant,LR,44,57,llama-3.1-8b-instant,1,0.00620186197,0
+Leave out llama-3.1-8b-instant,LR,45,58,llama-3.1-8b-instant,0,0.00745145137,2
+Leave out llama-3.1-8b-instant,LR,46,59,llama-3.1-8b-instant,0,0.003448943375,4
+Leave out llama-3.1-8b-instant,LR,47,61,llama-3.1-8b-instant,1,0.015036395614,0
+Leave out llama-3.1-8b-instant,LR,48,62,llama-3.1-8b-instant,1,0.006245842728,4
+Leave out llama-3.1-8b-instant,LR,49,63,llama-3.1-8b-instant,0,0.030422392242,3
+Leave out llama-3.1-8b-instant,LR,50,64,llama-3.1-8b-instant,0,0.013513946601,3
+Leave out llama-3.1-8b-instant,LR,51,67,llama-3.1-8b-instant,1,0.00844741534,2
+Leave out llama-3.1-8b-instant,LR,52,68,llama-3.1-8b-instant,1,0.056419788464,0
+Leave out llama-3.1-8b-instant,LR,53,69,llama-3.1-8b-instant,0,0.020748835114,0
+Leave out llama-3.1-8b-instant,LR,54,70,llama-3.1-8b-instant,0,0.006605838969,1
+Leave out llama-3.1-8b-instant,LR,55,71,llama-3.1-8b-instant,1,0.102349450209,3
+Leave out llama-3.1-8b-instant,LR,56,72,llama-3.1-8b-instant,0,0.01651216814,1
+Leave out llama-3.1-8b-instant,LR,57,73,llama-3.1-8b-instant,0,0.007619211097,4
+Leave out llama-3.1-8b-instant,LR,58,74,llama-3.1-8b-instant,0,0.014554998644,0
+Leave out llama-3.1-8b-instant,LR,59,75,llama-3.1-8b-instant,1,0.058285473113,2
+Leave out llama-3.1-8b-instant,LR,60,76,llama-3.1-8b-instant,0,0.014492124374,1
+Leave out llama-3.1-8b-instant,LR,61,77,llama-3.1-8b-instant,1,0.01313477375,3
+Leave out llama-3.1-8b-instant,LR,62,78,llama-3.1-8b-instant,0,0.006243432347,2
+Leave out llama-3.1-8b-instant,LR,63,79,llama-3.1-8b-instant,0,0.011034390208,1
+Leave out llama-3.1-8b-instant,LR,64,80,llama-3.1-8b-instant,0,0.003292076072,2
+Leave out llama-3.1-8b-instant,LR,65,82,llama-3.1-8b-instant,1,0.024613037958,4
+Leave out llama-3.1-8b-instant,LR,66,83,llama-3.1-8b-instant,1,0.067614733729,2
+Leave out llama-3.1-8b-instant,LR,67,84,llama-3.1-8b-instant,0,0.002646904992,2
+Leave out llama-3.1-8b-instant,LR,68,85,llama-3.1-8b-instant,1,0.009552169088,0
+Leave out llama-3.1-8b-instant,LR,69,86,llama-3.1-8b-instant,1,0.042436422117,1
+Leave out llama-3.1-8b-instant,LR,70,87,llama-3.1-8b-instant,0,0.011514783284,0
+Leave out llama-3.1-8b-instant,LR,71,88,llama-3.1-8b-instant,0,0.01475664742,3
+Leave out llama-3.1-8b-instant,LR,72,89,llama-3.1-8b-instant,0,0.005166549217,1
+Leave out llama-3.1-8b-instant,LR,73,90,llama-3.1-8b-instant,1,0.043539521207,2
+Leave out llama-3.1-8b-instant,LR,74,91,llama-3.1-8b-instant,1,0.01696361769,3
+Leave out llama-3.1-8b-instant,LR,75,92,llama-3.1-8b-instant,0,0.017782679472,0
+Leave out llama-3.1-8b-instant,LR,76,93,llama-3.1-8b-instant,1,0.045103269707,4
+Leave out llama-3.1-8b-instant,LR,77,94,llama-3.1-8b-instant,0,0.002125339393,4
+Leave out llama-3.1-8b-instant,LR,78,95,llama-3.1-8b-instant,0,0.079062376304,4
+Leave out llama-3.1-8b-instant,LR,79,96,llama-3.1-8b-instant,0,0.125442538263,2
+Leave out llama-3.1-8b-instant,LR,80,97,llama-3.1-8b-instant,0,0.010592465674,0
+Leave out llama-3.1-8b-instant,LR,81,99,llama-3.1-8b-instant,0,0.00213330771,4
+Leave out llama-3.1-8b-instant,LR,82,100,llama-3.1-8b-instant,0,0.003256475664,0
+Leave out llama-3.1-8b-instant,LR,83,101,llama-3.1-8b-instant,0,0.070152728901,1
+Leave out llama-3.1-8b-instant,LR,84,102,llama-3.1-8b-instant,0,0.001844513273,2
+Leave out llama-3.1-8b-instant,LR,85,103,llama-3.1-8b-instant,0,0.031264653033,0
+Leave out llama-3.1-8b-instant,LR,86,104,llama-3.1-8b-instant,1,0.003077484211,4
+Leave out llama-3.1-8b-instant,LR,87,106,llama-3.1-8b-instant,0,0.013863281699,2
+Leave out llama-3.1-8b-instant,LR,88,107,llama-3.1-8b-instant,0,0.003504858142,2
+Leave out llama-3.1-8b-instant,LR,89,108,llama-3.1-8b-instant,0,0.011388417854,1
+Leave out llama-3.1-8b-instant,LR,90,109,llama-3.1-8b-instant,0,0.007969017649,1
+Leave out llama-3.1-8b-instant,LR,91,111,llama-3.1-8b-instant,0,0.003369464062,0
+Leave out llama-3.1-8b-instant,LR,92,112,llama-3.1-8b-instant,0,0.005247389055,0
+Leave out llama-3.1-8b-instant,LR,93,113,llama-3.1-8b-instant,1,0.001507270539,4
+Leave out llama-3.1-8b-instant,LR,94,114,llama-3.1-8b-instant,0,0.00079244261,3
+Leave out llama-3.1-8b-instant,LR,95,116,llama-3.1-8b-instant,1,0.007386981336,0
+Leave out llama-3.1-8b-instant,LR,96,117,llama-3.1-8b-instant,1,0.006078615243,2
+Leave out llama-3.1-8b-instant,LR,97,118,llama-3.1-8b-instant,0,0.003303115028,3
+Leave out llama-3.1-8b-instant,LR,98,119,llama-3.1-8b-instant,0,0.007717099489,3
+Leave out llama-3.1-8b-instant,LR,99,120,llama-3.1-8b-instant,1,0.039107377395,2
+Leave out llama-3.1-8b-instant,LR,100,121,llama-3.1-8b-instant,0,0.055471017694,0
+Leave out llama-3.1-8b-instant,LR,101,122,llama-3.1-8b-instant,0,0.001835378813,1
+Leave out llama-3.1-8b-instant,LR,102,124,llama-3.1-8b-instant,0,0.036943708009,1
+Leave out llama-3.1-8b-instant,LR,103,126,llama-3.1-8b-instant,0,0.008670541732,3
+Leave out llama-3.1-8b-instant,LR,104,127,llama-3.1-8b-instant,0,0.061281633603,1
+Leave out llama-3.1-8b-instant,LR,105,128,llama-3.1-8b-instant,1,0.004549004081,3
+Leave out llama-3.1-8b-instant,LR,106,129,llama-3.1-8b-instant,0,0.208499111455,2
+Leave out llama-3.1-8b-instant,LR,107,130,llama-3.1-8b-instant,0,0.010691452963,3
+Leave out llama-3.1-8b-instant,LR,108,132,llama-3.1-8b-instant,1,0.003577596433,2
+Leave out llama-3.1-8b-instant,LR,109,133,llama-3.1-8b-instant,1,0.031083587139,1
+Leave out llama-3.1-8b-instant,LR,110,134,llama-3.1-8b-instant,0,0.033830277606,3
+Leave out llama-3.1-8b-instant,LR,111,135,llama-3.1-8b-instant,0,0.022071587404,3
+Leave out llama-3.1-8b-instant,LR,112,136,llama-3.1-8b-instant,0,0.003790487432,3
+Leave out llama-3.1-8b-instant,LR,113,137,llama-3.1-8b-instant,0,0.002335435731,4
+Leave out llama-3.1-8b-instant,LR,114,138,llama-3.1-8b-instant,0,0.001346286586,4
+Leave out llama-3.1-8b-instant,LR,115,139,llama-3.1-8b-instant,0,0.000323600812,4
+Leave out llama-3.1-8b-instant,LR,116,140,llama-3.1-8b-instant,0,0.012112405028,1
+Leave out llama-3.1-8b-instant,LR,117,141,llama-3.1-8b-instant,1,0.032377771967,4
+Leave out llama-3.1-8b-instant,LR,118,142,llama-3.1-8b-instant,1,0.007335473115,1
+Leave out llama-3.1-8b-instant,LR,119,143,llama-3.1-8b-instant,0,0.004914978039,2
+Leave out llama-3.1-8b-instant,LR,120,144,llama-3.1-8b-instant,0,0.002628762806,4
+Leave out llama-3.1-8b-instant,LR,121,145,llama-3.1-8b-instant,0,0.005677773349,3
+Leave out llama-3.1-8b-instant,LR,122,146,llama-3.1-8b-instant,0,0.001146084751,1
+Leave out llama-3.1-8b-instant,LR,123,147,llama-3.1-8b-instant,0,0.094753579385,0
+Leave out llama-3.1-8b-instant,LR,124,148,llama-3.1-8b-instant,0,0.033648053991,4
+Leave out llama-3.1-8b-instant,LR,125,149,llama-3.1-8b-instant,0,0.214477655792,0
+Leave out llama-3.3-70b-versatile,LR,126,1,llama-3.3-70b-versatile,0,0.285947203532,0
+Leave out llama-3.3-70b-versatile,LR,127,2,llama-3.3-70b-versatile,0,0.377010260348,4
+Leave out llama-3.3-70b-versatile,LR,128,3,llama-3.3-70b-versatile,0,0.115534447861,1
+Leave out llama-3.3-70b-versatile,LR,129,4,llama-3.3-70b-versatile,0,0.326228722097,0
+Leave out llama-3.3-70b-versatile,LR,130,5,llama-3.3-70b-versatile,0,0.045089236033,1
+Leave out llama-3.3-70b-versatile,LR,131,6,llama-3.3-70b-versatile,0,0.099464804965,2
+Leave out llama-3.3-70b-versatile,LR,132,7,llama-3.3-70b-versatile,0,0.145447076015,2
+Leave out llama-3.3-70b-versatile,LR,133,9,llama-3.3-70b-versatile,0,0.194512980223,3
+Leave out llama-3.3-70b-versatile,LR,134,10,llama-3.3-70b-versatile,0,0.148780141301,2
+Leave out llama-3.3-70b-versatile,LR,135,13,llama-3.3-70b-versatile,0,0.210606679276,1
+Leave out llama-3.3-70b-versatile,LR,136,14,llama-3.3-70b-versatile,0,0.135031808526,1
+Leave out llama-3.3-70b-versatile,LR,137,16,llama-3.3-70b-versatile,0,0.243949923732,3
+Leave out llama-3.3-70b-versatile,LR,138,17,llama-3.3-70b-versatile,0,0.065907124479,1
+Leave out llama-3.3-70b-versatile,LR,139,20,llama-3.3-70b-versatile,0,0.171253412952,4
+Leave out llama-3.3-70b-versatile,LR,140,22,llama-3.3-70b-versatile,0,0.072292727889,4
+Leave out llama-3.3-70b-versatile,LR,141,23,llama-3.3-70b-versatile,0,0.117511937573,3
+Leave out llama-3.3-70b-versatile,LR,142,24,llama-3.3-70b-versatile,0,0.136597501354,0
+Leave out llama-3.3-70b-versatile,LR,143,25,llama-3.3-70b-versatile,0,0.077514459178,0
+Leave out llama-3.3-70b-versatile,LR,144,26,llama-3.3-70b-versatile,0,0.157467443833,2
+Leave out llama-3.3-70b-versatile,LR,145,27,llama-3.3-70b-versatile,0,0.18386140955,0
+Leave out llama-3.3-70b-versatile,LR,146,28,llama-3.3-70b-versatile,0,0.150557665776,1
+Leave out llama-3.3-70b-versatile,LR,147,29,llama-3.3-70b-versatile,0,0.13399980895,0
+Leave out llama-3.3-70b-versatile,LR,148,30,llama-3.3-70b-versatile,0,0.281715165926,1
+Leave out llama-3.3-70b-versatile,LR,149,31,llama-3.3-70b-versatile,0,0.276700991171,1
+Leave out llama-3.3-70b-versatile,LR,150,32,llama-3.3-70b-versatile,0,0.131706735696,4
+Leave out llama-3.3-70b-versatile,LR,151,34,llama-3.3-70b-versatile,0,0.126682253869,3
+Leave out llama-3.3-70b-versatile,LR,152,35,llama-3.3-70b-versatile,0,0.20141526426,4
+Leave out llama-3.3-70b-versatile,LR,153,37,llama-3.3-70b-versatile,0,0.158359975354,2
+Leave out llama-3.3-70b-versatile,LR,154,39,llama-3.3-70b-versatile,0,0.247638542572,3
+Leave out llama-3.3-70b-versatile,LR,155,40,llama-3.3-70b-versatile,0,0.546438262671,4
+Leave out llama-3.3-70b-versatile,LR,156,41,llama-3.3-70b-versatile,0,0.090233677197,0
+Leave out llama-3.3-70b-versatile,LR,157,42,llama-3.3-70b-versatile,0,0.194948178194,3
+Leave out llama-3.3-70b-versatile,LR,158,43,llama-3.3-70b-versatile,0,0.132992680986,0
+Leave out llama-3.3-70b-versatile,LR,159,44,llama-3.3-70b-versatile,0,0.065847892929,1
+Leave out llama-3.3-70b-versatile,LR,160,46,llama-3.3-70b-versatile,0,0.151426697298,3
+Leave out llama-3.3-70b-versatile,LR,161,47,llama-3.3-70b-versatile,0,0.108732610065,0
+Leave out llama-3.3-70b-versatile,LR,162,48,llama-3.3-70b-versatile,0,0.114661943103,2
+Leave out llama-3.3-70b-versatile,LR,163,49,llama-3.3-70b-versatile,0,0.200915869945,2
+Leave out llama-3.3-70b-versatile,LR,164,50,llama-3.3-70b-versatile,0,0.196808355252,1
+Leave out llama-3.3-70b-versatile,LR,165,52,llama-3.3-70b-versatile,0,0.128627177546,4
+Leave out llama-3.3-70b-versatile,LR,166,53,llama-3.3-70b-versatile,0,0.115197145857,2
+Leave out llama-3.3-70b-versatile,LR,167,54,llama-3.3-70b-versatile,0,0.185522020876,4
+Leave out llama-3.3-70b-versatile,LR,168,55,llama-3.3-70b-versatile,0,0.153985661853,3
+Leave out llama-3.3-70b-versatile,LR,169,56,llama-3.3-70b-versatile,0,0.050557376281,4
+Leave out llama-3.3-70b-versatile,LR,170,57,llama-3.3-70b-versatile,0,0.091914766271,0
+Leave out llama-3.3-70b-versatile,LR,171,58,llama-3.3-70b-versatile,0,0.105382366502,2
+Leave out llama-3.3-70b-versatile,LR,172,59,llama-3.3-70b-versatile,0,0.095412516058,4
+Leave out llama-3.3-70b-versatile,LR,173,61,llama-3.3-70b-versatile,0,0.10568698026,0
+Leave out llama-3.3-70b-versatile,LR,174,62,llama-3.3-70b-versatile,0,0.194049889361,4
+Leave out llama-3.3-70b-versatile,LR,175,63,llama-3.3-70b-versatile,0,0.160438004043,3
+Leave out llama-3.3-70b-versatile,LR,176,64,llama-3.3-70b-versatile,0,0.317742526903,3
+Leave out llama-3.3-70b-versatile,LR,177,67,llama-3.3-70b-versatile,0,0.14191328745,2
+Leave out llama-3.3-70b-versatile,LR,178,68,llama-3.3-70b-versatile,0,0.243779536553,0
+Leave out llama-3.3-70b-versatile,LR,179,69,llama-3.3-70b-versatile,0,0.381975999018,0
+Leave out llama-3.3-70b-versatile,LR,180,70,llama-3.3-70b-versatile,0,0.125111698642,1
+Leave out llama-3.3-70b-versatile,LR,181,71,llama-3.3-70b-versatile,0,0.368925036772,3
+Leave out llama-3.3-70b-versatile,LR,182,72,llama-3.3-70b-versatile,0,0.347400626452,1
+Leave out llama-3.3-70b-versatile,LR,183,73,llama-3.3-70b-versatile,0,0.179318005967,4
+Leave out llama-3.3-70b-versatile,LR,184,74,llama-3.3-70b-versatile,0,0.094201542506,0
+Leave out llama-3.3-70b-versatile,LR,185,75,llama-3.3-70b-versatile,0,0.158018537913,2
+Leave out llama-3.3-70b-versatile,LR,186,76,llama-3.3-70b-versatile,0,0.186978842307,1
+Leave out llama-3.3-70b-versatile,LR,187,77,llama-3.3-70b-versatile,0,0.132761333621,3
+Leave out llama-3.3-70b-versatile,LR,188,78,llama-3.3-70b-versatile,0,0.182798738108,2
+Leave out llama-3.3-70b-versatile,LR,189,79,llama-3.3-70b-versatile,0,0.213382018078,1
+Leave out llama-3.3-70b-versatile,LR,190,80,llama-3.3-70b-versatile,0,0.075677179345,2
+Leave out llama-3.3-70b-versatile,LR,191,82,llama-3.3-70b-versatile,0,0.327696013089,4
+Leave out llama-3.3-70b-versatile,LR,192,83,llama-3.3-70b-versatile,1,0.525407473558,2
+Leave out llama-3.3-70b-versatile,LR,193,84,llama-3.3-70b-versatile,0,0.052453769588,2
+Leave out llama-3.3-70b-versatile,LR,194,85,llama-3.3-70b-versatile,0,0.101845186708,0
+Leave out llama-3.3-70b-versatile,LR,195,86,llama-3.3-70b-versatile,0,0.289547506757,1
+Leave out llama-3.3-70b-versatile,LR,196,87,llama-3.3-70b-versatile,0,0.099528638081,0
+Leave out llama-3.3-70b-versatile,LR,197,88,llama-3.3-70b-versatile,0,0.175275916433,3
+Leave out llama-3.3-70b-versatile,LR,198,89,llama-3.3-70b-versatile,0,0.118555549977,1
+Leave out llama-3.3-70b-versatile,LR,199,90,llama-3.3-70b-versatile,0,0.123474561819,2
+Leave out llama-3.3-70b-versatile,LR,200,91,llama-3.3-70b-versatile,0,0.260851614786,3
+Leave out llama-3.3-70b-versatile,LR,201,92,llama-3.3-70b-versatile,0,0.157729130724,0
+Leave out llama-3.3-70b-versatile,LR,202,93,llama-3.3-70b-versatile,0,0.131621415284,4
+Leave out llama-3.3-70b-versatile,LR,203,94,llama-3.3-70b-versatile,0,0.134378713847,4
+Leave out llama-3.3-70b-versatile,LR,204,95,llama-3.3-70b-versatile,0,0.520590919126,4
+Leave out llama-3.3-70b-versatile,LR,205,96,llama-3.3-70b-versatile,0,0.148696984934,2
+Leave out llama-3.3-70b-versatile,LR,206,97,llama-3.3-70b-versatile,0,0.144231172251,0
+Leave out llama-3.3-70b-versatile,LR,207,99,llama-3.3-70b-versatile,0,0.139903915113,4
+Leave out llama-3.3-70b-versatile,LR,208,100,llama-3.3-70b-versatile,0,0.066048291317,0
+Leave out llama-3.3-70b-versatile,LR,209,101,llama-3.3-70b-versatile,0,0.331112562992,1
+Leave out llama-3.3-70b-versatile,LR,210,102,llama-3.3-70b-versatile,0,0.064181962111,2
+Leave out llama-3.3-70b-versatile,LR,211,103,llama-3.3-70b-versatile,0,0.309382110559,0
+Leave out llama-3.3-70b-versatile,LR,212,104,llama-3.3-70b-versatile,0,0.173982279135,4
+Leave out llama-3.3-70b-versatile,LR,213,106,llama-3.3-70b-versatile,0,0.105638885799,2
+Leave out llama-3.3-70b-versatile,LR,214,107,llama-3.3-70b-versatile,0,0.115651243333,2
+Leave out llama-3.3-70b-versatile,LR,215,108,llama-3.3-70b-versatile,0,0.094867519743,1
+Leave out llama-3.3-70b-versatile,LR,216,109,llama-3.3-70b-versatile,0,0.17163727357,1
+Leave out llama-3.3-70b-versatile,LR,217,111,llama-3.3-70b-versatile,0,0.06195864652,0
+Leave out llama-3.3-70b-versatile,LR,218,112,llama-3.3-70b-versatile,0,0.085870376533,0
+Leave out llama-3.3-70b-versatile,LR,219,113,llama-3.3-70b-versatile,0,0.123695790062,4
+Leave out llama-3.3-70b-versatile,LR,220,114,llama-3.3-70b-versatile,0,0.063598191539,3
+Leave out llama-3.3-70b-versatile,LR,221,116,llama-3.3-70b-versatile,0,0.137988029286,0
+Leave out llama-3.3-70b-versatile,LR,222,117,llama-3.3-70b-versatile,0,0.208376365574,2
+Leave out llama-3.3-70b-versatile,LR,223,118,llama-3.3-70b-versatile,0,0.156865202854,3
+Leave out llama-3.3-70b-versatile,LR,224,119,llama-3.3-70b-versatile,0,0.163092692423,3
+Leave out llama-3.3-70b-versatile,LR,225,120,llama-3.3-70b-versatile,0,0.317781540088,2
+Leave out llama-3.3-70b-versatile,LR,226,121,llama-3.3-70b-versatile,0,0.246912374581,0
+Leave out llama-3.3-70b-versatile,LR,227,122,llama-3.3-70b-versatile,0,0.076200093461,1
+Leave out llama-3.3-70b-versatile,LR,228,124,llama-3.3-70b-versatile,0,0.251679158334,1
+Leave out llama-3.3-70b-versatile,LR,229,126,llama-3.3-70b-versatile,0,0.159813084465,3
+Leave out llama-3.3-70b-versatile,LR,230,127,llama-3.3-70b-versatile,0,0.289268355211,1
+Leave out llama-3.3-70b-versatile,LR,231,128,llama-3.3-70b-versatile,0,0.114443523486,3
+Leave out llama-3.3-70b-versatile,LR,232,129,llama-3.3-70b-versatile,0,0.208466862695,2
+Leave out llama-3.3-70b-versatile,LR,233,130,llama-3.3-70b-versatile,0,0.127080259343,3
+Leave out llama-3.3-70b-versatile,LR,234,132,llama-3.3-70b-versatile,0,0.108803512619,2
+Leave out llama-3.3-70b-versatile,LR,235,133,llama-3.3-70b-versatile,0,0.191466797509,1
+Leave out llama-3.3-70b-versatile,LR,236,134,llama-3.3-70b-versatile,0,0.362988370452,3
+Leave out llama-3.3-70b-versatile,LR,237,135,llama-3.3-70b-versatile,0,0.183666454374,3
+Leave out llama-3.3-70b-versatile,LR,238,136,llama-3.3-70b-versatile,0,0.093679103281,3
+Leave out llama-3.3-70b-versatile,LR,239,137,llama-3.3-70b-versatile,0,0.116297472904,4
+Leave out llama-3.3-70b-versatile,LR,240,138,llama-3.3-70b-versatile,0,0.070145035307,4
+Leave out llama-3.3-70b-versatile,LR,241,139,llama-3.3-70b-versatile,0,0.065760789704,4
+Leave out llama-3.3-70b-versatile,LR,242,140,llama-3.3-70b-versatile,0,0.224695668105,1
+Leave out llama-3.3-70b-versatile,LR,243,141,llama-3.3-70b-versatile,0,0.279757490936,4
+Leave out llama-3.3-70b-versatile,LR,244,142,llama-3.3-70b-versatile,0,0.145624019884,1
+Leave out llama-3.3-70b-versatile,LR,245,143,llama-3.3-70b-versatile,0,0.121602720905,2
+Leave out llama-3.3-70b-versatile,LR,246,144,llama-3.3-70b-versatile,0,0.135310109406,4
+Leave out llama-3.3-70b-versatile,LR,247,145,llama-3.3-70b-versatile,0,0.098839973689,3
+Leave out llama-3.3-70b-versatile,LR,248,146,llama-3.3-70b-versatile,0,0.038832802139,1
+Leave out llama-3.3-70b-versatile,LR,249,147,llama-3.3-70b-versatile,0,0.410110487699,0
+Leave out llama-3.3-70b-versatile,LR,250,148,llama-3.3-70b-versatile,0,0.191726485216,4
+Leave out llama-3.3-70b-versatile,LR,251,149,llama-3.3-70b-versatile,0,0.371062863903,0
+Leave out gpt-oss-20b,LR,252,1,gpt-oss-20b,0,0.266949186359,0
+Leave out gpt-oss-20b,LR,253,2,gpt-oss-20b,0,0.426962882518,4
+Leave out gpt-oss-20b,LR,254,3,gpt-oss-20b,0,0.127773523747,1
+Leave out gpt-oss-20b,LR,255,4,gpt-oss-20b,0,0.314208719015,0
+Leave out gpt-oss-20b,LR,256,5,gpt-oss-20b,1,0.024538259468,1
+Leave out gpt-oss-20b,LR,257,6,gpt-oss-20b,0,0.073796592759,2
+Leave out gpt-oss-20b,LR,258,7,gpt-oss-20b,0,0.139848103035,2
+Leave out gpt-oss-20b,LR,259,9,gpt-oss-20b,0,0.161380497657,3
+Leave out gpt-oss-20b,LR,260,10,gpt-oss-20b,0,0.136895631479,2
+Leave out gpt-oss-20b,LR,261,13,gpt-oss-20b,0,0.192028876994,1
+Leave out gpt-oss-20b,LR,262,14,gpt-oss-20b,0,0.10707952438,1
+Leave out gpt-oss-20b,LR,263,16,gpt-oss-20b,0,0.16797475186,3
+Leave out gpt-oss-20b,LR,264,17,gpt-oss-20b,0,0.064986871191,1
+Leave out gpt-oss-20b,LR,265,20,gpt-oss-20b,0,0.195430424979,4
+Leave out gpt-oss-20b,LR,266,22,gpt-oss-20b,0,0.060818596819,4
+Leave out gpt-oss-20b,LR,267,23,gpt-oss-20b,0,0.157389533484,3
+Leave out gpt-oss-20b,LR,268,24,gpt-oss-20b,0,0.13416106927,0
+Leave out gpt-oss-20b,LR,269,25,gpt-oss-20b,0,0.090474388625,0
+Leave out gpt-oss-20b,LR,270,26,gpt-oss-20b,0,0.208814908508,2
+Leave out gpt-oss-20b,LR,271,27,gpt-oss-20b,0,0.191859642515,0
+Leave out gpt-oss-20b,LR,272,28,gpt-oss-20b,0,0.149737539262,1
+Leave out gpt-oss-20b,LR,273,29,gpt-oss-20b,0,0.123137827206,0
+Leave out gpt-oss-20b,LR,274,30,gpt-oss-20b,0,0.268967840327,1
+Leave out gpt-oss-20b,LR,275,31,gpt-oss-20b,0,0.213577211309,1
+Leave out gpt-oss-20b,LR,276,32,gpt-oss-20b,0,0.077488286018,4
+Leave out gpt-oss-20b,LR,277,34,gpt-oss-20b,0,0.07190947799,3
+Leave out gpt-oss-20b,LR,278,35,gpt-oss-20b,0,0.225659510698,4
+Leave out gpt-oss-20b,LR,279,37,gpt-oss-20b,0,0.155286446953,2
+Leave out gpt-oss-20b,LR,280,39,gpt-oss-20b,0,0.135760612903,3
+Leave out gpt-oss-20b,LR,281,40,gpt-oss-20b,1,0.487186604652,4
+Leave out gpt-oss-20b,LR,282,41,gpt-oss-20b,0,0.080386337771,0
+Leave out gpt-oss-20b,LR,283,42,gpt-oss-20b,1,0.188207627108,3
+Leave out gpt-oss-20b,LR,284,43,gpt-oss-20b,0,0.150272821962,0
+Leave out gpt-oss-20b,LR,285,44,gpt-oss-20b,0,0.024276466678,1
+Leave out gpt-oss-20b,LR,286,46,gpt-oss-20b,0,0.128186637132,3
+Leave out gpt-oss-20b,LR,287,47,gpt-oss-20b,0,0.087916185481,0
+Leave out gpt-oss-20b,LR,288,48,gpt-oss-20b,0,0.098423438119,2
+Leave out gpt-oss-20b,LR,289,49,gpt-oss-20b,0,0.228423422807,2
+Leave out gpt-oss-20b,LR,290,50,gpt-oss-20b,0,0.210394492906,1
+Leave out gpt-oss-20b,LR,291,52,gpt-oss-20b,0,0.077822747659,4
+Leave out gpt-oss-20b,LR,292,53,gpt-oss-20b,0,0.099518258841,2
+Leave out gpt-oss-20b,LR,293,54,gpt-oss-20b,0,0.183247634996,4
+Leave out gpt-oss-20b,LR,294,55,gpt-oss-20b,0,0.179928636433,3
+Leave out gpt-oss-20b,LR,295,56,gpt-oss-20b,0,0.041362194779,4
+Leave out gpt-oss-20b,LR,296,57,gpt-oss-20b,0,0.092431415215,0
+Leave out gpt-oss-20b,LR,297,58,gpt-oss-20b,0,0.096939332947,2
+Leave out gpt-oss-20b,LR,298,59,gpt-oss-20b,0,0.07555076557,4
+Leave out gpt-oss-20b,LR,299,61,gpt-oss-20b,0,0.083785485558,0
+Leave out gpt-oss-20b,LR,300,62,gpt-oss-20b,0,0.204496243854,4
+Leave out gpt-oss-20b,LR,301,63,gpt-oss-20b,0,0.086894308035,3
+Leave out gpt-oss-20b,LR,302,64,gpt-oss-20b,0,0.285834149982,3
+Leave out gpt-oss-20b,LR,303,67,gpt-oss-20b,0,0.132579328501,2
+Leave out gpt-oss-20b,LR,304,68,gpt-oss-20b,0,0.171425207736,0
+Leave out gpt-oss-20b,LR,305,69,gpt-oss-20b,0,0.355204011336,0
+Leave out gpt-oss-20b,LR,306,70,gpt-oss-20b,0,0.112422765698,1
+Leave out gpt-oss-20b,LR,307,71,gpt-oss-20b,1,0.357235626712,3
+Leave out gpt-oss-20b,LR,308,72,gpt-oss-20b,0,0.35764519408,1
+Leave out gpt-oss-20b,LR,309,73,gpt-oss-20b,0,0.157169131285,4
+Leave out gpt-oss-20b,LR,310,74,gpt-oss-20b,0,0.06828302943,0
+Leave out gpt-oss-20b,LR,311,75,gpt-oss-20b,0,0.075423986788,2
+Leave out gpt-oss-20b,LR,312,76,gpt-oss-20b,0,0.169943695085,1
+Leave out gpt-oss-20b,LR,313,77,gpt-oss-20b,0,0.161871770354,3
+Leave out gpt-oss-20b,LR,314,78,gpt-oss-20b,0,0.182237623082,2
+Leave out gpt-oss-20b,LR,315,79,gpt-oss-20b,0,0.219832118864,1
+Leave out gpt-oss-20b,LR,316,80,gpt-oss-20b,0,0.066873492967,2
+Leave out gpt-oss-20b,LR,317,82,gpt-oss-20b,0,0.382770516879,4
+Leave out gpt-oss-20b,LR,318,83,gpt-oss-20b,0,0.40622978404,2
+Leave out gpt-oss-20b,LR,319,84,gpt-oss-20b,0,0.049875399011,2
+Leave out gpt-oss-20b,LR,320,85,gpt-oss-20b,0,0.087084329759,0
+Leave out gpt-oss-20b,LR,321,86,gpt-oss-20b,0,0.269919379691,1
+Leave out gpt-oss-20b,LR,322,87,gpt-oss-20b,0,0.077644880523,0
+Leave out gpt-oss-20b,LR,323,88,gpt-oss-20b,0,0.140326413342,3
+Leave out gpt-oss-20b,LR,324,89,gpt-oss-20b,0,0.115772960583,1
+Leave out gpt-oss-20b,LR,325,90,gpt-oss-20b,0,0.052414104601,2
+Leave out gpt-oss-20b,LR,326,91,gpt-oss-20b,0,0.282942733109,3
+Leave out gpt-oss-20b,LR,327,92,gpt-oss-20b,0,0.091453087149,0
+Leave out gpt-oss-20b,LR,328,93,gpt-oss-20b,0,0.095398970318,4
+Leave out gpt-oss-20b,LR,329,94,gpt-oss-20b,0,0.154348809018,4
+Leave out gpt-oss-20b,LR,330,95,gpt-oss-20b,0,0.592500195864,4
+Leave out gpt-oss-20b,LR,331,96,gpt-oss-20b,0,0.051486257694,2
+Leave out gpt-oss-20b,LR,332,97,gpt-oss-20b,0,0.134564080076,0
+Leave out gpt-oss-20b,LR,333,99,gpt-oss-20b,0,0.161473616548,4
+Leave out gpt-oss-20b,LR,334,100,gpt-oss-20b,0,0.055941701486,0
+Leave out gpt-oss-20b,LR,335,101,gpt-oss-20b,0,0.280445242575,1
+Leave out gpt-oss-20b,LR,336,102,gpt-oss-20b,0,0.079672445385,2
+Leave out gpt-oss-20b,LR,337,103,gpt-oss-20b,0,0.23221675255,0
+Leave out gpt-oss-20b,LR,338,104,gpt-oss-20b,0,0.204538865639,4
+Leave out gpt-oss-20b,LR,339,106,gpt-oss-20b,0,0.07103882201,2
+Leave out gpt-oss-20b,LR,340,107,gpt-oss-20b,0,0.127802208496,2
+Leave out gpt-oss-20b,LR,341,108,gpt-oss-20b,0,0.069641073958,1
+Leave out gpt-oss-20b,LR,342,109,gpt-oss-20b,0,0.175202875251,1
+Leave out gpt-oss-20b,LR,343,111,gpt-oss-20b,0,0.049815663884,0
+Leave out gpt-oss-20b,LR,344,112,gpt-oss-20b,0,0.074514558039,0
+Leave out gpt-oss-20b,LR,345,113,gpt-oss-20b,0,0.131295934316,4
+Leave out gpt-oss-20b,LR,346,114,gpt-oss-20b,0,0.088167158641,3
+Leave out gpt-oss-20b,LR,347,116,gpt-oss-20b,0,0.137791431796,0
+Leave out gpt-oss-20b,LR,348,117,gpt-oss-20b,0,0.22165289936,2
+Leave out gpt-oss-20b,LR,349,118,gpt-oss-20b,0,0.162679719259,3
+Leave out gpt-oss-20b,LR,350,119,gpt-oss-20b,0,0.174360258584,3
+Leave out gpt-oss-20b,LR,351,120,gpt-oss-20b,0,0.232835986818,2
+Leave out gpt-oss-20b,LR,352,121,gpt-oss-20b,0,0.155642573608,0
+Leave out gpt-oss-20b,LR,353,122,gpt-oss-20b,0,0.079130130271,1
+Leave out gpt-oss-20b,LR,354,124,gpt-oss-20b,0,0.216011149682,1
+Leave out gpt-oss-20b,LR,355,126,gpt-oss-20b,0,0.124107134846,3
+Leave out gpt-oss-20b,LR,356,127,gpt-oss-20b,0,0.237839721649,1
+Leave out gpt-oss-20b,LR,357,128,gpt-oss-20b,0,0.108019601554,3
+Leave out gpt-oss-20b,LR,358,129,gpt-oss-20b,0,0.05115612288,2
+Leave out gpt-oss-20b,LR,359,130,gpt-oss-20b,0,0.097344582193,3
+Leave out gpt-oss-20b,LR,360,132,gpt-oss-20b,0,0.104555537305,2
+Leave out gpt-oss-20b,LR,361,133,gpt-oss-20b,0,0.164419504746,1
+Leave out gpt-oss-20b,LR,362,134,gpt-oss-20b,0,0.45311312869,3
+Leave out gpt-oss-20b,LR,363,135,gpt-oss-20b,0,0.09061581245,3
+Leave out gpt-oss-20b,LR,364,136,gpt-oss-20b,0,0.075759711712,3
+Leave out gpt-oss-20b,LR,365,137,gpt-oss-20b,0,0.115795022209,4
+Leave out gpt-oss-20b,LR,366,138,gpt-oss-20b,0,0.055054765475,4
+Leave out gpt-oss-20b,LR,367,139,gpt-oss-20b,0,0.081377417726,4
+Leave out gpt-oss-20b,LR,368,140,gpt-oss-20b,0,0.190150438264,1
+Leave out gpt-oss-20b,LR,369,141,gpt-oss-20b,0,0.12365829219,4
+Leave out gpt-oss-20b,LR,370,142,gpt-oss-20b,0,0.14756637077,1
+Leave out gpt-oss-20b,LR,371,143,gpt-oss-20b,0,0.130962125483,2
+Leave out gpt-oss-20b,LR,372,144,gpt-oss-20b,1,0.143541202121,4
+Leave out gpt-oss-20b,LR,373,145,gpt-oss-20b,0,0.067157416651,3
+Leave out gpt-oss-20b,LR,374,146,gpt-oss-20b,0,0.034300456091,1
+Leave out gpt-oss-20b,LR,375,147,gpt-oss-20b,0,0.560593845597,0
+Leave out gpt-oss-20b,LR,376,148,gpt-oss-20b,0,0.106627087884,4
+Leave out gpt-oss-20b,LR,377,149,gpt-oss-20b,1,0.42705018484,0
